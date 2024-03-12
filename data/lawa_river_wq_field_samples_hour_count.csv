@@ -1,0 +1,2744 @@
+Agency,Indicator,hour,sample_count
+Auckland Council,BDISC,0,137
+Auckland Council,BDISC,1,129
+Auckland Council,BDISC,2,70
+Auckland Council,BDISC,3,5
+Auckland Council,BDISC,5,1
+Auckland Council,BDISC,6,29
+Auckland Council,BDISC,7,257
+Auckland Council,BDISC,8,703
+Auckland Council,BDISC,9,1059
+Auckland Council,BDISC,10,1112
+Auckland Council,BDISC,11,1046
+Auckland Council,BDISC,12,1077
+Auckland Council,BDISC,13,820
+Auckland Council,BDISC,14,416
+Auckland Council,BDISC,15,91
+Auckland Council,BDISC,16,10
+Auckland Council,BDISC,17,1
+Auckland Council,BDISC,18,4
+Auckland Council,BDISC,19,69
+Auckland Council,BDISC,20,144
+Auckland Council,BDISC,21,184
+Auckland Council,BDISC,22,146
+Auckland Council,BDISC,23,102
+Auckland Council,DIN,0,1013
+Auckland Council,DIN,1,765
+Auckland Council,DIN,2,369
+Auckland Council,DIN,3,91
+Auckland Council,DIN,4,10
+Auckland Council,DIN,5,1
+Auckland Council,DIN,6,2
+Auckland Council,DIN,7,1
+Auckland Council,DIN,12,9
+Auckland Council,DIN,13,3
+Auckland Council,DIN,14,1
+Auckland Council,DIN,18,27
+Auckland Council,DIN,19,248
+Auckland Council,DIN,20,642
+Auckland Council,DIN,21,978
+Auckland Council,DIN,22,1024
+Auckland Council,DIN,23,1002
+Auckland Council,DRP,0,1041
+Auckland Council,DRP,1,781
+Auckland Council,DRP,2,379
+Auckland Council,DRP,3,90
+Auckland Council,DRP,4,10
+Auckland Council,DRP,5,1
+Auckland Council,DRP,6,2
+Auckland Council,DRP,7,1
+Auckland Council,DRP,12,9
+Auckland Council,DRP,13,4
+Auckland Council,DRP,14,2
+Auckland Council,DRP,18,27
+Auckland Council,DRP,19,256
+Auckland Council,DRP,20,668
+Auckland Council,DRP,21,1010
+Auckland Council,DRP,22,1051
+Auckland Council,DRP,23,1035
+Auckland Council,ECOLI,0,994
+Auckland Council,ECOLI,1,739
+Auckland Council,ECOLI,2,341
+Auckland Council,ECOLI,3,89
+Auckland Council,ECOLI,4,10
+Auckland Council,ECOLI,12,9
+Auckland Council,ECOLI,13,4
+Auckland Council,ECOLI,14,2
+Auckland Council,ECOLI,18,29
+Auckland Council,ECOLI,19,249
+Auckland Council,ECOLI,20,612
+Auckland Council,ECOLI,21,969
+Auckland Council,ECOLI,22,1005
+Auckland Council,ECOLI,23,1001
+Auckland Council,NH4,0,1034
+Auckland Council,NH4,1,776
+Auckland Council,NH4,2,375
+Auckland Council,NH4,3,91
+Auckland Council,NH4,4,10
+Auckland Council,NH4,5,1
+Auckland Council,NH4,6,2
+Auckland Council,NH4,7,1
+Auckland Council,NH4,12,9
+Auckland Council,NH4,13,4
+Auckland Council,NH4,14,2
+Auckland Council,NH4,18,28
+Auckland Council,NH4,19,256
+Auckland Council,NH4,20,662
+Auckland Council,NH4,21,1001
+Auckland Council,NH4,22,1040
+Auckland Council,NH4,23,1034
+Auckland Council,NO3N,0,256
+Auckland Council,NO3N,1,205
+Auckland Council,NO3N,2,127
+Auckland Council,NO3N,3,49
+Auckland Council,NO3N,4,8
+Auckland Council,NO3N,12,7
+Auckland Council,NO3N,13,3
+Auckland Council,NO3N,14,2
+Auckland Council,NO3N,18,9
+Auckland Council,NO3N,19,55
+Auckland Council,NO3N,20,139
+Auckland Council,NO3N,21,229
+Auckland Council,NO3N,22,239
+Auckland Council,NO3N,23,288
+Auckland Council,PH,0,844
+Auckland Council,PH,1,634
+Auckland Council,PH,2,294
+Auckland Council,PH,3,84
+Auckland Council,PH,4,10
+Auckland Council,PH,12,7
+Auckland Council,PH,13,3
+Auckland Council,PH,14,2
+Auckland Council,PH,18,27
+Auckland Council,PH,19,196
+Auckland Council,PH,20,518
+Auckland Council,PH,21,815
+Auckland Council,PH,22,864
+Auckland Council,PH,23,909
+Auckland Council,TN,0,892
+Auckland Council,TN,1,644
+Auckland Council,TN,2,301
+Auckland Council,TN,3,85
+Auckland Council,TN,4,10
+Auckland Council,TN,12,8
+Auckland Council,TN,13,3
+Auckland Council,TN,14,2
+Auckland Council,TN,18,27
+Auckland Council,TN,19,199
+Auckland Council,TN,20,524
+Auckland Council,TN,21,828
+Auckland Council,TN,22,878
+Auckland Council,TN,23,924
+Auckland Council,TON,0,1038
+Auckland Council,TON,1,781
+Auckland Council,TON,2,380
+Auckland Council,TON,3,91
+Auckland Council,TON,4,10
+Auckland Council,TON,5,1
+Auckland Council,TON,6,2
+Auckland Council,TON,7,1
+Auckland Council,TON,12,9
+Auckland Council,TON,13,4
+Auckland Council,TON,14,2
+Auckland Council,TON,18,27
+Auckland Council,TON,19,251
+Auckland Council,TON,20,657
+Auckland Council,TON,21,1005
+Auckland Council,TON,22,1047
+Auckland Council,TON,23,1028
+Auckland Council,TP,0,1042
+Auckland Council,TP,1,783
+Auckland Council,TP,2,381
+Auckland Council,TP,3,91
+Auckland Council,TP,4,10
+Auckland Council,TP,5,1
+Auckland Council,TP,6,2
+Auckland Council,TP,7,1
+Auckland Council,TP,12,9
+Auckland Council,TP,13,4
+Auckland Council,TP,14,2
+Auckland Council,TP,18,28
+Auckland Council,TP,19,256
+Auckland Council,TP,20,668
+Auckland Council,TP,21,1011
+Auckland Council,TP,22,1051
+Auckland Council,TP,23,1036
+Auckland Council,TURB,0,1041
+Auckland Council,TURB,1,783
+Auckland Council,TURB,2,381
+Auckland Council,TURB,3,91
+Auckland Council,TURB,4,10
+Auckland Council,TURB,5,1
+Auckland Council,TURB,6,2
+Auckland Council,TURB,7,1
+Auckland Council,TURB,12,9
+Auckland Council,TURB,13,3
+Auckland Council,TURB,14,2
+Auckland Council,TURB,18,27
+Auckland Council,TURB,19,256
+Auckland Council,TURB,20,667
+Auckland Council,TURB,21,1009
+Auckland Council,TURB,22,1051
+Auckland Council,TURB,23,1034
+Bay of Plenty Regional Council,BDISC,0,614
+Bay of Plenty Regional Council,BDISC,1,501
+Bay of Plenty Regional Council,BDISC,2,351
+Bay of Plenty Regional Council,BDISC,3,132
+Bay of Plenty Regional Council,BDISC,4,30
+Bay of Plenty Regional Council,BDISC,5,2
+Bay of Plenty Regional Council,BDISC,12,81
+Bay of Plenty Regional Council,BDISC,13,4
+Bay of Plenty Regional Council,BDISC,14,1
+Bay of Plenty Regional Council,BDISC,18,1
+Bay of Plenty Regional Council,BDISC,19,15
+Bay of Plenty Regional Council,BDISC,20,207
+Bay of Plenty Regional Council,BDISC,21,600
+Bay of Plenty Regional Council,BDISC,22,867
+Bay of Plenty Regional Council,BDISC,23,789
+Bay of Plenty Regional Council,DIN,0,115
+Bay of Plenty Regional Council,DIN,1,91
+Bay of Plenty Regional Council,DIN,2,50
+Bay of Plenty Regional Council,DIN,3,31
+Bay of Plenty Regional Council,DIN,4,16
+Bay of Plenty Regional Council,DIN,5,3
+Bay of Plenty Regional Council,DIN,6,5
+Bay of Plenty Regional Council,DIN,7,1
+Bay of Plenty Regional Council,DIN,8,1
+Bay of Plenty Regional Council,DIN,9,5
+Bay of Plenty Regional Council,DIN,10,1
+Bay of Plenty Regional Council,DIN,11,4
+Bay of Plenty Regional Council,DIN,12,36
+Bay of Plenty Regional Council,DIN,13,6
+Bay of Plenty Regional Council,DIN,14,3
+Bay of Plenty Regional Council,DIN,15,2
+Bay of Plenty Regional Council,DIN,16,1
+Bay of Plenty Regional Council,DIN,17,1
+Bay of Plenty Regional Council,DIN,18,4
+Bay of Plenty Regional Council,DIN,19,4
+Bay of Plenty Regional Council,DIN,20,39
+Bay of Plenty Regional Council,DIN,21,122
+Bay of Plenty Regional Council,DIN,22,163
+Bay of Plenty Regional Council,DIN,23,143
+Bay of Plenty Regional Council,DRP,0,1091
+Bay of Plenty Regional Council,DRP,1,868
+Bay of Plenty Regional Council,DRP,2,518
+Bay of Plenty Regional Council,DRP,3,206
+Bay of Plenty Regional Council,DRP,4,50
+Bay of Plenty Regional Council,DRP,5,8
+Bay of Plenty Regional Council,DRP,6,6
+Bay of Plenty Regional Council,DRP,7,2
+Bay of Plenty Regional Council,DRP,8,2
+Bay of Plenty Regional Council,DRP,9,6
+Bay of Plenty Regional Council,DRP,10,2
+Bay of Plenty Regional Council,DRP,11,5
+Bay of Plenty Regional Council,DRP,12,197
+Bay of Plenty Regional Council,DRP,13,11
+Bay of Plenty Regional Council,DRP,14,4
+Bay of Plenty Regional Council,DRP,15,3
+Bay of Plenty Regional Council,DRP,16,2
+Bay of Plenty Regional Council,DRP,17,3
+Bay of Plenty Regional Council,DRP,18,15
+Bay of Plenty Regional Council,DRP,19,25
+Bay of Plenty Regional Council,DRP,20,325
+Bay of Plenty Regional Council,DRP,21,1045
+Bay of Plenty Regional Council,DRP,22,1578
+Bay of Plenty Regional Council,DRP,23,1360
+Bay of Plenty Regional Council,ECOLI,0,1218
+Bay of Plenty Regional Council,ECOLI,1,949
+Bay of Plenty Regional Council,ECOLI,2,561
+Bay of Plenty Regional Council,ECOLI,3,211
+Bay of Plenty Regional Council,ECOLI,4,52
+Bay of Plenty Regional Council,ECOLI,5,9
+Bay of Plenty Regional Council,ECOLI,6,3
+Bay of Plenty Regional Council,ECOLI,7,1
+Bay of Plenty Regional Council,ECOLI,8,1
+Bay of Plenty Regional Council,ECOLI,9,3
+Bay of Plenty Regional Council,ECOLI,10,1
+Bay of Plenty Regional Council,ECOLI,11,3
+Bay of Plenty Regional Council,ECOLI,12,424
+Bay of Plenty Regional Council,ECOLI,13,11
+Bay of Plenty Regional Council,ECOLI,14,2
+Bay of Plenty Regional Council,ECOLI,15,1
+Bay of Plenty Regional Council,ECOLI,16,1
+Bay of Plenty Regional Council,ECOLI,17,1
+Bay of Plenty Regional Council,ECOLI,18,11
+Bay of Plenty Regional Council,ECOLI,19,36
+Bay of Plenty Regional Council,ECOLI,20,390
+Bay of Plenty Regional Council,ECOLI,21,1214
+Bay of Plenty Regional Council,ECOLI,22,1748
+Bay of Plenty Regional Council,ECOLI,23,1505
+Bay of Plenty Regional Council,NH4,0,1099
+Bay of Plenty Regional Council,NH4,1,873
+Bay of Plenty Regional Council,NH4,2,523
+Bay of Plenty Regional Council,NH4,3,204
+Bay of Plenty Regional Council,NH4,4,50
+Bay of Plenty Regional Council,NH4,5,8
+Bay of Plenty Regional Council,NH4,6,6
+Bay of Plenty Regional Council,NH4,7,2
+Bay of Plenty Regional Council,NH4,8,2
+Bay of Plenty Regional Council,NH4,9,6
+Bay of Plenty Regional Council,NH4,10,2
+Bay of Plenty Regional Council,NH4,11,5
+Bay of Plenty Regional Council,NH4,12,197
+Bay of Plenty Regional Council,NH4,13,11
+Bay of Plenty Regional Council,NH4,14,4
+Bay of Plenty Regional Council,NH4,15,3
+Bay of Plenty Regional Council,NH4,16,2
+Bay of Plenty Regional Council,NH4,17,2
+Bay of Plenty Regional Council,NH4,18,12
+Bay of Plenty Regional Council,NH4,19,22
+Bay of Plenty Regional Council,NH4,20,325
+Bay of Plenty Regional Council,NH4,21,1055
+Bay of Plenty Regional Council,NH4,22,1594
+Bay of Plenty Regional Council,NH4,23,1380
+Bay of Plenty Regional Council,PH,0,1106
+Bay of Plenty Regional Council,PH,1,875
+Bay of Plenty Regional Council,PH,2,523
+Bay of Plenty Regional Council,PH,3,200
+Bay of Plenty Regional Council,PH,4,47
+Bay of Plenty Regional Council,PH,5,7
+Bay of Plenty Regional Council,PH,6,4
+Bay of Plenty Regional Council,PH,7,1
+Bay of Plenty Regional Council,PH,8,1
+Bay of Plenty Regional Council,PH,9,4
+Bay of Plenty Regional Council,PH,10,1
+Bay of Plenty Regional Council,PH,11,3
+Bay of Plenty Regional Council,PH,12,177
+Bay of Plenty Regional Council,PH,13,10
+Bay of Plenty Regional Council,PH,14,2
+Bay of Plenty Regional Council,PH,15,2
+Bay of Plenty Regional Council,PH,16,1
+Bay of Plenty Regional Council,PH,17,1
+Bay of Plenty Regional Council,PH,18,8
+Bay of Plenty Regional Council,PH,19,20
+Bay of Plenty Regional Council,PH,20,327
+Bay of Plenty Regional Council,PH,21,1063
+Bay of Plenty Regional Council,PH,22,1594
+Bay of Plenty Regional Council,PH,23,1386
+Bay of Plenty Regional Council,TN,0,890
+Bay of Plenty Regional Council,TN,1,718
+Bay of Plenty Regional Council,TN,2,414
+Bay of Plenty Regional Council,TN,3,164
+Bay of Plenty Regional Council,TN,4,46
+Bay of Plenty Regional Council,TN,5,8
+Bay of Plenty Regional Council,TN,6,6
+Bay of Plenty Regional Council,TN,7,2
+Bay of Plenty Regional Council,TN,8,2
+Bay of Plenty Regional Council,TN,9,6
+Bay of Plenty Regional Council,TN,10,2
+Bay of Plenty Regional Council,TN,11,5
+Bay of Plenty Regional Council,TN,12,171
+Bay of Plenty Regional Council,TN,13,11
+Bay of Plenty Regional Council,TN,14,4
+Bay of Plenty Regional Council,TN,15,3
+Bay of Plenty Regional Council,TN,16,2
+Bay of Plenty Regional Council,TN,17,2
+Bay of Plenty Regional Council,TN,18,8
+Bay of Plenty Regional Council,TN,19,19
+Bay of Plenty Regional Council,TN,20,276
+Bay of Plenty Regional Council,TN,21,867
+Bay of Plenty Regional Council,TN,22,1286
+Bay of Plenty Regional Council,TN,23,1127
+Bay of Plenty Regional Council,TON,0,1108
+Bay of Plenty Regional Council,TON,1,878
+Bay of Plenty Regional Council,TON,2,523
+Bay of Plenty Regional Council,TON,3,202
+Bay of Plenty Regional Council,TON,4,50
+Bay of Plenty Regional Council,TON,5,8
+Bay of Plenty Regional Council,TON,6,6
+Bay of Plenty Regional Council,TON,7,2
+Bay of Plenty Regional Council,TON,8,2
+Bay of Plenty Regional Council,TON,9,6
+Bay of Plenty Regional Council,TON,10,2
+Bay of Plenty Regional Council,TON,11,5
+Bay of Plenty Regional Council,TON,12,200
+Bay of Plenty Regional Council,TON,13,11
+Bay of Plenty Regional Council,TON,14,4
+Bay of Plenty Regional Council,TON,15,3
+Bay of Plenty Regional Council,TON,16,2
+Bay of Plenty Regional Council,TON,17,3
+Bay of Plenty Regional Council,TON,18,16
+Bay of Plenty Regional Council,TON,19,25
+Bay of Plenty Regional Council,TON,20,330
+Bay of Plenty Regional Council,TON,21,1063
+Bay of Plenty Regional Council,TON,22,1594
+Bay of Plenty Regional Council,TON,23,1395
+Bay of Plenty Regional Council,TP,0,1105
+Bay of Plenty Regional Council,TP,1,877
+Bay of Plenty Regional Council,TP,2,523
+Bay of Plenty Regional Council,TP,3,205
+Bay of Plenty Regional Council,TP,4,50
+Bay of Plenty Regional Council,TP,5,8
+Bay of Plenty Regional Council,TP,6,6
+Bay of Plenty Regional Council,TP,7,2
+Bay of Plenty Regional Council,TP,8,2
+Bay of Plenty Regional Council,TP,9,6
+Bay of Plenty Regional Council,TP,10,2
+Bay of Plenty Regional Council,TP,11,5
+Bay of Plenty Regional Council,TP,12,198
+Bay of Plenty Regional Council,TP,13,11
+Bay of Plenty Regional Council,TP,14,4
+Bay of Plenty Regional Council,TP,15,3
+Bay of Plenty Regional Council,TP,16,2
+Bay of Plenty Regional Council,TP,17,2
+Bay of Plenty Regional Council,TP,18,11
+Bay of Plenty Regional Council,TP,19,21
+Bay of Plenty Regional Council,TP,20,330
+Bay of Plenty Regional Council,TP,21,1067
+Bay of Plenty Regional Council,TP,22,1599
+Bay of Plenty Regional Council,TP,23,1396
+Bay of Plenty Regional Council,TURB,0,1130
+Bay of Plenty Regional Council,TURB,1,892
+Bay of Plenty Regional Council,TURB,2,536
+Bay of Plenty Regional Council,TURB,3,216
+Bay of Plenty Regional Council,TURB,4,52
+Bay of Plenty Regional Council,TURB,5,10
+Bay of Plenty Regional Council,TURB,6,8
+Bay of Plenty Regional Council,TURB,7,1
+Bay of Plenty Regional Council,TURB,8,2
+Bay of Plenty Regional Council,TURB,9,7
+Bay of Plenty Regional Council,TURB,10,3
+Bay of Plenty Regional Council,TURB,11,6
+Bay of Plenty Regional Council,TURB,12,206
+Bay of Plenty Regional Council,TURB,13,10
+Bay of Plenty Regional Council,TURB,14,3
+Bay of Plenty Regional Council,TURB,15,7
+Bay of Plenty Regional Council,TURB,16,1
+Bay of Plenty Regional Council,TURB,17,5
+Bay of Plenty Regional Council,TURB,18,18
+Bay of Plenty Regional Council,TURB,19,32
+Bay of Plenty Regional Council,TURB,20,340
+Bay of Plenty Regional Council,TURB,21,1092
+Bay of Plenty Regional Council,TURB,22,1619
+Bay of Plenty Regional Council,TURB,23,1427
+Environment Canterbury,BDISC,0,7
+Environment Canterbury,BDISC,1,2
+Environment Canterbury,BDISC,5,2
+Environment Canterbury,BDISC,6,19
+Environment Canterbury,BDISC,7,323
+Environment Canterbury,BDISC,8,1076
+Environment Canterbury,BDISC,9,1887
+Environment Canterbury,BDISC,10,2247
+Environment Canterbury,BDISC,11,2113
+Environment Canterbury,BDISC,12,1732
+Environment Canterbury,BDISC,13,926
+Environment Canterbury,BDISC,14,290
+Environment Canterbury,BDISC,15,94
+Environment Canterbury,BDISC,16,30
+Environment Canterbury,BDISC,17,4
+Environment Canterbury,BDISC,20,2
+Environment Canterbury,BDISC,21,3
+Environment Canterbury,BDISC,22,2
+Environment Canterbury,BDISC,23,2
+Environment Canterbury,DIN,0,95
+Environment Canterbury,DIN,1,2
+Environment Canterbury,DIN,5,2
+Environment Canterbury,DIN,6,24
+Environment Canterbury,DIN,7,440
+Environment Canterbury,DIN,8,1598
+Environment Canterbury,DIN,9,2957
+Environment Canterbury,DIN,10,3787
+Environment Canterbury,DIN,11,3499
+Environment Canterbury,DIN,12,2915
+Environment Canterbury,DIN,13,1725
+Environment Canterbury,DIN,14,567
+Environment Canterbury,DIN,15,158
+Environment Canterbury,DIN,16,47
+Environment Canterbury,DIN,17,5
+Environment Canterbury,DIN,20,2
+Environment Canterbury,DIN,21,3
+Environment Canterbury,DIN,22,2
+Environment Canterbury,DIN,23,2
+Environment Canterbury,DRP,0,57
+Environment Canterbury,DRP,1,2
+Environment Canterbury,DRP,5,2
+Environment Canterbury,DRP,6,25
+Environment Canterbury,DRP,7,446
+Environment Canterbury,DRP,8,1602
+Environment Canterbury,DRP,9,2963
+Environment Canterbury,DRP,10,3795
+Environment Canterbury,DRP,11,3504
+Environment Canterbury,DRP,12,2923
+Environment Canterbury,DRP,13,1729
+Environment Canterbury,DRP,14,574
+Environment Canterbury,DRP,15,163
+Environment Canterbury,DRP,16,50
+Environment Canterbury,DRP,17,5
+Environment Canterbury,DRP,20,2
+Environment Canterbury,DRP,21,3
+Environment Canterbury,DRP,22,2
+Environment Canterbury,DRP,23,2
+Environment Canterbury,ECOLI,0,87
+Environment Canterbury,ECOLI,1,2
+Environment Canterbury,ECOLI,5,2
+Environment Canterbury,ECOLI,6,25
+Environment Canterbury,ECOLI,7,446
+Environment Canterbury,ECOLI,8,1598
+Environment Canterbury,ECOLI,9,2932
+Environment Canterbury,ECOLI,10,3701
+Environment Canterbury,ECOLI,11,3392
+Environment Canterbury,ECOLI,12,2836
+Environment Canterbury,ECOLI,13,1692
+Environment Canterbury,ECOLI,14,566
+Environment Canterbury,ECOLI,15,162
+Environment Canterbury,ECOLI,16,50
+Environment Canterbury,ECOLI,17,5
+Environment Canterbury,ECOLI,20,2
+Environment Canterbury,ECOLI,21,3
+Environment Canterbury,ECOLI,22,2
+Environment Canterbury,ECOLI,23,2
+Environment Canterbury,NH4,0,95
+Environment Canterbury,NH4,1,2
+Environment Canterbury,NH4,5,2
+Environment Canterbury,NH4,6,25
+Environment Canterbury,NH4,7,445
+Environment Canterbury,NH4,8,1602
+Environment Canterbury,NH4,9,2964
+Environment Canterbury,NH4,10,3794
+Environment Canterbury,NH4,11,3505
+Environment Canterbury,NH4,12,2922
+Environment Canterbury,NH4,13,1730
+Environment Canterbury,NH4,14,574
+Environment Canterbury,NH4,15,163
+Environment Canterbury,NH4,16,50
+Environment Canterbury,NH4,17,5
+Environment Canterbury,NH4,20,2
+Environment Canterbury,NH4,21,3
+Environment Canterbury,NH4,22,2
+Environment Canterbury,NH4,23,2
+Environment Canterbury,NO3N,0,4
+Environment Canterbury,NO3N,8,9
+Environment Canterbury,NO3N,9,20
+Environment Canterbury,NO3N,10,30
+Environment Canterbury,NO3N,11,30
+Environment Canterbury,NO3N,12,33
+Environment Canterbury,NO3N,13,19
+Environment Canterbury,NO3N,14,5
+Environment Canterbury,NO3N,15,1
+Environment Canterbury,NO3N,16,2
+Environment Canterbury,PH,0,94
+Environment Canterbury,PH,1,2
+Environment Canterbury,PH,5,2
+Environment Canterbury,PH,6,25
+Environment Canterbury,PH,7,442
+Environment Canterbury,PH,8,1582
+Environment Canterbury,PH,9,2921
+Environment Canterbury,PH,10,3694
+Environment Canterbury,PH,11,3372
+Environment Canterbury,PH,12,2829
+Environment Canterbury,PH,13,1666
+Environment Canterbury,PH,14,552
+Environment Canterbury,PH,15,160
+Environment Canterbury,PH,16,49
+Environment Canterbury,PH,17,5
+Environment Canterbury,PH,20,2
+Environment Canterbury,PH,21,3
+Environment Canterbury,PH,22,2
+Environment Canterbury,PH,23,2
+Environment Canterbury,TN,0,95
+Environment Canterbury,TN,1,2
+Environment Canterbury,TN,5,2
+Environment Canterbury,TN,6,25
+Environment Canterbury,TN,7,446
+Environment Canterbury,TN,8,1600
+Environment Canterbury,TN,9,2964
+Environment Canterbury,TN,10,3795
+Environment Canterbury,TN,11,3505
+Environment Canterbury,TN,12,2924
+Environment Canterbury,TN,13,1731
+Environment Canterbury,TN,14,574
+Environment Canterbury,TN,15,163
+Environment Canterbury,TN,16,50
+Environment Canterbury,TN,17,5
+Environment Canterbury,TN,20,2
+Environment Canterbury,TN,21,3
+Environment Canterbury,TN,22,2
+Environment Canterbury,TN,23,2
+Environment Canterbury,TON,0,95
+Environment Canterbury,TON,1,2
+Environment Canterbury,TON,5,2
+Environment Canterbury,TON,6,25
+Environment Canterbury,TON,7,446
+Environment Canterbury,TON,8,1602
+Environment Canterbury,TON,9,2964
+Environment Canterbury,TON,10,3795
+Environment Canterbury,TON,11,3505
+Environment Canterbury,TON,12,2924
+Environment Canterbury,TON,13,1730
+Environment Canterbury,TON,14,574
+Environment Canterbury,TON,15,163
+Environment Canterbury,TON,16,50
+Environment Canterbury,TON,17,5
+Environment Canterbury,TON,20,2
+Environment Canterbury,TON,21,3
+Environment Canterbury,TON,22,2
+Environment Canterbury,TON,23,2
+Environment Canterbury,TP,0,95
+Environment Canterbury,TP,1,2
+Environment Canterbury,TP,5,2
+Environment Canterbury,TP,6,24
+Environment Canterbury,TP,7,446
+Environment Canterbury,TP,8,1600
+Environment Canterbury,TP,9,2965
+Environment Canterbury,TP,10,3792
+Environment Canterbury,TP,11,3505
+Environment Canterbury,TP,12,2924
+Environment Canterbury,TP,13,1731
+Environment Canterbury,TP,14,574
+Environment Canterbury,TP,15,163
+Environment Canterbury,TP,16,50
+Environment Canterbury,TP,17,5
+Environment Canterbury,TP,20,2
+Environment Canterbury,TP,21,3
+Environment Canterbury,TP,22,2
+Environment Canterbury,TP,23,2
+Environment Canterbury,TURB,0,94
+Environment Canterbury,TURB,1,2
+Environment Canterbury,TURB,5,2
+Environment Canterbury,TURB,6,25
+Environment Canterbury,TURB,7,446
+Environment Canterbury,TURB,8,1601
+Environment Canterbury,TURB,9,2959
+Environment Canterbury,TURB,10,3764
+Environment Canterbury,TURB,11,3459
+Environment Canterbury,TURB,12,2886
+Environment Canterbury,TURB,13,1713
+Environment Canterbury,TURB,14,572
+Environment Canterbury,TURB,15,163
+Environment Canterbury,TURB,16,50
+Environment Canterbury,TURB,17,5
+Environment Canterbury,TURB,20,2
+Environment Canterbury,TURB,21,3
+Environment Canterbury,TURB,22,2
+Environment Canterbury,TURB,23,2
+Environment Southland,BDISC,0,2
+Environment Southland,BDISC,5,1
+Environment Southland,BDISC,6,15
+Environment Southland,BDISC,7,182
+Environment Southland,BDISC,8,856
+Environment Southland,BDISC,9,1719
+Environment Southland,BDISC,10,2288
+Environment Southland,BDISC,11,2397
+Environment Southland,BDISC,12,1982
+Environment Southland,BDISC,13,1407
+Environment Southland,BDISC,14,550
+Environment Southland,BDISC,15,85
+Environment Southland,BDISC,16,2
+Environment Southland,DIN,0,4
+Environment Southland,DIN,4,7
+Environment Southland,DIN,5,41
+Environment Southland,DIN,6,132
+Environment Southland,DIN,7,447
+Environment Southland,DIN,8,1414
+Environment Southland,DIN,9,2499
+Environment Southland,DIN,10,3115
+Environment Southland,DIN,11,3011
+Environment Southland,DIN,12,2328
+Environment Southland,DIN,13,1548
+Environment Southland,DIN,14,604
+Environment Southland,DIN,15,98
+Environment Southland,DIN,16,11
+Environment Southland,DIN,17,4
+Environment Southland,DIN,18,1
+Environment Southland,DIN,19,1
+Environment Southland,DRP,0,3
+Environment Southland,DRP,5,1
+Environment Southland,DRP,6,15
+Environment Southland,DRP,7,187
+Environment Southland,DRP,8,905
+Environment Southland,DRP,9,1854
+Environment Southland,DRP,10,2460
+Environment Southland,DRP,11,2561
+Environment Southland,DRP,12,2161
+Environment Southland,DRP,13,1493
+Environment Southland,DRP,14,579
+Environment Southland,DRP,15,88
+Environment Southland,DRP,16,2
+Environment Southland,DRP,17,1
+Environment Southland,ECOLI,0,3
+Environment Southland,ECOLI,5,1
+Environment Southland,ECOLI,6,18
+Environment Southland,ECOLI,7,199
+Environment Southland,ECOLI,8,918
+Environment Southland,ECOLI,9,1881
+Environment Southland,ECOLI,10,2517
+Environment Southland,ECOLI,11,2687
+Environment Southland,ECOLI,12,2291
+Environment Southland,ECOLI,13,1596
+Environment Southland,ECOLI,14,625
+Environment Southland,ECOLI,15,99
+Environment Southland,ECOLI,16,2
+Environment Southland,ECOLI,17,1
+Environment Southland,NH4,0,3
+Environment Southland,NH4,5,1
+Environment Southland,NH4,6,18
+Environment Southland,NH4,7,192
+Environment Southland,NH4,8,907
+Environment Southland,NH4,9,1857
+Environment Southland,NH4,10,2461
+Environment Southland,NH4,11,2563
+Environment Southland,NH4,12,2164
+Environment Southland,NH4,13,1494
+Environment Southland,NH4,14,579
+Environment Southland,NH4,15,88
+Environment Southland,NH4,16,2
+Environment Southland,NH4,17,1
+Environment Southland,NO3N,0,3
+Environment Southland,NO3N,6,1
+Environment Southland,NO3N,7,73
+Environment Southland,NO3N,8,376
+Environment Southland,NO3N,9,891
+Environment Southland,NO3N,10,1359
+Environment Southland,NO3N,11,1500
+Environment Southland,NO3N,12,1417
+Environment Southland,NO3N,13,1137
+Environment Southland,NO3N,14,483
+Environment Southland,NO3N,15,73
+Environment Southland,NO3N,16,2
+Environment Southland,PH,0,3
+Environment Southland,PH,5,1
+Environment Southland,PH,6,18
+Environment Southland,PH,7,192
+Environment Southland,PH,8,908
+Environment Southland,PH,9,1856
+Environment Southland,PH,10,2460
+Environment Southland,PH,11,2569
+Environment Southland,PH,12,2165
+Environment Southland,PH,13,1495
+Environment Southland,PH,14,579
+Environment Southland,PH,15,90
+Environment Southland,PH,16,2
+Environment Southland,PH,17,1
+Environment Southland,TN,0,3
+Environment Southland,TN,5,1
+Environment Southland,TN,6,18
+Environment Southland,TN,7,192
+Environment Southland,TN,8,908
+Environment Southland,TN,9,1855
+Environment Southland,TN,10,2459
+Environment Southland,TN,11,2562
+Environment Southland,TN,12,2163
+Environment Southland,TN,13,1494
+Environment Southland,TN,14,579
+Environment Southland,TN,15,88
+Environment Southland,TN,16,2
+Environment Southland,TN,17,1
+Environment Southland,TON,0,4
+Environment Southland,TON,5,1
+Environment Southland,TON,6,18
+Environment Southland,TON,7,192
+Environment Southland,TON,8,907
+Environment Southland,TON,9,1856
+Environment Southland,TON,10,2461
+Environment Southland,TON,11,2563
+Environment Southland,TON,12,2165
+Environment Southland,TON,13,1493
+Environment Southland,TON,14,578
+Environment Southland,TON,15,88
+Environment Southland,TON,16,2
+Environment Southland,TON,17,1
+Environment Southland,TP,0,3
+Environment Southland,TP,5,1
+Environment Southland,TP,6,15
+Environment Southland,TP,7,188
+Environment Southland,TP,8,907
+Environment Southland,TP,9,1854
+Environment Southland,TP,10,2460
+Environment Southland,TP,11,2563
+Environment Southland,TP,12,2163
+Environment Southland,TP,13,1494
+Environment Southland,TP,14,579
+Environment Southland,TP,15,88
+Environment Southland,TP,16,2
+Environment Southland,TP,17,1
+Environment Southland,TURB,0,3
+Environment Southland,TURB,5,1
+Environment Southland,TURB,6,15
+Environment Southland,TURB,7,184
+Environment Southland,TURB,8,864
+Environment Southland,TURB,9,1762
+Environment Southland,TURB,10,2336
+Environment Southland,TURB,11,2461
+Environment Southland,TURB,12,2074
+Environment Southland,TURB,13,1465
+Environment Southland,TURB,14,574
+Environment Southland,TURB,15,86
+Environment Southland,TURB,16,2
+Environment Southland,TURB,17,1
+Gisborne District Council,BDISC,6,9
+Gisborne District Council,BDISC,7,89
+Gisborne District Council,BDISC,8,275
+Gisborne District Council,BDISC,9,400
+Gisborne District Council,BDISC,10,414
+Gisborne District Council,BDISC,11,310
+Gisborne District Council,BDISC,12,171
+Gisborne District Council,BDISC,13,97
+Gisborne District Council,BDISC,14,27
+Gisborne District Council,BDISC,15,3
+Gisborne District Council,DIN,0,1
+Gisborne District Council,DIN,1,1
+Gisborne District Council,DIN,6,10
+Gisborne District Council,DIN,7,105
+Gisborne District Council,DIN,8,407
+Gisborne District Council,DIN,9,640
+Gisborne District Council,DIN,10,640
+Gisborne District Council,DIN,11,490
+Gisborne District Council,DIN,12,294
+Gisborne District Council,DIN,13,158
+Gisborne District Council,DIN,14,53
+Gisborne District Council,DIN,15,6
+Gisborne District Council,DRP,0,5
+Gisborne District Council,DRP,1,2
+Gisborne District Council,DRP,3,1
+Gisborne District Council,DRP,4,6
+Gisborne District Council,DRP,5,4
+Gisborne District Council,DRP,6,78
+Gisborne District Council,DRP,7,532
+Gisborne District Council,DRP,8,1146
+Gisborne District Council,DRP,9,1440
+Gisborne District Council,DRP,10,1230
+Gisborne District Council,DRP,11,833
+Gisborne District Council,DRP,12,441
+Gisborne District Council,DRP,13,188
+Gisborne District Council,DRP,14,63
+Gisborne District Council,DRP,15,8
+Gisborne District Council,ECOLI,0,6
+Gisborne District Council,ECOLI,1,1
+Gisborne District Council,ECOLI,2,1
+Gisborne District Council,ECOLI,4,4
+Gisborne District Council,ECOLI,5,6
+Gisborne District Council,ECOLI,6,89
+Gisborne District Council,ECOLI,7,607
+Gisborne District Council,ECOLI,8,1355
+Gisborne District Council,ECOLI,9,1707
+Gisborne District Council,ECOLI,10,1339
+Gisborne District Council,ECOLI,11,898
+Gisborne District Council,ECOLI,12,483
+Gisborne District Council,ECOLI,13,212
+Gisborne District Council,ECOLI,14,68
+Gisborne District Council,ECOLI,15,10
+Gisborne District Council,ECOLI,16,1
+Gisborne District Council,ECOLI,17,1
+Gisborne District Council,ECOLI,19,1
+Gisborne District Council,NH4,0,5
+Gisborne District Council,NH4,1,2
+Gisborne District Council,NH4,3,1
+Gisborne District Council,NH4,4,6
+Gisborne District Council,NH4,5,5
+Gisborne District Council,NH4,6,82
+Gisborne District Council,NH4,7,541
+Gisborne District Council,NH4,8,1164
+Gisborne District Council,NH4,9,1477
+Gisborne District Council,NH4,10,1264
+Gisborne District Council,NH4,11,857
+Gisborne District Council,NH4,12,451
+Gisborne District Council,NH4,13,190
+Gisborne District Council,NH4,14,62
+Gisborne District Council,NH4,15,8
+Gisborne District Council,NO3N,0,5
+Gisborne District Council,NO3N,1,2
+Gisborne District Council,NO3N,3,1
+Gisborne District Council,NO3N,4,6
+Gisborne District Council,NO3N,5,2
+Gisborne District Council,NO3N,6,36
+Gisborne District Council,NO3N,7,393
+Gisborne District Council,NO3N,8,969
+Gisborne District Council,NO3N,9,1256
+Gisborne District Council,NO3N,10,1094
+Gisborne District Council,NO3N,11,702
+Gisborne District Council,NO3N,12,389
+Gisborne District Council,NO3N,13,186
+Gisborne District Council,NO3N,14,61
+Gisborne District Council,NO3N,15,8
+Gisborne District Council,PH,0,32
+Gisborne District Council,PH,1,2
+Gisborne District Council,PH,4,5
+Gisborne District Council,PH,5,4
+Gisborne District Council,PH,6,86
+Gisborne District Council,PH,7,604
+Gisborne District Council,PH,8,1284
+Gisborne District Council,PH,9,1557
+Gisborne District Council,PH,10,1274
+Gisborne District Council,PH,11,858
+Gisborne District Council,PH,12,455
+Gisborne District Council,PH,13,197
+Gisborne District Council,PH,14,67
+Gisborne District Council,PH,15,10
+Gisborne District Council,PH,16,1
+Gisborne District Council,PH,17,1
+Gisborne District Council,TN,0,2
+Gisborne District Council,TN,1,1
+Gisborne District Council,TN,4,5
+Gisborne District Council,TN,6,16
+Gisborne District Council,TN,7,162
+Gisborne District Council,TN,8,492
+Gisborne District Council,TN,9,798
+Gisborne District Council,TN,10,796
+Gisborne District Council,TN,11,594
+Gisborne District Council,TN,12,371
+Gisborne District Council,TN,13,185
+Gisborne District Council,TN,14,62
+Gisborne District Council,TN,15,8
+Gisborne District Council,TON,0,2
+Gisborne District Council,TON,1,1
+Gisborne District Council,TON,4,5
+Gisborne District Council,TON,6,10
+Gisborne District Council,TON,7,122
+Gisborne District Council,TON,8,458
+Gisborne District Council,TON,9,764
+Gisborne District Council,TON,10,777
+Gisborne District Council,TON,11,580
+Gisborne District Council,TON,12,366
+Gisborne District Council,TON,13,182
+Gisborne District Council,TON,14,62
+Gisborne District Council,TON,15,8
+Gisborne District Council,TP,0,2
+Gisborne District Council,TP,1,1
+Gisborne District Council,TP,4,5
+Gisborne District Council,TP,6,16
+Gisborne District Council,TP,7,161
+Gisborne District Council,TP,8,498
+Gisborne District Council,TP,9,799
+Gisborne District Council,TP,10,799
+Gisborne District Council,TP,11,599
+Gisborne District Council,TP,12,369
+Gisborne District Council,TP,13,185
+Gisborne District Council,TP,14,62
+Gisborne District Council,TP,15,8
+Gisborne District Council,TURB,0,5
+Gisborne District Council,TURB,1,2
+Gisborne District Council,TURB,3,1
+Gisborne District Council,TURB,4,2
+Gisborne District Council,TURB,5,5
+Gisborne District Council,TURB,6,87
+Gisborne District Council,TURB,7,562
+Gisborne District Council,TURB,8,1154
+Gisborne District Council,TURB,9,1401
+Gisborne District Council,TURB,10,1166
+Gisborne District Council,TURB,11,777
+Gisborne District Council,TURB,12,399
+Gisborne District Council,TURB,13,166
+Gisborne District Council,TURB,14,55
+Gisborne District Council,TURB,15,7
+Gisborne District Council,TURB,16,3
+Gisborne District Council,TURB,17,1
+Gisborne District Council,TURB,22,1
+Gisborne District Council,TURBFNU,1,1
+Gisborne District Council,TURBFNU,6,9
+Gisborne District Council,TURBFNU,7,75
+Gisborne District Council,TURBFNU,8,194
+Gisborne District Council,TURBFNU,9,313
+Gisborne District Council,TURBFNU,10,319
+Gisborne District Council,TURBFNU,11,235
+Gisborne District Council,TURBFNU,12,138
+Gisborne District Council,TURBFNU,13,67
+Gisborne District Council,TURBFNU,14,21
+Gisborne District Council,TURBFNU,15,1
+Greater Wellington Regional Council,BDISC,0,41
+Greater Wellington Regional Council,BDISC,6,2
+Greater Wellington Regional Council,BDISC,7,33
+Greater Wellington Regional Council,BDISC,8,945
+Greater Wellington Regional Council,BDISC,9,1487
+Greater Wellington Regional Council,BDISC,10,1584
+Greater Wellington Regional Council,BDISC,11,1496
+Greater Wellington Regional Council,BDISC,12,1326
+Greater Wellington Regional Council,BDISC,13,1262
+Greater Wellington Regional Council,BDISC,14,813
+Greater Wellington Regional Council,BDISC,15,331
+Greater Wellington Regional Council,BDISC,16,23
+Greater Wellington Regional Council,BDISC,17,1
+Greater Wellington Regional Council,BDISC,22,1
+Greater Wellington Regional Council,BDISC,23,1
+Greater Wellington Regional Council,DIN,0,1
+Greater Wellington Regional Council,DIN,6,2
+Greater Wellington Regional Council,DIN,7,31
+Greater Wellington Regional Council,DIN,8,945
+Greater Wellington Regional Council,DIN,9,1481
+Greater Wellington Regional Council,DIN,10,1586
+Greater Wellington Regional Council,DIN,11,1505
+Greater Wellington Regional Council,DIN,12,1324
+Greater Wellington Regional Council,DIN,13,1256
+Greater Wellington Regional Council,DIN,14,810
+Greater Wellington Regional Council,DIN,15,328
+Greater Wellington Regional Council,DIN,16,22
+Greater Wellington Regional Council,DIN,17,1
+Greater Wellington Regional Council,DIN,23,1
+Greater Wellington Regional Council,DRP,0,1
+Greater Wellington Regional Council,DRP,6,2
+Greater Wellington Regional Council,DRP,7,31
+Greater Wellington Regional Council,DRP,8,950
+Greater Wellington Regional Council,DRP,9,1489
+Greater Wellington Regional Council,DRP,10,1585
+Greater Wellington Regional Council,DRP,11,1504
+Greater Wellington Regional Council,DRP,12,1324
+Greater Wellington Regional Council,DRP,13,1256
+Greater Wellington Regional Council,DRP,14,811
+Greater Wellington Regional Council,DRP,15,328
+Greater Wellington Regional Council,DRP,16,22
+Greater Wellington Regional Council,DRP,17,1
+Greater Wellington Regional Council,DRP,23,1
+Greater Wellington Regional Council,ECOLI,0,1
+Greater Wellington Regional Council,ECOLI,6,2
+Greater Wellington Regional Council,ECOLI,7,31
+Greater Wellington Regional Council,ECOLI,8,948
+Greater Wellington Regional Council,ECOLI,9,1487
+Greater Wellington Regional Council,ECOLI,10,1584
+Greater Wellington Regional Council,ECOLI,11,1504
+Greater Wellington Regional Council,ECOLI,12,1324
+Greater Wellington Regional Council,ECOLI,13,1254
+Greater Wellington Regional Council,ECOLI,14,810
+Greater Wellington Regional Council,ECOLI,15,328
+Greater Wellington Regional Council,ECOLI,16,22
+Greater Wellington Regional Council,ECOLI,17,1
+Greater Wellington Regional Council,ECOLI,23,1
+Greater Wellington Regional Council,NH4,0,1
+Greater Wellington Regional Council,NH4,6,2
+Greater Wellington Regional Council,NH4,7,31
+Greater Wellington Regional Council,NH4,8,951
+Greater Wellington Regional Council,NH4,9,1489
+Greater Wellington Regional Council,NH4,10,1586
+Greater Wellington Regional Council,NH4,11,1505
+Greater Wellington Regional Council,NH4,12,1324
+Greater Wellington Regional Council,NH4,13,1256
+Greater Wellington Regional Council,NH4,14,810
+Greater Wellington Regional Council,NH4,15,328
+Greater Wellington Regional Council,NH4,16,22
+Greater Wellington Regional Council,NH4,17,1
+Greater Wellington Regional Council,NH4,23,1
+Greater Wellington Regional Council,NO3N,0,1
+Greater Wellington Regional Council,NO3N,6,2
+Greater Wellington Regional Council,NO3N,7,31
+Greater Wellington Regional Council,NO3N,8,951
+Greater Wellington Regional Council,NO3N,9,1487
+Greater Wellington Regional Council,NO3N,10,1586
+Greater Wellington Regional Council,NO3N,11,1505
+Greater Wellington Regional Council,NO3N,12,1324
+Greater Wellington Regional Council,NO3N,13,1256
+Greater Wellington Regional Council,NO3N,14,811
+Greater Wellington Regional Council,NO3N,15,328
+Greater Wellington Regional Council,NO3N,16,22
+Greater Wellington Regional Council,NO3N,17,1
+Greater Wellington Regional Council,NO3N,23,1
+Greater Wellington Regional Council,PH,0,1
+Greater Wellington Regional Council,PH,6,2
+Greater Wellington Regional Council,PH,7,32
+Greater Wellington Regional Council,PH,8,1098
+Greater Wellington Regional Council,PH,9,1657
+Greater Wellington Regional Council,PH,10,1742
+Greater Wellington Regional Council,PH,11,1661
+Greater Wellington Regional Council,PH,12,1484
+Greater Wellington Regional Council,PH,13,1413
+Greater Wellington Regional Council,PH,14,911
+Greater Wellington Regional Council,PH,15,353
+Greater Wellington Regional Council,PH,16,21
+Greater Wellington Regional Council,PH,17,1
+Greater Wellington Regional Council,PH,23,1
+Greater Wellington Regional Council,TN,0,1
+Greater Wellington Regional Council,TN,6,2
+Greater Wellington Regional Council,TN,7,31
+Greater Wellington Regional Council,TN,8,951
+Greater Wellington Regional Council,TN,9,1489
+Greater Wellington Regional Council,TN,10,1586
+Greater Wellington Regional Council,TN,11,1506
+Greater Wellington Regional Council,TN,12,1326
+Greater Wellington Regional Council,TN,13,1257
+Greater Wellington Regional Council,TN,14,811
+Greater Wellington Regional Council,TN,15,329
+Greater Wellington Regional Council,TN,16,22
+Greater Wellington Regional Council,TN,17,1
+Greater Wellington Regional Council,TN,23,1
+Greater Wellington Regional Council,TON,0,1
+Greater Wellington Regional Council,TON,6,2
+Greater Wellington Regional Council,TON,7,31
+Greater Wellington Regional Council,TON,8,950
+Greater Wellington Regional Council,TON,9,1489
+Greater Wellington Regional Council,TON,10,1586
+Greater Wellington Regional Council,TON,11,1506
+Greater Wellington Regional Council,TON,12,1325
+Greater Wellington Regional Council,TON,13,1257
+Greater Wellington Regional Council,TON,14,811
+Greater Wellington Regional Council,TON,15,329
+Greater Wellington Regional Council,TON,16,22
+Greater Wellington Regional Council,TON,17,1
+Greater Wellington Regional Council,TON,23,1
+Greater Wellington Regional Council,TP,0,1
+Greater Wellington Regional Council,TP,6,2
+Greater Wellington Regional Council,TP,7,31
+Greater Wellington Regional Council,TP,8,951
+Greater Wellington Regional Council,TP,9,1489
+Greater Wellington Regional Council,TP,10,1586
+Greater Wellington Regional Council,TP,11,1506
+Greater Wellington Regional Council,TP,12,1326
+Greater Wellington Regional Council,TP,13,1257
+Greater Wellington Regional Council,TP,14,811
+Greater Wellington Regional Council,TP,15,329
+Greater Wellington Regional Council,TP,16,22
+Greater Wellington Regional Council,TP,17,1
+Greater Wellington Regional Council,TP,23,1
+Greater Wellington Regional Council,TURB,0,12
+Greater Wellington Regional Council,TURB,1,9
+Greater Wellington Regional Council,TURB,2,7
+Greater Wellington Regional Council,TURB,3,4
+Greater Wellington Regional Council,TURB,4,5
+Greater Wellington Regional Council,TURB,5,9
+Greater Wellington Regional Council,TURB,6,19
+Greater Wellington Regional Council,TURB,7,50
+Greater Wellington Regional Council,TURB,8,971
+Greater Wellington Regional Council,TURB,9,1504
+Greater Wellington Regional Council,TURB,10,1608
+Greater Wellington Regional Council,TURB,11,1542
+Greater Wellington Regional Council,TURB,12,1349
+Greater Wellington Regional Council,TURB,13,1277
+Greater Wellington Regional Council,TURB,14,822
+Greater Wellington Regional Council,TURB,15,344
+Greater Wellington Regional Council,TURB,16,26
+Greater Wellington Regional Council,TURB,17,2
+Greater Wellington Regional Council,TURB,18,5
+Greater Wellington Regional Council,TURB,19,8
+Greater Wellington Regional Council,TURB,20,10
+Greater Wellington Regional Council,TURB,21,11
+Greater Wellington Regional Council,TURB,22,9
+Greater Wellington Regional Council,TURB,23,12
+Hawkes Bay Regional Council,BDISC,0,78
+Hawkes Bay Regional Council,BDISC,6,26
+Hawkes Bay Regional Council,BDISC,7,184
+Hawkes Bay Regional Council,BDISC,8,627
+Hawkes Bay Regional Council,BDISC,9,1378
+Hawkes Bay Regional Council,BDISC,10,1892
+Hawkes Bay Regional Council,BDISC,11,1686
+Hawkes Bay Regional Council,BDISC,12,1461
+Hawkes Bay Regional Council,BDISC,13,1248
+Hawkes Bay Regional Council,BDISC,14,822
+Hawkes Bay Regional Council,BDISC,15,432
+Hawkes Bay Regional Council,BDISC,16,141
+Hawkes Bay Regional Council,BDISC,17,33
+Hawkes Bay Regional Council,BDISC,18,1
+Hawkes Bay Regional Council,BDISC,19,1
+Hawkes Bay Regional Council,DIN,0,92
+Hawkes Bay Regional Council,DIN,6,25
+Hawkes Bay Regional Council,DIN,7,194
+Hawkes Bay Regional Council,DIN,8,687
+Hawkes Bay Regional Council,DIN,9,1526
+Hawkes Bay Regional Council,DIN,10,2102
+Hawkes Bay Regional Council,DIN,11,1912
+Hawkes Bay Regional Council,DIN,12,1683
+Hawkes Bay Regional Council,DIN,13,1479
+Hawkes Bay Regional Council,DIN,14,998
+Hawkes Bay Regional Council,DIN,15,511
+Hawkes Bay Regional Council,DIN,16,160
+Hawkes Bay Regional Council,DIN,17,41
+Hawkes Bay Regional Council,DIN,18,1
+Hawkes Bay Regional Council,DIN,19,1
+Hawkes Bay Regional Council,DRP,0,111
+Hawkes Bay Regional Council,DRP,6,27
+Hawkes Bay Regional Council,DRP,7,212
+Hawkes Bay Regional Council,DRP,8,726
+Hawkes Bay Regional Council,DRP,9,1594
+Hawkes Bay Regional Council,DRP,10,2176
+Hawkes Bay Regional Council,DRP,11,1963
+Hawkes Bay Regional Council,DRP,12,1733
+Hawkes Bay Regional Council,DRP,13,1530
+Hawkes Bay Regional Council,DRP,14,1034
+Hawkes Bay Regional Council,DRP,15,530
+Hawkes Bay Regional Council,DRP,16,163
+Hawkes Bay Regional Council,DRP,17,41
+Hawkes Bay Regional Council,DRP,18,1
+Hawkes Bay Regional Council,DRP,19,1
+Hawkes Bay Regional Council,ECOLI,0,94
+Hawkes Bay Regional Council,ECOLI,6,25
+Hawkes Bay Regional Council,ECOLI,7,175
+Hawkes Bay Regional Council,ECOLI,8,655
+Hawkes Bay Regional Council,ECOLI,9,1448
+Hawkes Bay Regional Council,ECOLI,10,2047
+Hawkes Bay Regional Council,ECOLI,11,1883
+Hawkes Bay Regional Council,ECOLI,12,1720
+Hawkes Bay Regional Council,ECOLI,13,1513
+Hawkes Bay Regional Council,ECOLI,14,1016
+Hawkes Bay Regional Council,ECOLI,15,510
+Hawkes Bay Regional Council,ECOLI,16,160
+Hawkes Bay Regional Council,ECOLI,17,39
+Hawkes Bay Regional Council,ECOLI,18,1
+Hawkes Bay Regional Council,ECOLI,19,1
+Hawkes Bay Regional Council,NH4,0,111
+Hawkes Bay Regional Council,NH4,6,27
+Hawkes Bay Regional Council,NH4,7,215
+Hawkes Bay Regional Council,NH4,8,732
+Hawkes Bay Regional Council,NH4,9,1611
+Hawkes Bay Regional Council,NH4,10,2192
+Hawkes Bay Regional Council,NH4,11,1978
+Hawkes Bay Regional Council,NH4,12,1746
+Hawkes Bay Regional Council,NH4,13,1532
+Hawkes Bay Regional Council,NH4,14,1035
+Hawkes Bay Regional Council,NH4,15,533
+Hawkes Bay Regional Council,NH4,16,164
+Hawkes Bay Regional Council,NH4,17,41
+Hawkes Bay Regional Council,NH4,18,1
+Hawkes Bay Regional Council,NH4,19,1
+Hawkes Bay Regional Council,NO3N,0,111
+Hawkes Bay Regional Council,NO3N,6,27
+Hawkes Bay Regional Council,NO3N,7,210
+Hawkes Bay Regional Council,NO3N,8,726
+Hawkes Bay Regional Council,NO3N,9,1607
+Hawkes Bay Regional Council,NO3N,10,2188
+Hawkes Bay Regional Council,NO3N,11,1975
+Hawkes Bay Regional Council,NO3N,12,1740
+Hawkes Bay Regional Council,NO3N,13,1532
+Hawkes Bay Regional Council,NO3N,14,1034
+Hawkes Bay Regional Council,NO3N,15,530
+Hawkes Bay Regional Council,NO3N,16,164
+Hawkes Bay Regional Council,NO3N,17,41
+Hawkes Bay Regional Council,NO3N,18,1
+Hawkes Bay Regional Council,NO3N,19,1
+Hawkes Bay Regional Council,PH,0,87
+Hawkes Bay Regional Council,PH,6,27
+Hawkes Bay Regional Council,PH,7,214
+Hawkes Bay Regional Council,PH,8,707
+Hawkes Bay Regional Council,PH,9,1564
+Hawkes Bay Regional Council,PH,10,2144
+Hawkes Bay Regional Council,PH,11,1924
+Hawkes Bay Regional Council,PH,12,1701
+Hawkes Bay Regional Council,PH,13,1487
+Hawkes Bay Regional Council,PH,14,994
+Hawkes Bay Regional Council,PH,15,508
+Hawkes Bay Regional Council,PH,16,157
+Hawkes Bay Regional Council,PH,17,39
+Hawkes Bay Regional Council,PH,18,1
+Hawkes Bay Regional Council,PH,19,1
+Hawkes Bay Regional Council,TN,0,103
+Hawkes Bay Regional Council,TN,6,26
+Hawkes Bay Regional Council,TN,7,215
+Hawkes Bay Regional Council,TN,8,731
+Hawkes Bay Regional Council,TN,9,1612
+Hawkes Bay Regional Council,TN,10,2191
+Hawkes Bay Regional Council,TN,11,1979
+Hawkes Bay Regional Council,TN,12,1745
+Hawkes Bay Regional Council,TN,13,1534
+Hawkes Bay Regional Council,TN,14,1037
+Hawkes Bay Regional Council,TN,15,534
+Hawkes Bay Regional Council,TN,16,165
+Hawkes Bay Regional Council,TN,17,42
+Hawkes Bay Regional Council,TN,18,1
+Hawkes Bay Regional Council,TN,19,1
+Hawkes Bay Regional Council,TON,0,111
+Hawkes Bay Regional Council,TON,6,27
+Hawkes Bay Regional Council,TON,7,215
+Hawkes Bay Regional Council,TON,8,731
+Hawkes Bay Regional Council,TON,9,1610
+Hawkes Bay Regional Council,TON,10,2192
+Hawkes Bay Regional Council,TON,11,1979
+Hawkes Bay Regional Council,TON,12,1744
+Hawkes Bay Regional Council,TON,13,1536
+Hawkes Bay Regional Council,TON,14,1037
+Hawkes Bay Regional Council,TON,15,533
+Hawkes Bay Regional Council,TON,16,164
+Hawkes Bay Regional Council,TON,17,41
+Hawkes Bay Regional Council,TON,18,1
+Hawkes Bay Regional Council,TON,19,1
+Hawkes Bay Regional Council,TP,0,107
+Hawkes Bay Regional Council,TP,6,26
+Hawkes Bay Regional Council,TP,7,214
+Hawkes Bay Regional Council,TP,8,729
+Hawkes Bay Regional Council,TP,9,1600
+Hawkes Bay Regional Council,TP,10,2183
+Hawkes Bay Regional Council,TP,11,1972
+Hawkes Bay Regional Council,TP,12,1739
+Hawkes Bay Regional Council,TP,13,1533
+Hawkes Bay Regional Council,TP,14,1035
+Hawkes Bay Regional Council,TP,15,530
+Hawkes Bay Regional Council,TP,16,163
+Hawkes Bay Regional Council,TP,17,41
+Hawkes Bay Regional Council,TP,18,1
+Hawkes Bay Regional Council,TP,19,1
+Hawkes Bay Regional Council,TURB,0,89
+Hawkes Bay Regional Council,TURB,6,21
+Hawkes Bay Regional Council,TURB,7,131
+Hawkes Bay Regional Council,TURB,8,451
+Hawkes Bay Regional Council,TURB,9,956
+Hawkes Bay Regional Council,TURB,10,1349
+Hawkes Bay Regional Council,TURB,11,1217
+Hawkes Bay Regional Council,TURB,12,1175
+Hawkes Bay Regional Council,TURB,13,1097
+Hawkes Bay Regional Council,TURB,14,716
+Hawkes Bay Regional Council,TURB,15,407
+Hawkes Bay Regional Council,TURB,16,141
+Hawkes Bay Regional Council,TURB,17,39
+Hawkes Bay Regional Council,TURB,18,1
+Hawkes Bay Regional Council,TURB,19,1
+Hawkes Bay Regional Council,TURBFNU,0,2
+Hawkes Bay Regional Council,TURBFNU,6,11
+Hawkes Bay Regional Council,TURBFNU,7,92
+Hawkes Bay Regional Council,TURBFNU,8,296
+Hawkes Bay Regional Council,TURBFNU,9,660
+Hawkes Bay Regional Council,TURBFNU,10,893
+Hawkes Bay Regional Council,TURBFNU,11,809
+Hawkes Bay Regional Council,TURBFNU,12,664
+Hawkes Bay Regional Council,TURBFNU,13,515
+Hawkes Bay Regional Council,TURBFNU,14,315
+Hawkes Bay Regional Council,TURBFNU,15,102
+Hawkes Bay Regional Council,TURBFNU,16,10
+Hawkes Bay Regional Council,TURBFNU,17,1
+Horizons Regional Council,BDISC,0,10
+Horizons Regional Council,BDISC,5,2
+Horizons Regional Council,BDISC,6,29
+Horizons Regional Council,BDISC,7,225
+Horizons Regional Council,BDISC,8,1082
+Horizons Regional Council,BDISC,9,2375
+Horizons Regional Council,BDISC,10,3267
+Horizons Regional Council,BDISC,11,3327
+Horizons Regional Council,BDISC,12,2762
+Horizons Regional Council,BDISC,13,2059
+Horizons Regional Council,BDISC,14,1174
+Horizons Regional Council,BDISC,15,342
+Horizons Regional Council,BDISC,16,77
+Horizons Regional Council,BDISC,17,14
+Horizons Regional Council,BDISC,18,3
+Horizons Regional Council,DIN,0,13
+Horizons Regional Council,DIN,5,2
+Horizons Regional Council,DIN,6,35
+Horizons Regional Council,DIN,7,270
+Horizons Regional Council,DIN,8,1399
+Horizons Regional Council,DIN,9,3266
+Horizons Regional Council,DIN,10,4359
+Horizons Regional Council,DIN,11,4330
+Horizons Regional Council,DIN,12,3669
+Horizons Regional Council,DIN,13,2794
+Horizons Regional Council,DIN,14,1536
+Horizons Regional Council,DIN,15,422
+Horizons Regional Council,DIN,16,91
+Horizons Regional Council,DIN,17,18
+Horizons Regional Council,DIN,18,6
+Horizons Regional Council,DIN,20,1
+Horizons Regional Council,DRP,0,13
+Horizons Regional Council,DRP,5,2
+Horizons Regional Council,DRP,6,35
+Horizons Regional Council,DRP,7,270
+Horizons Regional Council,DRP,8,1407
+Horizons Regional Council,DRP,9,3277
+Horizons Regional Council,DRP,10,4361
+Horizons Regional Council,DRP,11,4328
+Horizons Regional Council,DRP,12,3672
+Horizons Regional Council,DRP,13,2794
+Horizons Regional Council,DRP,14,1534
+Horizons Regional Council,DRP,15,422
+Horizons Regional Council,DRP,16,91
+Horizons Regional Council,DRP,17,18
+Horizons Regional Council,DRP,18,6
+Horizons Regional Council,DRP,20,1
+Horizons Regional Council,ECOLI,0,12
+Horizons Regional Council,ECOLI,5,2
+Horizons Regional Council,ECOLI,6,33
+Horizons Regional Council,ECOLI,7,268
+Horizons Regional Council,ECOLI,8,1362
+Horizons Regional Council,ECOLI,9,3187
+Horizons Regional Council,ECOLI,10,4301
+Horizons Regional Council,ECOLI,11,4292
+Horizons Regional Council,ECOLI,12,3612
+Horizons Regional Council,ECOLI,13,2756
+Horizons Regional Council,ECOLI,14,1529
+Horizons Regional Council,ECOLI,15,420
+Horizons Regional Council,ECOLI,16,89
+Horizons Regional Council,ECOLI,17,18
+Horizons Regional Council,ECOLI,18,6
+Horizons Regional Council,ECOLI,20,1
+Horizons Regional Council,NH4,0,13
+Horizons Regional Council,NH4,5,2
+Horizons Regional Council,NH4,6,35
+Horizons Regional Council,NH4,7,269
+Horizons Regional Council,NH4,8,1405
+Horizons Regional Council,NH4,9,3272
+Horizons Regional Council,NH4,10,4357
+Horizons Regional Council,NH4,11,4327
+Horizons Regional Council,NH4,12,3668
+Horizons Regional Council,NH4,13,2793
+Horizons Regional Council,NH4,14,1533
+Horizons Regional Council,NH4,15,422
+Horizons Regional Council,NH4,16,91
+Horizons Regional Council,NH4,17,18
+Horizons Regional Council,NH4,18,6
+Horizons Regional Council,NH4,20,1
+Horizons Regional Council,NO3N,0,9
+Horizons Regional Council,NO3N,5,2
+Horizons Regional Council,NO3N,6,35
+Horizons Regional Council,NO3N,7,249
+Horizons Regional Council,NO3N,8,1312
+Horizons Regional Council,NO3N,9,3076
+Horizons Regional Council,NO3N,10,4081
+Horizons Regional Council,NO3N,11,4048
+Horizons Regional Council,NO3N,12,3436
+Horizons Regional Council,NO3N,13,2595
+Horizons Regional Council,NO3N,14,1395
+Horizons Regional Council,NO3N,15,376
+Horizons Regional Council,NO3N,16,76
+Horizons Regional Council,NO3N,17,18
+Horizons Regional Council,NO3N,18,6
+Horizons Regional Council,NO3N,20,1
+Horizons Regional Council,PH,0,9
+Horizons Regional Council,PH,5,2
+Horizons Regional Council,PH,6,35
+Horizons Regional Council,PH,7,265
+Horizons Regional Council,PH,8,1343
+Horizons Regional Council,PH,9,3105
+Horizons Regional Council,PH,10,4121
+Horizons Regional Council,PH,11,4104
+Horizons Regional Council,PH,12,3492
+Horizons Regional Council,PH,13,2649
+Horizons Regional Council,PH,14,1416
+Horizons Regional Council,PH,15,383
+Horizons Regional Council,PH,16,75
+Horizons Regional Council,PH,17,17
+Horizons Regional Council,PH,18,5
+Horizons Regional Council,PH,20,1
+Horizons Regional Council,TN,0,10
+Horizons Regional Council,TN,5,2
+Horizons Regional Council,TN,6,35
+Horizons Regional Council,TN,7,267
+Horizons Regional Council,TN,8,1366
+Horizons Regional Council,TN,9,3147
+Horizons Regional Council,TN,10,4175
+Horizons Regional Council,TN,11,4186
+Horizons Regional Council,TN,12,3567
+Horizons Regional Council,TN,13,2709
+Horizons Regional Council,TN,14,1470
+Horizons Regional Council,TN,15,397
+Horizons Regional Council,TN,16,84
+Horizons Regional Council,TN,17,18
+Horizons Regional Council,TN,18,6
+Horizons Regional Council,TN,20,1
+Horizons Regional Council,TON,0,13
+Horizons Regional Council,TON,5,2
+Horizons Regional Council,TON,6,35
+Horizons Regional Council,TON,7,269
+Horizons Regional Council,TON,8,1407
+Horizons Regional Council,TON,9,3283
+Horizons Regional Council,TON,10,4360
+Horizons Regional Council,TON,11,4332
+Horizons Regional Council,TON,12,3679
+Horizons Regional Council,TON,13,2802
+Horizons Regional Council,TON,14,1534
+Horizons Regional Council,TON,15,422
+Horizons Regional Council,TON,16,91
+Horizons Regional Council,TON,17,18
+Horizons Regional Council,TON,18,6
+Horizons Regional Council,TON,20,1
+Horizons Regional Council,TP,0,10
+Horizons Regional Council,TP,5,2
+Horizons Regional Council,TP,6,35
+Horizons Regional Council,TP,7,268
+Horizons Regional Council,TP,8,1366
+Horizons Regional Council,TP,9,3157
+Horizons Regional Council,TP,10,4195
+Horizons Regional Council,TP,11,4207
+Horizons Regional Council,TP,12,3567
+Horizons Regional Council,TP,13,2711
+Horizons Regional Council,TP,14,1473
+Horizons Regional Council,TP,15,397
+Horizons Regional Council,TP,16,84
+Horizons Regional Council,TP,17,18
+Horizons Regional Council,TP,18,6
+Horizons Regional Council,TP,20,1
+Horizons Regional Council,TURB,0,13
+Horizons Regional Council,TURB,2,1
+Horizons Regional Council,TURB,5,2
+Horizons Regional Council,TURB,6,34
+Horizons Regional Council,TURB,7,267
+Horizons Regional Council,TURB,8,1357
+Horizons Regional Council,TURB,9,3158
+Horizons Regional Council,TURB,10,4265
+Horizons Regional Council,TURB,11,4258
+Horizons Regional Council,TURB,12,3565
+Horizons Regional Council,TURB,13,2692
+Horizons Regional Council,TURB,14,1509
+Horizons Regional Council,TURB,15,415
+Horizons Regional Council,TURB,16,90
+Horizons Regional Council,TURB,17,18
+Horizons Regional Council,TURB,18,6
+Horizons Regional Council,TURB,20,1
+Horizons Regional Council,TURBFNU,2,1
+Horizons Regional Council,TURBFNU,7,17
+Horizons Regional Council,TURBFNU,8,115
+Horizons Regional Council,TURBFNU,9,222
+Horizons Regional Council,TURBFNU,10,310
+Horizons Regional Council,TURBFNU,11,294
+Horizons Regional Council,TURBFNU,12,274
+Horizons Regional Council,TURBFNU,13,208
+Horizons Regional Council,TURBFNU,14,107
+Horizons Regional Council,TURBFNU,15,25
+Horizons Regional Council,TURBFNU,16,4
+Marlborough District Council,DIN,0,9
+Marlborough District Council,DIN,1,1
+Marlborough District Council,DIN,3,1
+Marlborough District Council,DIN,6,7
+Marlborough District Council,DIN,7,39
+Marlborough District Council,DIN,8,205
+Marlborough District Council,DIN,9,536
+Marlborough District Council,DIN,10,775
+Marlborough District Council,DIN,11,745
+Marlborough District Council,DIN,12,623
+Marlborough District Council,DIN,13,480
+Marlborough District Council,DIN,14,277
+Marlborough District Council,DIN,15,57
+Marlborough District Council,DIN,16,5
+Marlborough District Council,DIN,23,1
+Marlborough District Council,DRP,0,48
+Marlborough District Council,DRP,1,1
+Marlborough District Council,DRP,2,1
+Marlborough District Council,DRP,3,1
+Marlborough District Council,DRP,6,6
+Marlborough District Council,DRP,7,57
+Marlborough District Council,DRP,8,324
+Marlborough District Council,DRP,9,772
+Marlborough District Council,DRP,10,1123
+Marlborough District Council,DRP,11,1035
+Marlborough District Council,DRP,12,903
+Marlborough District Council,DRP,13,751
+Marlborough District Council,DRP,14,417
+Marlborough District Council,DRP,15,83
+Marlborough District Council,DRP,16,7
+Marlborough District Council,DRP,23,1
+Marlborough District Council,ECOLI,0,50
+Marlborough District Council,ECOLI,1,1
+Marlborough District Council,ECOLI,2,1
+Marlborough District Council,ECOLI,3,1
+Marlborough District Council,ECOLI,6,6
+Marlborough District Council,ECOLI,7,55
+Marlborough District Council,ECOLI,8,328
+Marlborough District Council,ECOLI,9,774
+Marlborough District Council,ECOLI,10,1121
+Marlborough District Council,ECOLI,11,1043
+Marlborough District Council,ECOLI,12,922
+Marlborough District Council,ECOLI,13,756
+Marlborough District Council,ECOLI,14,416
+Marlborough District Council,ECOLI,15,84
+Marlborough District Council,ECOLI,16,8
+Marlborough District Council,ECOLI,23,1
+Marlborough District Council,NH4,0,48
+Marlborough District Council,NH4,1,1
+Marlborough District Council,NH4,2,1
+Marlborough District Council,NH4,6,6
+Marlborough District Council,NH4,7,57
+Marlborough District Council,NH4,8,325
+Marlborough District Council,NH4,9,771
+Marlborough District Council,NH4,10,1121
+Marlborough District Council,NH4,11,1027
+Marlborough District Council,NH4,12,899
+Marlborough District Council,NH4,13,745
+Marlborough District Council,NH4,14,415
+Marlborough District Council,NH4,15,82
+Marlborough District Council,NH4,16,7
+Marlborough District Council,NH4,23,1
+Marlborough District Council,NO3N,0,48
+Marlborough District Council,NO3N,1,2
+Marlborough District Council,NO3N,2,1
+Marlborough District Council,NO3N,3,1
+Marlborough District Council,NO3N,6,6
+Marlborough District Council,NO3N,7,57
+Marlborough District Council,NO3N,8,326
+Marlborough District Council,NO3N,9,771
+Marlborough District Council,NO3N,10,1122
+Marlborough District Council,NO3N,11,1037
+Marlborough District Council,NO3N,12,906
+Marlborough District Council,NO3N,13,756
+Marlborough District Council,NO3N,14,419
+Marlborough District Council,NO3N,15,84
+Marlborough District Council,NO3N,16,7
+Marlborough District Council,NO3N,23,1
+Marlborough District Council,PH,0,47
+Marlborough District Council,PH,1,2
+Marlborough District Council,PH,2,1
+Marlborough District Council,PH,3,1
+Marlborough District Council,PH,6,6
+Marlborough District Council,PH,7,57
+Marlborough District Council,PH,8,324
+Marlborough District Council,PH,9,773
+Marlborough District Council,PH,10,1128
+Marlborough District Council,PH,11,1052
+Marlborough District Council,PH,12,916
+Marlborough District Council,PH,13,750
+Marlborough District Council,PH,14,418
+Marlborough District Council,PH,15,84
+Marlborough District Council,PH,16,9
+Marlborough District Council,PH,23,1
+Marlborough District Council,TN,0,5
+Marlborough District Council,TN,6,6
+Marlborough District Council,TN,7,32
+Marlborough District Council,TN,8,124
+Marlborough District Council,TN,9,296
+Marlborough District Council,TN,10,432
+Marlborough District Council,TN,11,447
+Marlborough District Council,TN,12,347
+Marlborough District Council,TN,13,270
+Marlborough District Council,TN,14,150
+Marlborough District Council,TN,15,34
+Marlborough District Council,TN,16,1
+Marlborough District Council,TN,23,1
+Marlborough District Council,TON,0,48
+Marlborough District Council,TON,1,1
+Marlborough District Council,TON,2,1
+Marlborough District Council,TON,3,1
+Marlborough District Council,TON,6,6
+Marlborough District Council,TON,7,57
+Marlborough District Council,TON,8,325
+Marlborough District Council,TON,9,769
+Marlborough District Council,TON,10,1116
+Marlborough District Council,TON,11,1029
+Marlborough District Council,TON,12,900
+Marlborough District Council,TON,13,744
+Marlborough District Council,TON,14,415
+Marlborough District Council,TON,15,82
+Marlborough District Council,TON,16,7
+Marlborough District Council,TON,23,1
+Marlborough District Council,TP,0,5
+Marlborough District Council,TP,6,6
+Marlborough District Council,TP,7,32
+Marlborough District Council,TP,8,124
+Marlborough District Council,TP,9,296
+Marlborough District Council,TP,10,432
+Marlborough District Council,TP,11,447
+Marlborough District Council,TP,12,347
+Marlborough District Council,TP,13,270
+Marlborough District Council,TP,14,150
+Marlborough District Council,TP,15,34
+Marlborough District Council,TP,16,1
+Marlborough District Council,TP,23,1
+Marlborough District Council,TURB,0,49
+Marlborough District Council,TURB,1,1
+Marlborough District Council,TURB,2,1
+Marlborough District Council,TURB,3,1
+Marlborough District Council,TURB,6,6
+Marlborough District Council,TURB,7,57
+Marlborough District Council,TURB,8,325
+Marlborough District Council,TURB,9,770
+Marlborough District Council,TURB,10,1125
+Marlborough District Council,TURB,11,1056
+Marlborough District Council,TURB,12,924
+Marlborough District Council,TURB,13,756
+Marlborough District Council,TURB,14,422
+Marlborough District Council,TURB,15,85
+Marlborough District Council,TURB,16,9
+Marlborough District Council,TURB,23,1
+NIWA,BDISC,5,13
+NIWA,BDISC,6,41
+NIWA,BDISC,7,138
+NIWA,BDISC,8,1213
+NIWA,BDISC,9,1893
+NIWA,BDISC,10,1503
+NIWA,BDISC,11,1761
+NIWA,BDISC,12,1390
+NIWA,BDISC,13,1929
+NIWA,BDISC,14,1635
+NIWA,BDISC,15,716
+NIWA,BDISC,16,71
+NIWA,BDISC,17,3
+NIWA,BDISC,18,1
+NIWA,BDISC,21,2
+NIWA,BDISC,22,1
+NIWA,BDISC,23,1
+NIWA,DRP,5,13
+NIWA,DRP,6,41
+NIWA,DRP,7,138
+NIWA,DRP,8,1213
+NIWA,DRP,9,1893
+NIWA,DRP,10,1503
+NIWA,DRP,11,1761
+NIWA,DRP,12,1390
+NIWA,DRP,13,1929
+NIWA,DRP,14,1635
+NIWA,DRP,15,716
+NIWA,DRP,16,71
+NIWA,DRP,17,3
+NIWA,DRP,18,1
+NIWA,DRP,21,2
+NIWA,DRP,22,1
+NIWA,DRP,23,1
+NIWA,ECOLI,5,13
+NIWA,ECOLI,6,41
+NIWA,ECOLI,7,138
+NIWA,ECOLI,8,1213
+NIWA,ECOLI,9,1893
+NIWA,ECOLI,10,1503
+NIWA,ECOLI,11,1761
+NIWA,ECOLI,12,1390
+NIWA,ECOLI,13,1929
+NIWA,ECOLI,14,1635
+NIWA,ECOLI,15,716
+NIWA,ECOLI,16,71
+NIWA,ECOLI,17,3
+NIWA,ECOLI,18,1
+NIWA,ECOLI,21,2
+NIWA,ECOLI,22,1
+NIWA,ECOLI,23,1
+NIWA,NH4,5,13
+NIWA,NH4,6,41
+NIWA,NH4,7,138
+NIWA,NH4,8,1213
+NIWA,NH4,9,1893
+NIWA,NH4,10,1503
+NIWA,NH4,11,1761
+NIWA,NH4,12,1390
+NIWA,NH4,13,1929
+NIWA,NH4,14,1635
+NIWA,NH4,15,716
+NIWA,NH4,16,71
+NIWA,NH4,17,3
+NIWA,NH4,18,1
+NIWA,NH4,21,2
+NIWA,NH4,22,1
+NIWA,NH4,23,1
+NIWA,PH,5,13
+NIWA,PH,6,41
+NIWA,PH,7,138
+NIWA,PH,8,1213
+NIWA,PH,9,1893
+NIWA,PH,10,1503
+NIWA,PH,11,1761
+NIWA,PH,12,1390
+NIWA,PH,13,1929
+NIWA,PH,14,1635
+NIWA,PH,15,716
+NIWA,PH,16,71
+NIWA,PH,17,3
+NIWA,PH,18,1
+NIWA,PH,21,2
+NIWA,PH,22,1
+NIWA,PH,23,1
+NIWA,TN,5,13
+NIWA,TN,6,41
+NIWA,TN,7,138
+NIWA,TN,8,1213
+NIWA,TN,9,1893
+NIWA,TN,10,1503
+NIWA,TN,11,1761
+NIWA,TN,12,1390
+NIWA,TN,13,1929
+NIWA,TN,14,1635
+NIWA,TN,15,716
+NIWA,TN,16,71
+NIWA,TN,17,3
+NIWA,TN,18,1
+NIWA,TN,21,2
+NIWA,TN,22,1
+NIWA,TN,23,1
+NIWA,TON,5,13
+NIWA,TON,6,41
+NIWA,TON,7,138
+NIWA,TON,8,1213
+NIWA,TON,9,1893
+NIWA,TON,10,1503
+NIWA,TON,11,1761
+NIWA,TON,12,1390
+NIWA,TON,13,1929
+NIWA,TON,14,1635
+NIWA,TON,15,716
+NIWA,TON,16,71
+NIWA,TON,17,3
+NIWA,TON,18,1
+NIWA,TON,21,2
+NIWA,TON,22,1
+NIWA,TON,23,1
+NIWA,TP,5,13
+NIWA,TP,6,41
+NIWA,TP,7,138
+NIWA,TP,8,1213
+NIWA,TP,9,1893
+NIWA,TP,10,1503
+NIWA,TP,11,1761
+NIWA,TP,12,1390
+NIWA,TP,13,1929
+NIWA,TP,14,1635
+NIWA,TP,15,716
+NIWA,TP,16,71
+NIWA,TP,17,3
+NIWA,TP,18,1
+NIWA,TP,21,2
+NIWA,TP,22,1
+NIWA,TP,23,1
+NIWA,TURB,5,13
+NIWA,TURB,6,41
+NIWA,TURB,7,138
+NIWA,TURB,8,1213
+NIWA,TURB,9,1893
+NIWA,TURB,10,1503
+NIWA,TURB,11,1761
+NIWA,TURB,12,1390
+NIWA,TURB,13,1929
+NIWA,TURB,14,1635
+NIWA,TURB,15,716
+NIWA,TURB,16,71
+NIWA,TURB,17,3
+NIWA,TURB,18,1
+NIWA,TURB,21,2
+NIWA,TURB,22,1
+NIWA,TURB,23,1
+Nelson City Council,BDISC,0,2
+Nelson City Council,BDISC,7,15
+Nelson City Council,BDISC,8,285
+Nelson City Council,BDISC,9,460
+Nelson City Council,BDISC,10,572
+Nelson City Council,BDISC,11,536
+Nelson City Council,BDISC,12,418
+Nelson City Council,BDISC,13,368
+Nelson City Council,BDISC,14,294
+Nelson City Council,BDISC,15,122
+Nelson City Council,BDISC,16,43
+Nelson City Council,BDISC,17,15
+Nelson City Council,BDISC,18,5
+Nelson City Council,BDISC,23,1
+Nelson City Council,DIN,0,1
+Nelson City Council,DIN,7,9
+Nelson City Council,DIN,8,177
+Nelson City Council,DIN,9,255
+Nelson City Council,DIN,10,280
+Nelson City Council,DIN,11,253
+Nelson City Council,DIN,12,198
+Nelson City Council,DIN,13,182
+Nelson City Council,DIN,14,125
+Nelson City Council,DIN,15,23
+Nelson City Council,DIN,23,1
+Nelson City Council,DRP,0,2
+Nelson City Council,DRP,7,15
+Nelson City Council,DRP,8,297
+Nelson City Council,DRP,9,475
+Nelson City Council,DRP,10,591
+Nelson City Council,DRP,11,562
+Nelson City Council,DRP,12,435
+Nelson City Council,DRP,13,390
+Nelson City Council,DRP,14,303
+Nelson City Council,DRP,15,127
+Nelson City Council,DRP,16,47
+Nelson City Council,DRP,17,15
+Nelson City Council,DRP,18,5
+Nelson City Council,DRP,23,1
+Nelson City Council,ECOLI,0,3
+Nelson City Council,ECOLI,7,15
+Nelson City Council,ECOLI,8,290
+Nelson City Council,ECOLI,9,468
+Nelson City Council,ECOLI,10,587
+Nelson City Council,ECOLI,11,554
+Nelson City Council,ECOLI,12,432
+Nelson City Council,ECOLI,13,384
+Nelson City Council,ECOLI,14,301
+Nelson City Council,ECOLI,15,126
+Nelson City Council,ECOLI,16,47
+Nelson City Council,ECOLI,17,15
+Nelson City Council,ECOLI,18,5
+Nelson City Council,ECOLI,23,1
+Nelson City Council,NH4,0,2
+Nelson City Council,NH4,7,15
+Nelson City Council,NH4,8,294
+Nelson City Council,NH4,9,471
+Nelson City Council,NH4,10,588
+Nelson City Council,NH4,11,559
+Nelson City Council,NH4,12,433
+Nelson City Council,NH4,13,387
+Nelson City Council,NH4,14,298
+Nelson City Council,NH4,15,125
+Nelson City Council,NH4,16,47
+Nelson City Council,NH4,17,15
+Nelson City Council,NH4,18,5
+Nelson City Council,NH4,23,1
+Nelson City Council,NO3N,0,8
+Nelson City Council,NO3N,7,15
+Nelson City Council,NO3N,8,295
+Nelson City Council,NO3N,9,472
+Nelson City Council,NO3N,10,590
+Nelson City Council,NO3N,11,559
+Nelson City Council,NO3N,12,434
+Nelson City Council,NO3N,13,387
+Nelson City Council,NO3N,14,299
+Nelson City Council,NO3N,15,127
+Nelson City Council,NO3N,16,46
+Nelson City Council,NO3N,17,15
+Nelson City Council,NO3N,18,5
+Nelson City Council,NO3N,19,1
+Nelson City Council,NO3N,23,1
+Nelson City Council,PH,0,3
+Nelson City Council,PH,7,15
+Nelson City Council,PH,8,290
+Nelson City Council,PH,9,469
+Nelson City Council,PH,10,584
+Nelson City Council,PH,11,555
+Nelson City Council,PH,12,427
+Nelson City Council,PH,13,386
+Nelson City Council,PH,14,303
+Nelson City Council,PH,15,126
+Nelson City Council,PH,16,47
+Nelson City Council,PH,17,15
+Nelson City Council,PH,18,5
+Nelson City Council,PH,23,1
+Nelson City Council,TN,0,2
+Nelson City Council,TN,7,13
+Nelson City Council,TN,8,236
+Nelson City Council,TN,9,343
+Nelson City Council,TN,10,417
+Nelson City Council,TN,11,397
+Nelson City Council,TN,12,310
+Nelson City Council,TN,13,259
+Nelson City Council,TN,14,167
+Nelson City Council,TN,15,26
+Nelson City Council,TN,23,1
+Nelson City Council,TON,0,2
+Nelson City Council,TON,5,1
+Nelson City Council,TON,7,9
+Nelson City Council,TON,8,178
+Nelson City Council,TON,9,253
+Nelson City Council,TON,10,274
+Nelson City Council,TON,11,253
+Nelson City Council,TON,12,192
+Nelson City Council,TON,13,182
+Nelson City Council,TON,14,123
+Nelson City Council,TON,15,23
+Nelson City Council,TON,23,1
+Nelson City Council,TP,0,1
+Nelson City Council,TP,7,13
+Nelson City Council,TP,8,234
+Nelson City Council,TP,9,342
+Nelson City Council,TP,10,413
+Nelson City Council,TP,11,392
+Nelson City Council,TP,12,305
+Nelson City Council,TP,13,256
+Nelson City Council,TP,14,167
+Nelson City Council,TP,15,26
+Nelson City Council,TP,23,1
+Nelson City Council,TURB,0,2
+Nelson City Council,TURB,7,14
+Nelson City Council,TURB,8,265
+Nelson City Council,TURB,9,424
+Nelson City Council,TURB,10,550
+Nelson City Council,TURB,11,508
+Nelson City Council,TURB,12,392
+Nelson City Council,TURB,13,341
+Nelson City Council,TURB,14,278
+Nelson City Council,TURB,15,124
+Nelson City Council,TURB,16,47
+Nelson City Council,TURB,17,15
+Nelson City Council,TURB,18,5
+Nelson City Council,TURB,23,1
+Northland Regional Council,BDISC,1,3
+Northland Regional Council,BDISC,2,1
+Northland Regional Council,BDISC,5,1
+Northland Regional Council,BDISC,6,8
+Northland Regional Council,BDISC,7,177
+Northland Regional Council,BDISC,8,744
+Northland Regional Council,BDISC,9,1197
+Northland Regional Council,BDISC,10,1137
+Northland Regional Council,BDISC,11,1152
+Northland Regional Council,BDISC,12,969
+Northland Regional Council,BDISC,13,809
+Northland Regional Council,BDISC,14,492
+Northland Regional Council,BDISC,15,201
+Northland Regional Council,BDISC,16,20
+Northland Regional Council,BDISC,19,1
+Northland Regional Council,DIN,7,10
+Northland Regional Council,DIN,8,162
+Northland Regional Council,DIN,9,331
+Northland Regional Council,DIN,10,352
+Northland Regional Council,DIN,11,334
+Northland Regional Council,DIN,12,262
+Northland Regional Council,DIN,13,149
+Northland Regional Council,DIN,14,46
+Northland Regional Council,DIN,15,4
+Northland Regional Council,DRP,1,3
+Northland Regional Council,DRP,2,1
+Northland Regional Council,DRP,5,1
+Northland Regional Council,DRP,6,8
+Northland Regional Council,DRP,7,189
+Northland Regional Council,DRP,8,775
+Northland Regional Council,DRP,9,1256
+Northland Regional Council,DRP,10,1215
+Northland Regional Council,DRP,11,1214
+Northland Regional Council,DRP,12,1046
+Northland Regional Council,DRP,13,847
+Northland Regional Council,DRP,14,511
+Northland Regional Council,DRP,15,207
+Northland Regional Council,DRP,16,19
+Northland Regional Council,DRP,19,1
+Northland Regional Council,ECOLI,1,3
+Northland Regional Council,ECOLI,2,1
+Northland Regional Council,ECOLI,5,1
+Northland Regional Council,ECOLI,6,8
+Northland Regional Council,ECOLI,7,192
+Northland Regional Council,ECOLI,8,780
+Northland Regional Council,ECOLI,9,1256
+Northland Regional Council,ECOLI,10,1208
+Northland Regional Council,ECOLI,11,1174
+Northland Regional Council,ECOLI,12,1034
+Northland Regional Council,ECOLI,13,844
+Northland Regional Council,ECOLI,14,514
+Northland Regional Council,ECOLI,15,208
+Northland Regional Council,ECOLI,16,19
+Northland Regional Council,NH4,1,3
+Northland Regional Council,NH4,2,1
+Northland Regional Council,NH4,5,1
+Northland Regional Council,NH4,6,8
+Northland Regional Council,NH4,7,192
+Northland Regional Council,NH4,8,783
+Northland Regional Council,NH4,9,1263
+Northland Regional Council,NH4,10,1222
+Northland Regional Council,NH4,11,1218
+Northland Regional Council,NH4,12,1058
+Northland Regional Council,NH4,13,850
+Northland Regional Council,NH4,14,515
+Northland Regional Council,NH4,15,207
+Northland Regional Council,NH4,16,19
+Northland Regional Council,NH4,19,1
+Northland Regional Council,NO3N,1,1
+Northland Regional Council,NO3N,5,1
+Northland Regional Council,NO3N,6,8
+Northland Regional Council,NO3N,7,118
+Northland Regional Council,NO3N,8,560
+Northland Regional Council,NO3N,9,945
+Northland Regional Council,NO3N,10,891
+Northland Regional Council,NO3N,11,861
+Northland Regional Council,NO3N,12,726
+Northland Regional Council,NO3N,13,560
+Northland Regional Council,NO3N,14,282
+Northland Regional Council,NO3N,15,68
+Northland Regional Council,NO3N,16,5
+Northland Regional Council,PH,1,3
+Northland Regional Council,PH,2,1
+Northland Regional Council,PH,5,1
+Northland Regional Council,PH,6,8
+Northland Regional Council,PH,7,193
+Northland Regional Council,PH,8,781
+Northland Regional Council,PH,9,1253
+Northland Regional Council,PH,10,1238
+Northland Regional Council,PH,11,1241
+Northland Regional Council,PH,12,1072
+Northland Regional Council,PH,13,858
+Northland Regional Council,PH,14,517
+Northland Regional Council,PH,15,208
+Northland Regional Council,PH,16,20
+Northland Regional Council,PH,18,1
+Northland Regional Council,PH,19,1
+Northland Regional Council,TN,1,1
+Northland Regional Council,TN,5,1
+Northland Regional Council,TN,6,8
+Northland Regional Council,TN,7,119
+Northland Regional Council,TN,8,563
+Northland Regional Council,TN,9,950
+Northland Regional Council,TN,10,919
+Northland Regional Council,TN,11,923
+Northland Regional Council,TN,12,758
+Northland Regional Council,TN,13,602
+Northland Regional Council,TN,14,422
+Northland Regional Council,TN,15,193
+Northland Regional Council,TN,16,20
+Northland Regional Council,TN,18,1
+Northland Regional Council,TN,19,1
+Northland Regional Council,TON,1,3
+Northland Regional Council,TON,2,1
+Northland Regional Council,TON,5,1
+Northland Regional Council,TON,6,8
+Northland Regional Council,TON,7,192
+Northland Regional Council,TON,8,781
+Northland Regional Council,TON,9,1263
+Northland Regional Council,TON,10,1224
+Northland Regional Council,TON,11,1221
+Northland Regional Council,TON,12,1059
+Northland Regional Council,TON,13,851
+Northland Regional Council,TON,14,514
+Northland Regional Council,TON,15,205
+Northland Regional Council,TON,16,19
+Northland Regional Council,TON,19,1
+Northland Regional Council,TP,1,3
+Northland Regional Council,TP,2,1
+Northland Regional Council,TP,5,1
+Northland Regional Council,TP,6,8
+Northland Regional Council,TP,7,191
+Northland Regional Council,TP,8,779
+Northland Regional Council,TP,9,1261
+Northland Regional Council,TP,10,1239
+Northland Regional Council,TP,11,1242
+Northland Regional Council,TP,12,1071
+Northland Regional Council,TP,13,854
+Northland Regional Council,TP,14,515
+Northland Regional Council,TP,15,208
+Northland Regional Council,TP,16,20
+Northland Regional Council,TP,18,1
+Northland Regional Council,TP,19,1
+Northland Regional Council,TURB,1,3
+Northland Regional Council,TURB,2,1
+Northland Regional Council,TURB,5,1
+Northland Regional Council,TURB,6,8
+Northland Regional Council,TURB,7,192
+Northland Regional Council,TURB,8,779
+Northland Regional Council,TURB,9,1259
+Northland Regional Council,TURB,10,1211
+Northland Regional Council,TURB,11,1207
+Northland Regional Council,TURB,12,1053
+Northland Regional Council,TURB,13,847
+Northland Regional Council,TURB,14,514
+Northland Regional Council,TURB,15,207
+Northland Regional Council,TURB,16,19
+Otago Regional Council,BDISC,0,6
+Otago Regional Council,BDISC,2,1
+Otago Regional Council,BDISC,7,31
+Otago Regional Council,BDISC,8,612
+Otago Regional Council,BDISC,9,1398
+Otago Regional Council,BDISC,10,1574
+Otago Regional Council,BDISC,11,1359
+Otago Regional Council,BDISC,12,1160
+Otago Regional Council,BDISC,13,800
+Otago Regional Council,BDISC,14,402
+Otago Regional Council,BDISC,15,109
+Otago Regional Council,BDISC,16,7
+Otago Regional Council,BDISC,17,1
+Otago Regional Council,BDISC,19,1
+Otago Regional Council,BDISC,23,6
+Otago Regional Council,DIN,0,7089
+Otago Regional Council,DIN,7,13
+Otago Regional Council,DIN,8,97
+Otago Regional Council,DIN,9,239
+Otago Regional Council,DIN,10,284
+Otago Regional Council,DIN,11,173
+Otago Regional Council,DIN,12,104
+Otago Regional Council,DIN,13,33
+Otago Regional Council,DIN,14,2
+Otago Regional Council,DIN,15,4
+Otago Regional Council,DRP,0,9
+Otago Regional Council,DRP,2,1
+Otago Regional Council,DRP,7,30
+Otago Regional Council,DRP,8,682
+Otago Regional Council,DRP,9,1513
+Otago Regional Council,DRP,10,1704
+Otago Regional Council,DRP,11,1449
+Otago Regional Council,DRP,12,1257
+Otago Regional Council,DRP,13,851
+Otago Regional Council,DRP,14,412
+Otago Regional Council,DRP,15,113
+Otago Regional Council,DRP,16,7
+Otago Regional Council,DRP,17,1
+Otago Regional Council,DRP,23,6
+Otago Regional Council,ECOLI,0,22
+Otago Regional Council,ECOLI,2,1
+Otago Regional Council,ECOLI,7,35
+Otago Regional Council,ECOLI,8,854
+Otago Regional Council,ECOLI,9,1644
+Otago Regional Council,ECOLI,10,1805
+Otago Regional Council,ECOLI,11,1582
+Otago Regional Council,ECOLI,12,1395
+Otago Regional Council,ECOLI,13,922
+Otago Regional Council,ECOLI,14,450
+Otago Regional Council,ECOLI,15,123
+Otago Regional Council,ECOLI,16,7
+Otago Regional Council,ECOLI,17,1
+Otago Regional Council,ECOLI,19,1
+Otago Regional Council,ECOLI,23,9
+Otago Regional Council,NH4,0,9
+Otago Regional Council,NH4,2,1
+Otago Regional Council,NH4,7,30
+Otago Regional Council,NH4,8,690
+Otago Regional Council,NH4,9,1528
+Otago Regional Council,NH4,10,1714
+Otago Regional Council,NH4,11,1473
+Otago Regional Council,NH4,12,1266
+Otago Regional Council,NH4,13,859
+Otago Regional Council,NH4,14,413
+Otago Regional Council,NH4,15,113
+Otago Regional Council,NH4,16,7
+Otago Regional Council,NH4,17,1
+Otago Regional Council,NH4,19,1
+Otago Regional Council,NH4,23,6
+Otago Regional Council,NO3N,0,9
+Otago Regional Council,NO3N,2,1
+Otago Regional Council,NO3N,7,30
+Otago Regional Council,NO3N,8,705
+Otago Regional Council,NO3N,9,1550
+Otago Regional Council,NO3N,10,1729
+Otago Regional Council,NO3N,11,1482
+Otago Regional Council,NO3N,12,1271
+Otago Regional Council,NO3N,13,866
+Otago Regional Council,NO3N,14,417
+Otago Regional Council,NO3N,15,113
+Otago Regional Council,NO3N,16,7
+Otago Regional Council,NO3N,17,1
+Otago Regional Council,NO3N,19,1
+Otago Regional Council,NO3N,23,6
+Otago Regional Council,PH,0,3
+Otago Regional Council,PH,2,1
+Otago Regional Council,PH,7,29
+Otago Regional Council,PH,8,597
+Otago Regional Council,PH,9,1373
+Otago Regional Council,PH,10,1550
+Otago Regional Council,PH,11,1306
+Otago Regional Council,PH,12,1095
+Otago Regional Council,PH,13,747
+Otago Regional Council,PH,14,380
+Otago Regional Council,PH,15,99
+Otago Regional Council,PH,16,7
+Otago Regional Council,PH,17,1
+Otago Regional Council,PH,19,1
+Otago Regional Council,PH,23,4
+Otago Regional Council,TN,0,9
+Otago Regional Council,TN,2,1
+Otago Regional Council,TN,7,29
+Otago Regional Council,TN,8,685
+Otago Regional Council,TN,9,1517
+Otago Regional Council,TN,10,1704
+Otago Regional Council,TN,11,1461
+Otago Regional Council,TN,12,1254
+Otago Regional Council,TN,13,856
+Otago Regional Council,TN,14,409
+Otago Regional Council,TN,15,113
+Otago Regional Council,TN,16,7
+Otago Regional Council,TN,17,1
+Otago Regional Council,TN,19,1
+Otago Regional Council,TN,23,6
+Otago Regional Council,TON,0,9
+Otago Regional Council,TON,2,1
+Otago Regional Council,TON,7,30
+Otago Regional Council,TON,8,705
+Otago Regional Council,TON,9,1550
+Otago Regional Council,TON,10,1729
+Otago Regional Council,TON,11,1482
+Otago Regional Council,TON,12,1271
+Otago Regional Council,TON,13,866
+Otago Regional Council,TON,14,417
+Otago Regional Council,TON,15,113
+Otago Regional Council,TON,16,7
+Otago Regional Council,TON,17,1
+Otago Regional Council,TON,19,1
+Otago Regional Council,TON,23,6
+Otago Regional Council,TP,0,9
+Otago Regional Council,TP,2,1
+Otago Regional Council,TP,7,29
+Otago Regional Council,TP,8,683
+Otago Regional Council,TP,9,1511
+Otago Regional Council,TP,10,1700
+Otago Regional Council,TP,11,1451
+Otago Regional Council,TP,12,1246
+Otago Regional Council,TP,13,847
+Otago Regional Council,TP,14,407
+Otago Regional Council,TP,15,113
+Otago Regional Council,TP,16,7
+Otago Regional Council,TP,17,1
+Otago Regional Council,TP,23,6
+Otago Regional Council,TURB,0,6
+Otago Regional Council,TURB,2,1
+Otago Regional Council,TURB,7,31
+Otago Regional Council,TURB,8,612
+Otago Regional Council,TURB,9,1398
+Otago Regional Council,TURB,10,1574
+Otago Regional Council,TURB,11,1359
+Otago Regional Council,TURB,12,1160
+Otago Regional Council,TURB,13,800
+Otago Regional Council,TURB,14,402
+Otago Regional Council,TURB,15,109
+Otago Regional Council,TURB,16,7
+Otago Regional Council,TURB,17,1
+Otago Regional Council,TURB,19,1
+Otago Regional Council,TURB,23,6
+Taranaki Regional Council,BDISC,6,11
+Taranaki Regional Council,BDISC,7,239
+Taranaki Regional Council,BDISC,8,363
+Taranaki Regional Council,BDISC,9,369
+Taranaki Regional Council,BDISC,10,396
+Taranaki Regional Council,BDISC,11,371
+Taranaki Regional Council,BDISC,12,391
+Taranaki Regional Council,BDISC,13,359
+Taranaki Regional Council,BDISC,14,159
+Taranaki Regional Council,BDISC,15,6
+Taranaki Regional Council,DIN,6,11
+Taranaki Regional Council,DIN,7,239
+Taranaki Regional Council,DIN,8,367
+Taranaki Regional Council,DIN,9,371
+Taranaki Regional Council,DIN,10,399
+Taranaki Regional Council,DIN,11,371
+Taranaki Regional Council,DIN,12,392
+Taranaki Regional Council,DIN,13,359
+Taranaki Regional Council,DIN,14,159
+Taranaki Regional Council,DIN,15,6
+Taranaki Regional Council,DRP,6,11
+Taranaki Regional Council,DRP,7,239
+Taranaki Regional Council,DRP,8,367
+Taranaki Regional Council,DRP,9,371
+Taranaki Regional Council,DRP,10,399
+Taranaki Regional Council,DRP,11,371
+Taranaki Regional Council,DRP,12,392
+Taranaki Regional Council,DRP,13,359
+Taranaki Regional Council,DRP,14,159
+Taranaki Regional Council,DRP,15,6
+Taranaki Regional Council,ECOLI,6,11
+Taranaki Regional Council,ECOLI,7,239
+Taranaki Regional Council,ECOLI,8,367
+Taranaki Regional Council,ECOLI,9,371
+Taranaki Regional Council,ECOLI,10,400
+Taranaki Regional Council,ECOLI,11,371
+Taranaki Regional Council,ECOLI,12,392
+Taranaki Regional Council,ECOLI,13,359
+Taranaki Regional Council,ECOLI,14,159
+Taranaki Regional Council,ECOLI,15,6
+Taranaki Regional Council,NH4,6,11
+Taranaki Regional Council,NH4,7,239
+Taranaki Regional Council,NH4,8,367
+Taranaki Regional Council,NH4,9,371
+Taranaki Regional Council,NH4,10,399
+Taranaki Regional Council,NH4,11,371
+Taranaki Regional Council,NH4,12,392
+Taranaki Regional Council,NH4,13,359
+Taranaki Regional Council,NH4,14,159
+Taranaki Regional Council,NH4,15,6
+Taranaki Regional Council,NO3N,6,11
+Taranaki Regional Council,NO3N,7,240
+Taranaki Regional Council,NO3N,8,367
+Taranaki Regional Council,NO3N,9,371
+Taranaki Regional Council,NO3N,10,399
+Taranaki Regional Council,NO3N,11,371
+Taranaki Regional Council,NO3N,12,392
+Taranaki Regional Council,NO3N,13,359
+Taranaki Regional Council,NO3N,14,159
+Taranaki Regional Council,NO3N,15,6
+Taranaki Regional Council,PH,6,11
+Taranaki Regional Council,PH,7,239
+Taranaki Regional Council,PH,8,367
+Taranaki Regional Council,PH,9,371
+Taranaki Regional Council,PH,10,399
+Taranaki Regional Council,PH,11,371
+Taranaki Regional Council,PH,12,392
+Taranaki Regional Council,PH,13,359
+Taranaki Regional Council,PH,14,159
+Taranaki Regional Council,PH,15,6
+Taranaki Regional Council,TN,6,11
+Taranaki Regional Council,TN,7,239
+Taranaki Regional Council,TN,8,367
+Taranaki Regional Council,TN,9,371
+Taranaki Regional Council,TN,10,399
+Taranaki Regional Council,TN,11,371
+Taranaki Regional Council,TN,12,392
+Taranaki Regional Council,TN,13,359
+Taranaki Regional Council,TN,14,159
+Taranaki Regional Council,TN,15,6
+Taranaki Regional Council,TON,6,11
+Taranaki Regional Council,TON,7,239
+Taranaki Regional Council,TON,8,367
+Taranaki Regional Council,TON,9,371
+Taranaki Regional Council,TON,10,399
+Taranaki Regional Council,TON,11,371
+Taranaki Regional Council,TON,12,392
+Taranaki Regional Council,TON,13,359
+Taranaki Regional Council,TON,14,159
+Taranaki Regional Council,TON,15,6
+Taranaki Regional Council,TP,6,11
+Taranaki Regional Council,TP,7,239
+Taranaki Regional Council,TP,8,367
+Taranaki Regional Council,TP,9,371
+Taranaki Regional Council,TP,10,399
+Taranaki Regional Council,TP,11,371
+Taranaki Regional Council,TP,12,392
+Taranaki Regional Council,TP,13,359
+Taranaki Regional Council,TP,14,159
+Taranaki Regional Council,TP,15,6
+Taranaki Regional Council,TURB,6,18
+Taranaki Regional Council,TURB,7,407
+Taranaki Regional Council,TURB,8,615
+Taranaki Regional Council,TURB,9,627
+Taranaki Regional Council,TURB,10,665
+Taranaki Regional Council,TURB,11,614
+Taranaki Regional Council,TURB,12,653
+Taranaki Regional Council,TURB,13,585
+Taranaki Regional Council,TURB,14,258
+Taranaki Regional Council,TURB,15,7
+Tasman District Council,BDISC,4,1
+Tasman District Council,BDISC,7,33
+Tasman District Council,BDISC,8,171
+Tasman District Council,BDISC,9,383
+Tasman District Council,BDISC,10,589
+Tasman District Council,BDISC,11,544
+Tasman District Council,BDISC,12,436
+Tasman District Council,BDISC,13,360
+Tasman District Council,BDISC,14,198
+Tasman District Council,BDISC,15,73
+Tasman District Council,BDISC,16,39
+Tasman District Council,BDISC,17,14
+Tasman District Council,BDISC,18,8
+Tasman District Council,DRP,0,3
+Tasman District Council,DRP,7,20
+Tasman District Council,DRP,8,157
+Tasman District Council,DRP,9,368
+Tasman District Council,DRP,10,560
+Tasman District Council,DRP,11,501
+Tasman District Council,DRP,12,429
+Tasman District Council,DRP,13,305
+Tasman District Council,DRP,14,137
+Tasman District Council,DRP,15,40
+Tasman District Council,DRP,16,25
+Tasman District Council,DRP,17,5
+Tasman District Council,DRP,18,7
+Tasman District Council,DRP,19,1
+Tasman District Council,ECOLI,0,67
+Tasman District Council,ECOLI,6,1
+Tasman District Council,ECOLI,7,64
+Tasman District Council,ECOLI,8,173
+Tasman District Council,ECOLI,9,396
+Tasman District Council,ECOLI,10,599
+Tasman District Council,ECOLI,11,581
+Tasman District Council,ECOLI,12,489
+Tasman District Council,ECOLI,13,387
+Tasman District Council,ECOLI,14,209
+Tasman District Council,ECOLI,15,85
+Tasman District Council,ECOLI,16,47
+Tasman District Council,ECOLI,17,13
+Tasman District Council,ECOLI,18,11
+Tasman District Council,ECOLI,19,1
+Tasman District Council,NH4,0,7
+Tasman District Council,NH4,7,22
+Tasman District Council,NH4,8,167
+Tasman District Council,NH4,9,391
+Tasman District Council,NH4,10,583
+Tasman District Council,NH4,11,548
+Tasman District Council,NH4,12,469
+Tasman District Council,NH4,13,337
+Tasman District Council,NH4,14,182
+Tasman District Council,NH4,15,63
+Tasman District Council,NH4,16,37
+Tasman District Council,NH4,17,12
+Tasman District Council,NH4,18,11
+Tasman District Council,NH4,19,1
+Tasman District Council,NO3N,0,3
+Tasman District Council,NO3N,7,18
+Tasman District Council,NO3N,8,153
+Tasman District Council,NO3N,9,366
+Tasman District Council,NO3N,10,546
+Tasman District Council,NO3N,11,501
+Tasman District Council,NO3N,12,430
+Tasman District Council,NO3N,13,307
+Tasman District Council,NO3N,14,138
+Tasman District Council,NO3N,15,39
+Tasman District Council,NO3N,16,26
+Tasman District Council,NO3N,17,5
+Tasman District Council,NO3N,18,8
+Tasman District Council,NO3N,19,1
+Tasman District Council,PH,7,9
+Tasman District Council,PH,8,128
+Tasman District Council,PH,9,316
+Tasman District Council,PH,10,470
+Tasman District Council,PH,11,420
+Tasman District Council,PH,12,352
+Tasman District Council,PH,13,231
+Tasman District Council,PH,14,84
+Tasman District Council,PH,15,13
+Tasman District Council,PH,16,2
+Tasman District Council,PH,17,1
+Tasman District Council,PH,18,2
+Tasman District Council,PH,19,1
+Tasman District Council,TN,0,3
+Tasman District Council,TN,7,20
+Tasman District Council,TN,8,155
+Tasman District Council,TN,9,365
+Tasman District Council,TN,10,554
+Tasman District Council,TN,11,496
+Tasman District Council,TN,12,424
+Tasman District Council,TN,13,306
+Tasman District Council,TN,14,135
+Tasman District Council,TN,15,39
+Tasman District Council,TN,16,26
+Tasman District Council,TN,17,5
+Tasman District Council,TN,18,7
+Tasman District Council,TN,19,1
+Tasman District Council,TP,0,3
+Tasman District Council,TP,7,20
+Tasman District Council,TP,8,155
+Tasman District Council,TP,9,365
+Tasman District Council,TP,10,555
+Tasman District Council,TP,11,496
+Tasman District Council,TP,12,424
+Tasman District Council,TP,13,306
+Tasman District Council,TP,14,136
+Tasman District Council,TP,15,39
+Tasman District Council,TP,16,25
+Tasman District Council,TP,17,5
+Tasman District Council,TP,18,7
+Tasman District Council,TP,19,1
+Tasman District Council,TURB,0,7
+Tasman District Council,TURB,7,16
+Tasman District Council,TURB,8,148
+Tasman District Council,TURB,9,357
+Tasman District Council,TURB,10,554
+Tasman District Council,TURB,11,541
+Tasman District Council,TURB,12,448
+Tasman District Council,TURB,13,351
+Tasman District Council,TURB,14,192
+Tasman District Council,TURB,15,78
+Tasman District Council,TURB,16,40
+Tasman District Council,TURB,17,12
+Tasman District Council,TURB,18,9
+Tasman District Council,TURB,19,1
+Waikato Regional Council,BDISC,0,2867
+Waikato Regional Council,BDISC,1,2787
+Waikato Regional Council,BDISC,2,2112
+Waikato Regional Council,BDISC,3,758
+Waikato Regional Council,BDISC,4,136
+Waikato Regional Council,BDISC,5,7
+Waikato Regional Council,BDISC,7,1
+Waikato Regional Council,BDISC,17,1
+Waikato Regional Council,BDISC,18,36
+Waikato Regional Council,BDISC,19,584
+Waikato Regional Council,BDISC,20,1967
+Waikato Regional Council,BDISC,21,3012
+Waikato Regional Council,BDISC,22,3015
+Waikato Regional Council,BDISC,23,2974
+Waikato Regional Council,DRP,0,3376
+Waikato Regional Council,DRP,1,3255
+Waikato Regional Council,DRP,2,2429
+Waikato Regional Council,DRP,3,884
+Waikato Regional Council,DRP,4,152
+Waikato Regional Council,DRP,5,9
+Waikato Regional Council,DRP,7,1
+Waikato Regional Council,DRP,17,4
+Waikato Regional Council,DRP,18,73
+Waikato Regional Council,DRP,19,708
+Waikato Regional Council,DRP,20,2263
+Waikato Regional Council,DRP,21,3501
+Waikato Regional Council,DRP,22,3710
+Waikato Regional Council,DRP,23,3597
+Waikato Regional Council,ECOLI,0,2299
+Waikato Regional Council,ECOLI,1,1961
+Waikato Regional Council,ECOLI,2,1287
+Waikato Regional Council,ECOLI,3,430
+Waikato Regional Council,ECOLI,4,65
+Waikato Regional Council,ECOLI,5,4
+Waikato Regional Council,ECOLI,12,552
+Waikato Regional Council,ECOLI,17,4
+Waikato Regional Council,ECOLI,18,71
+Waikato Regional Council,ECOLI,19,598
+Waikato Regional Council,ECOLI,20,1687
+Waikato Regional Council,ECOLI,21,2436
+Waikato Regional Council,ECOLI,22,2614
+Waikato Regional Council,ECOLI,23,2531
+Waikato Regional Council,NH4,0,3377
+Waikato Regional Council,NH4,1,3261
+Waikato Regional Council,NH4,2,2439
+Waikato Regional Council,NH4,3,884
+Waikato Regional Council,NH4,4,152
+Waikato Regional Council,NH4,5,9
+Waikato Regional Council,NH4,7,1
+Waikato Regional Council,NH4,17,4
+Waikato Regional Council,NH4,18,73
+Waikato Regional Council,NH4,19,708
+Waikato Regional Council,NH4,20,2263
+Waikato Regional Council,NH4,21,3501
+Waikato Regional Council,NH4,22,3710
+Waikato Regional Council,NH4,23,3597
+Waikato Regional Council,PH,0,3376
+Waikato Regional Council,PH,1,3260
+Waikato Regional Council,PH,2,2438
+Waikato Regional Council,PH,3,884
+Waikato Regional Council,PH,4,152
+Waikato Regional Council,PH,5,9
+Waikato Regional Council,PH,7,1
+Waikato Regional Council,PH,17,4
+Waikato Regional Council,PH,18,73
+Waikato Regional Council,PH,19,688
+Waikato Regional Council,PH,20,2244
+Waikato Regional Council,PH,21,3468
+Waikato Regional Council,PH,22,3663
+Waikato Regional Council,PH,23,3584
+Waikato Regional Council,TN,0,3377
+Waikato Regional Council,TN,1,3262
+Waikato Regional Council,TN,2,2440
+Waikato Regional Council,TN,3,884
+Waikato Regional Council,TN,4,152
+Waikato Regional Council,TN,5,9
+Waikato Regional Council,TN,7,1
+Waikato Regional Council,TN,17,4
+Waikato Regional Council,TN,18,73
+Waikato Regional Council,TN,19,708
+Waikato Regional Council,TN,20,2263
+Waikato Regional Council,TN,21,3501
+Waikato Regional Council,TN,22,3710
+Waikato Regional Council,TN,23,3597
+Waikato Regional Council,TON,0,3377
+Waikato Regional Council,TON,1,3261
+Waikato Regional Council,TON,2,2440
+Waikato Regional Council,TON,3,884
+Waikato Regional Council,TON,4,152
+Waikato Regional Council,TON,5,9
+Waikato Regional Council,TON,7,1
+Waikato Regional Council,TON,17,4
+Waikato Regional Council,TON,18,73
+Waikato Regional Council,TON,19,708
+Waikato Regional Council,TON,20,2263
+Waikato Regional Council,TON,21,3501
+Waikato Regional Council,TON,22,3710
+Waikato Regional Council,TON,23,3597
+Waikato Regional Council,TP,0,3320
+Waikato Regional Council,TP,1,3159
+Waikato Regional Council,TP,2,2333
+Waikato Regional Council,TP,3,840
+Waikato Regional Council,TP,4,145
+Waikato Regional Council,TP,5,9
+Waikato Regional Council,TP,7,1
+Waikato Regional Council,TP,17,4
+Waikato Regional Council,TP,18,73
+Waikato Regional Council,TP,19,708
+Waikato Regional Council,TP,20,2263
+Waikato Regional Council,TP,21,3501
+Waikato Regional Council,TP,22,3710
+Waikato Regional Council,TP,23,3584
+Waikato Regional Council,TURB,0,3378
+Waikato Regional Council,TURB,1,3261
+Waikato Regional Council,TURB,2,2438
+Waikato Regional Council,TURB,3,884
+Waikato Regional Council,TURB,4,152
+Waikato Regional Council,TURB,5,9
+Waikato Regional Council,TURB,7,1
+Waikato Regional Council,TURB,17,4
+Waikato Regional Council,TURB,18,73
+Waikato Regional Council,TURB,19,708
+Waikato Regional Council,TURB,20,2263
+Waikato Regional Council,TURB,21,3482
+Waikato Regional Council,TURB,22,3683
+Waikato Regional Council,TURB,23,3594
+West Coast Regional Council,BDISC,3,1
+West Coast Regional Council,BDISC,6,17
+West Coast Regional Council,BDISC,7,76
+West Coast Regional Council,BDISC,8,241
+West Coast Regional Council,BDISC,9,577
+West Coast Regional Council,BDISC,10,787
+West Coast Regional Council,BDISC,11,772
+West Coast Regional Council,BDISC,12,720
+West Coast Regional Council,BDISC,13,590
+West Coast Regional Council,BDISC,14,416
+West Coast Regional Council,BDISC,15,190
+West Coast Regional Council,BDISC,16,69
+West Coast Regional Council,BDISC,17,41
+West Coast Regional Council,BDISC,18,12
+West Coast Regional Council,BDISC,19,3
+West Coast Regional Council,DIN,6,1
+West Coast Regional Council,DIN,8,5
+West Coast Regional Council,DIN,9,8
+West Coast Regional Council,DIN,10,7
+West Coast Regional Council,DIN,11,7
+West Coast Regional Council,DIN,12,26
+West Coast Regional Council,DIN,13,28
+West Coast Regional Council,DIN,14,33
+West Coast Regional Council,DIN,15,15
+West Coast Regional Council,DIN,16,5
+West Coast Regional Council,DIN,17,1
+West Coast Regional Council,DRP,0,180
+West Coast Regional Council,DRP,6,14
+West Coast Regional Council,DRP,7,60
+West Coast Regional Council,DRP,8,205
+West Coast Regional Council,DRP,9,490
+West Coast Regional Council,DRP,10,684
+West Coast Regional Council,DRP,11,640
+West Coast Regional Council,DRP,12,597
+West Coast Regional Council,DRP,13,463
+West Coast Regional Council,DRP,14,322
+West Coast Regional Council,DRP,15,136
+West Coast Regional Council,DRP,16,49
+West Coast Regional Council,DRP,17,18
+West Coast Regional Council,DRP,18,1
+West Coast Regional Council,ECOLI,3,1
+West Coast Regional Council,ECOLI,6,18
+West Coast Regional Council,ECOLI,7,79
+West Coast Regional Council,ECOLI,8,248
+West Coast Regional Council,ECOLI,9,604
+West Coast Regional Council,ECOLI,10,832
+West Coast Regional Council,ECOLI,11,810
+West Coast Regional Council,ECOLI,12,733
+West Coast Regional Council,ECOLI,13,604
+West Coast Regional Council,ECOLI,14,433
+West Coast Regional Council,ECOLI,15,191
+West Coast Regional Council,ECOLI,16,72
+West Coast Regional Council,ECOLI,17,40
+West Coast Regional Council,ECOLI,18,13
+West Coast Regional Council,ECOLI,19,3
+West Coast Regional Council,NH4,0,179
+West Coast Regional Council,NH4,6,14
+West Coast Regional Council,NH4,7,63
+West Coast Regional Council,NH4,8,215
+West Coast Regional Council,NH4,9,527
+West Coast Regional Council,NH4,10,731
+West Coast Regional Council,NH4,11,717
+West Coast Regional Council,NH4,12,683
+West Coast Regional Council,NH4,13,539
+West Coast Regional Council,NH4,14,382
+West Coast Regional Council,NH4,15,179
+West Coast Regional Council,NH4,16,64
+West Coast Regional Council,NH4,17,38
+West Coast Regional Council,NH4,18,10
+West Coast Regional Council,NH4,19,3
+West Coast Regional Council,NO3N,0,181
+West Coast Regional Council,NO3N,6,14
+West Coast Regional Council,NO3N,7,60
+West Coast Regional Council,NO3N,8,205
+West Coast Regional Council,NO3N,9,493
+West Coast Regional Council,NO3N,10,684
+West Coast Regional Council,NO3N,11,644
+West Coast Regional Council,NO3N,12,602
+West Coast Regional Council,NO3N,13,467
+West Coast Regional Council,NO3N,14,326
+West Coast Regional Council,NO3N,15,138
+West Coast Regional Council,NO3N,16,49
+West Coast Regional Council,NO3N,17,19
+West Coast Regional Council,NO3N,18,1
+West Coast Regional Council,PH,6,15
+West Coast Regional Council,PH,7,65
+West Coast Regional Council,PH,8,227
+West Coast Regional Council,PH,9,538
+West Coast Regional Council,PH,10,736
+West Coast Regional Council,PH,11,717
+West Coast Regional Council,PH,12,655
+West Coast Regional Council,PH,13,543
+West Coast Regional Council,PH,14,387
+West Coast Regional Council,PH,15,193
+West Coast Regional Council,PH,16,68
+West Coast Regional Council,PH,17,42
+West Coast Regional Council,PH,18,13
+West Coast Regional Council,PH,19,3
+West Coast Regional Council,TN,0,182
+West Coast Regional Council,TN,6,14
+West Coast Regional Council,TN,7,60
+West Coast Regional Council,TN,8,206
+West Coast Regional Council,TN,9,490
+West Coast Regional Council,TN,10,685
+West Coast Regional Council,TN,11,643
+West Coast Regional Council,TN,12,592
+West Coast Regional Council,TN,13,464
+West Coast Regional Council,TN,14,323
+West Coast Regional Council,TN,15,136
+West Coast Regional Council,TN,16,49
+West Coast Regional Council,TN,17,18
+West Coast Regional Council,TN,18,1
+West Coast Regional Council,TON,6,9
+West Coast Regional Council,TON,7,46
+West Coast Regional Council,TON,8,170
+West Coast Regional Council,TON,9,415
+West Coast Regional Council,TON,10,559
+West Coast Regional Council,TON,11,500
+West Coast Regional Council,TON,12,420
+West Coast Regional Council,TON,13,304
+West Coast Regional Council,TON,14,172
+West Coast Regional Council,TON,15,61
+West Coast Regional Council,TON,16,14
+West Coast Regional Council,TON,17,5
+West Coast Regional Council,TP,0,182
+West Coast Regional Council,TP,6,14
+West Coast Regional Council,TP,7,60
+West Coast Regional Council,TP,8,205
+West Coast Regional Council,TP,9,491
+West Coast Regional Council,TP,10,685
+West Coast Regional Council,TP,11,643
+West Coast Regional Council,TP,12,592
+West Coast Regional Council,TP,13,463
+West Coast Regional Council,TP,14,324
+West Coast Regional Council,TP,15,136
+West Coast Regional Council,TP,16,49
+West Coast Regional Council,TP,17,18
+West Coast Regional Council,TP,18,1
+West Coast Regional Council,TURBFNU,0,180
+West Coast Regional Council,TURBFNU,6,14
+West Coast Regional Council,TURBFNU,7,64
+West Coast Regional Council,TURBFNU,8,226
+West Coast Regional Council,TURBFNU,9,541
+West Coast Regional Council,TURBFNU,10,733
+West Coast Regional Council,TURBFNU,11,720
+West Coast Regional Council,TURBFNU,12,676
+West Coast Regional Council,TURBFNU,13,545
+West Coast Regional Council,TURBFNU,14,386
+West Coast Regional Council,TURBFNU,15,191
+West Coast Regional Council,TURBFNU,16,67
+West Coast Regional Council,TURBFNU,17,42
+West Coast Regional Council,TURBFNU,18,12
+West Coast Regional Council,TURBFNU,19,3

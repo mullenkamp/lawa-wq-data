@@ -1,0 +1,168 @@
+Agency,Indicator,sample_min_date,sample_max_date,sample_count
+Auckland Council,BDISC,2005-01-13 00:00:00,2022-09-22 02:10:00,987
+Auckland Council,DIN,2005-01-09 20:05:00,2022-12-21 00:35:00,6143
+Auckland Council,DRP,2005-01-09 20:05:00,2022-12-21 00:35:00,6322
+Auckland Council,ECOLI,2005-01-23 21:15:00,2022-12-21 00:35:00,6009
+Auckland Council,NH4,2005-01-09 20:05:00,2022-12-21 00:35:00,6280
+Auckland Council,NO3N,2016-02-15 20:12:00,2022-12-21 00:35:00,1595
+Auckland Council,PH,2009-01-05 19:30:00,2022-12-21 00:35:00,5168
+Auckland Council,TN,2009-01-05 19:30:00,2022-12-21 00:35:00,5285
+Auckland Council,TON,2005-01-09 20:05:00,2022-12-21 00:35:00,6289
+Auckland Council,TP,2005-01-09 20:05:00,2022-12-21 00:35:00,6330
+Auckland Council,TURB,2005-01-09 20:05:00,2022-12-21 00:35:00,6324
+Bay of Plenty Regional Council,BDISC,2004-07-08 22:45:00,2022-12-21 02:30:00,4108
+Bay of Plenty Regional Council,DIN,2021-07-05 00:00:00,2022-12-21 02:30:00,777
+Bay of Plenty Regional Council,DRP,2004-01-11 21:13:00,2022-12-21 02:30:00,7074
+Bay of Plenty Regional Council,ECOLI,2004-01-04 21:15:00,2022-12-21 02:30:00,7893
+Bay of Plenty Regional Council,NH4,2004-01-11 21:13:00,2022-12-21 02:30:00,7133
+Bay of Plenty Regional Council,PH,2004-01-11 21:13:00,2022-12-21 02:30:00,7148
+Bay of Plenty Regional Council,TN,2009-10-06 22:05:00,2022-12-21 02:30:00,5815
+Bay of Plenty Regional Council,TON,2004-01-11 21:13:00,2022-12-21 02:30:00,7176
+Bay of Plenty Regional Council,TP,2004-01-11 21:13:00,2022-12-21 02:30:00,7181
+Bay of Plenty Regional Council,TURB,2004-01-11 21:13:00,2022-12-21 02:30:00,7346
+Environment Canterbury,BDISC,2014-04-10 00:00:00,2020-12-08 21:30:00,20
+Environment Canterbury,DIN,2005-02-17 00:00:00,2020-12-08 21:30:00,108
+Environment Canterbury,DRP,2005-02-17 00:00:00,2020-12-08 21:30:00,70
+Environment Canterbury,ECOLI,2005-02-17 00:00:00,2020-12-08 21:30:00,100
+Environment Canterbury,NH4,2005-02-17 00:00:00,2020-12-08 21:30:00,108
+Environment Canterbury,NO3N,2011-03-21 00:08:00,2011-03-22 00:09:00,4
+Environment Canterbury,PH,2005-02-17 00:00:00,2020-12-08 21:30:00,107
+Environment Canterbury,TN,2005-02-17 00:00:00,2020-12-08 21:30:00,108
+Environment Canterbury,TON,2005-02-17 00:00:00,2020-12-08 21:30:00,108
+Environment Canterbury,TP,2005-02-17 00:00:00,2020-12-08 21:30:00,108
+Environment Canterbury,TURB,2005-02-17 00:00:00,2020-12-08 21:30:00,107
+Environment Southland,BDISC,2004-01-14 05:49:00,2015-01-15 00:00:00,3
+Environment Southland,DIN,1993-02-16 19:15:00,2015-01-15 00:00:00,53
+Environment Southland,DRP,2004-01-14 05:49:00,2015-01-15 00:00:00,4
+Environment Southland,ECOLI,2004-01-14 05:49:00,2015-01-15 00:00:00,4
+Environment Southland,NH4,2004-01-14 05:49:00,2015-01-15 00:00:00,4
+Environment Southland,NO3N,2013-10-10 00:07:00,2015-01-15 00:00:00,3
+Environment Southland,PH,2004-01-14 05:49:00,2015-01-15 00:00:00,4
+Environment Southland,TN,2004-01-14 05:49:00,2015-01-15 00:00:00,4
+Environment Southland,TON,2004-01-14 05:49:00,2015-01-15 00:00:00,5
+Environment Southland,TP,2004-01-14 05:49:00,2015-01-15 00:00:00,4
+Environment Southland,TURB,2004-01-14 05:49:00,2015-01-15 00:00:00,4
+Gisborne District Council,DIN,2016-09-08 00:09:00,2022-02-28 01:19:00,2
+Gisborne District Council,DRP,2004-12-08 05:45:00,2022-02-28 01:19:00,18
+Gisborne District Council,ECOLI,2004-08-25 00:00:00,2022-12-28 05:52:00,19
+Gisborne District Council,NH4,2004-12-08 05:45:00,2022-02-28 01:19:00,19
+Gisborne District Council,NO3N,2004-12-08 05:45:00,2022-02-28 01:19:00,16
+Gisborne District Council,PH,2004-08-25 00:00:00,2022-02-28 01:19:00,43
+Gisborne District Council,TN,2016-01-14 04:27:00,2022-02-28 01:19:00,8
+Gisborne District Council,TON,2016-01-14 04:27:00,2022-02-28 01:19:00,8
+Gisborne District Council,TP,2016-01-14 04:27:00,2022-02-28 01:19:00,8
+Gisborne District Council,TURB,2004-12-08 05:45:00,2022-02-28 01:19:00,16
+Gisborne District Council,TURBFNU,2022-02-28 01:19:00,2022-02-28 01:19:00,1
+Greater Wellington Regional Council,BDISC,2016-05-10 00:00:00,2022-03-16 00:00:00,43
+Greater Wellington Regional Council,DIN,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,DRP,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,ECOLI,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,NH4,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,NO3N,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,PH,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,TN,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,TON,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,TP,2016-05-10 00:00:00,2020-01-07 23:14:00,2
+Greater Wellington Regional Council,TURB,2013-05-03 02:41:00,2020-01-07 23:14:00,96
+Hawkes Bay Regional Council,BDISC,2004-03-26 00:00:00,2021-04-13 00:39:00,79
+Hawkes Bay Regional Council,DIN,2004-03-26 00:00:00,2022-08-18 00:00:00,93
+Hawkes Bay Regional Council,DRP,2004-03-26 00:00:00,2022-08-18 00:00:00,112
+Hawkes Bay Regional Council,ECOLI,2004-01-20 00:00:00,2022-08-18 00:00:00,95
+Hawkes Bay Regional Council,NH4,2004-03-26 00:00:00,2022-08-18 00:00:00,112
+Hawkes Bay Regional Council,NO3N,2004-03-26 00:00:00,2022-08-18 00:00:00,112
+Hawkes Bay Regional Council,PH,2004-03-26 00:00:00,2022-08-18 00:00:00,88
+Hawkes Bay Regional Council,TN,2004-03-26 00:00:00,2022-08-18 00:00:00,104
+Hawkes Bay Regional Council,TON,2004-03-26 00:00:00,2022-08-18 00:00:00,112
+Hawkes Bay Regional Council,TP,2004-03-26 00:00:00,2022-08-18 00:00:00,108
+Hawkes Bay Regional Council,TURB,2004-03-26 00:00:00,2015-11-17 00:00:00,90
+Hawkes Bay Regional Council,TURBFNU,2021-04-13 00:39:00,2022-08-18 00:00:00,2
+Horizons Regional Council,BDISC,2006-03-02 00:00:00,2012-10-18 05:55:00,12
+Horizons Regional Council,DIN,2006-03-02 00:00:00,2012-10-18 05:55:00,16
+Horizons Regional Council,DRP,2006-03-02 00:00:00,2012-10-18 05:55:00,16
+Horizons Regional Council,ECOLI,2006-03-02 00:00:00,2012-10-18 05:55:00,15
+Horizons Regional Council,NH4,2006-03-02 00:00:00,2012-10-18 05:55:00,16
+Horizons Regional Council,NO3N,2006-03-02 00:00:00,2012-10-18 05:55:00,12
+Horizons Regional Council,PH,2007-08-07 00:00:00,2012-10-18 05:55:00,12
+Horizons Regional Council,TN,2007-08-07 00:00:00,2012-10-18 05:55:00,13
+Horizons Regional Council,TON,2006-03-02 00:00:00,2012-10-18 05:55:00,16
+Horizons Regional Council,TP,2007-08-07 00:00:00,2012-10-18 05:55:00,13
+Horizons Regional Council,TURB,2006-03-02 00:00:00,2022-02-26 02:00:00,17
+Horizons Regional Council,TURBFNU,2022-02-26 02:00:00,2022-02-26 02:00:00,1
+Marlborough District Council,DIN,2012-08-22 03:15:00,2021-07-12 23:45:00,12
+Marlborough District Council,DRP,2007-07-11 00:00:00,2021-07-12 23:45:00,52
+Marlborough District Council,ECOLI,2007-02-12 00:00:00,2022-01-10 00:11:00,54
+Marlborough District Council,NH4,2007-07-11 00:00:00,2021-07-12 23:45:00,51
+Marlborough District Council,NO3N,2007-07-11 00:00:00,2021-07-12 23:45:00,53
+Marlborough District Council,PH,2007-02-12 00:00:00,2021-07-12 23:45:00,52
+Marlborough District Council,TN,2017-05-16 00:00:00,2021-07-12 23:45:00,6
+Marlborough District Council,TON,2007-07-11 00:00:00,2021-07-12 23:45:00,52
+Marlborough District Council,TP,2017-05-16 00:00:00,2021-07-12 23:45:00,6
+Marlborough District Council,TURB,2007-02-12 00:00:00,2021-07-12 23:45:00,53
+NIWA,BDISC,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+NIWA,DRP,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+NIWA,ECOLI,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+NIWA,NH4,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+NIWA,PH,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+NIWA,TN,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+NIWA,TON,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+NIWA,TP,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+NIWA,TURB,2014-12-10 05:15:00,2022-06-21 23:31:00,17
+Nelson City Council,BDISC,2010-09-30 00:00:00,2020-01-15 23:00:00,3
+Nelson City Council,DIN,2018-07-18 00:10:00,2020-01-15 23:00:00,2
+Nelson City Council,DRP,2010-09-30 00:00:00,2020-01-15 23:00:00,3
+Nelson City Council,ECOLI,2010-09-30 00:00:00,2020-01-15 23:00:00,4
+Nelson City Council,NH4,2010-09-30 00:00:00,2020-01-15 23:00:00,3
+Nelson City Council,NO3N,2015-01-14 00:00:00,2020-01-15 23:00:00,10
+Nelson City Council,PH,2010-09-30 00:00:00,2020-01-15 23:00:00,4
+Nelson City Council,TN,2018-07-18 00:10:00,2020-01-15 23:00:00,3
+Nelson City Council,TON,2018-07-18 00:10:00,2020-01-15 23:00:00,4
+Nelson City Council,TP,2018-07-18 00:10:00,2020-01-15 23:00:00,2
+Nelson City Council,TURB,2010-09-30 00:00:00,2020-01-15 23:00:00,3
+Northland Regional Council,BDISC,2005-05-18 01:10:00,2015-12-16 05:30:00,6
+Northland Regional Council,DRP,2005-05-18 01:10:00,2015-12-16 05:30:00,6
+Northland Regional Council,ECOLI,2005-05-18 01:10:00,2015-12-16 05:30:00,5
+Northland Regional Council,NH4,2005-05-18 01:10:00,2015-12-16 05:30:00,6
+Northland Regional Council,NO3N,2013-12-18 01:15:00,2015-12-16 05:30:00,2
+Northland Regional Council,PH,2005-05-18 01:10:00,2015-12-16 05:30:00,6
+Northland Regional Council,TN,2011-03-24 19:05:00,2015-12-16 05:30:00,3
+Northland Regional Council,TON,2005-05-18 01:10:00,2015-12-16 05:30:00,6
+Northland Regional Council,TP,2005-05-18 01:10:00,2015-12-16 05:30:00,6
+Northland Regional Council,TURB,2005-05-18 01:10:00,2015-12-16 05:30:00,5
+Otago Regional Council,BDISC,2004-12-06 02:47:00,2010-11-29 00:08:00,14
+Otago Regional Council,DIN,2004-01-06 00:00:00,2020-12-22 00:00:00,7089
+Otago Regional Council,DRP,2004-12-06 02:47:00,2010-11-29 00:08:00,16
+Otago Regional Council,ECOLI,2004-12-06 02:47:00,2021-03-15 00:12:00,33
+Otago Regional Council,NH4,2004-12-06 02:47:00,2010-11-29 00:08:00,17
+Otago Regional Council,NO3N,2004-12-06 02:47:00,2010-11-29 00:08:00,17
+Otago Regional Council,PH,2004-12-06 02:47:00,2010-11-29 00:08:00,9
+Otago Regional Council,TN,2004-12-06 02:47:00,2010-11-29 00:08:00,17
+Otago Regional Council,TON,2004-12-06 02:47:00,2010-11-29 00:08:00,17
+Otago Regional Council,TP,2004-12-06 02:47:00,2010-11-29 00:08:00,16
+Otago Regional Council,TURB,2004-12-06 02:47:00,2010-11-29 00:08:00,14
+Tasman District Council,BDISC,2004-11-30 04:00:00,2004-11-30 04:00:00,1
+Tasman District Council,DRP,2004-11-30 00:00:00,2013-04-15 19:10:00,4
+Tasman District Council,ECOLI,2004-11-30 00:00:00,2016-06-14 00:00:00,68
+Tasman District Council,NH4,2004-11-30 00:00:00,2013-04-15 19:10:00,8
+Tasman District Council,NO3N,2004-11-30 00:00:00,2013-04-15 19:10:00,4
+Tasman District Council,PH,2013-04-15 19:10:00,2013-04-15 19:10:00,1
+Tasman District Council,TN,2004-11-30 00:00:00,2013-04-15 19:10:00,4
+Tasman District Council,TP,2004-11-30 00:00:00,2013-04-15 19:10:00,4
+Tasman District Council,TURB,2004-11-30 00:00:00,2013-04-15 19:10:00,8
+Waikato Regional Council,BDISC,2004-01-05 20:55:00,2022-12-22 00:48:00,20219
+Waikato Regional Council,DRP,2004-01-05 20:15:00,2022-12-22 00:48:00,23884
+Waikato Regional Council,ECOLI,2004-01-05 20:15:00,2022-12-22 00:48:00,15912
+Waikato Regional Council,NH4,2004-01-05 20:15:00,2022-12-22 00:48:00,23901
+Waikato Regional Council,PH,2004-01-05 20:15:00,2022-12-22 00:48:00,23766
+Waikato Regional Council,TN,2004-01-05 20:15:00,2022-12-22 00:48:00,23903
+Waikato Regional Council,TON,2004-01-05 20:15:00,2022-12-22 00:48:00,23902
+Waikato Regional Council,TP,2004-01-05 20:15:00,2022-12-22 00:48:00,23572
+Waikato Regional Council,TURB,2004-01-05 20:15:00,2022-12-22 00:48:00,23852
+West Coast Regional Council,BDISC,2007-03-08 03:36:00,2008-12-03 19:00:00,4
+West Coast Regional Council,DRP,2004-06-01 00:00:00,2020-05-19 00:00:00,180
+West Coast Regional Council,ECOLI,2007-03-08 03:36:00,2008-12-03 19:00:00,4
+West Coast Regional Council,NH4,2004-06-01 00:00:00,2020-05-19 00:00:00,182
+West Coast Regional Council,NO3N,2004-06-01 00:00:00,2020-05-19 00:00:00,181
+West Coast Regional Council,PH,2007-10-30 19:00:00,2008-12-03 19:00:00,3
+West Coast Regional Council,TN,2004-06-01 00:00:00,2020-05-19 00:00:00,182
+West Coast Regional Council,TP,2004-06-01 00:00:00,2020-05-19 00:00:00,182
+West Coast Regional Council,TURBFNU,2004-06-01 00:00:00,2020-05-19 00:00:00,183
