@@ -28,7 +28,7 @@ ts_data0 = pd.merge(stn_data0[['LawaSiteID', 'Agency']], ts_data0.dropna(subset=
 
 grp = ts_data0.groupby(['LawaSiteID', 'Indicator', 'SampleDateTime'])
 
-other1 = grp[['Agency', 'QCRaw', 'QCNumber', 'QCNEMSEquivalent', 'RawValue']].first()
+other1 = grp[['Agency', 'QCRaw', 'QCNumber', 'QCNEMSEquivalent', 'Symbol', 'RawValue']].first()
 values1 = grp['Value (numeric)'].mean()
 values1.name = 'Value (numeric)'
 
