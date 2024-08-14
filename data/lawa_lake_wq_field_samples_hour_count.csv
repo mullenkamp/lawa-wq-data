@@ -1,0 +1,904 @@
+Agency,Indicator,hour,sample_count
+Auckland Council,CHLA,6,1
+Auckland Council,CHLA,7,10
+Auckland Council,CHLA,8,10
+Auckland Council,CHLA,9,9
+Auckland Council,CHLA,10,8
+Auckland Council,CHLA,11,10
+Auckland Council,CHLA,12,425
+Auckland Council,CHLA,13,3
+Auckland Council,CYANOTOT,6,1
+Auckland Council,CYANOTOT,7,9
+Auckland Council,CYANOTOT,8,10
+Auckland Council,CYANOTOT,9,7
+Auckland Council,CYANOTOT,10,6
+Auckland Council,CYANOTOT,11,10
+Auckland Council,CYANOTOT,12,181
+Auckland Council,CYANOTOT,13,3
+Auckland Council,CYANOTOX,6,1
+Auckland Council,CYANOTOX,7,9
+Auckland Council,CYANOTOX,8,10
+Auckland Council,CYANOTOX,9,7
+Auckland Council,CYANOTOX,10,6
+Auckland Council,CYANOTOX,11,10
+Auckland Council,CYANOTOX,12,181
+Auckland Council,CYANOTOX,13,3
+Auckland Council,ECOLI,7,9
+Auckland Council,ECOLI,8,10
+Auckland Council,ECOLI,9,9
+Auckland Council,ECOLI,10,8
+Auckland Council,ECOLI,11,9
+Auckland Council,ECOLI,12,376
+Auckland Council,ECOLI,13,3
+Auckland Council,NH4N,6,1
+Auckland Council,NH4N,7,10
+Auckland Council,NH4N,8,10
+Auckland Council,NH4N,9,9
+Auckland Council,NH4N,10,8
+Auckland Council,NH4N,11,10
+Auckland Council,NH4N,12,425
+Auckland Council,NH4N,13,3
+Auckland Council,Secchi,6,1
+Auckland Council,Secchi,7,10
+Auckland Council,Secchi,8,10
+Auckland Council,Secchi,9,9
+Auckland Council,Secchi,10,8
+Auckland Council,Secchi,11,10
+Auckland Council,Secchi,12,398
+Auckland Council,Secchi,13,3
+Auckland Council,TN,6,1
+Auckland Council,TN,7,10
+Auckland Council,TN,8,10
+Auckland Council,TN,9,9
+Auckland Council,TN,10,8
+Auckland Council,TN,11,10
+Auckland Council,TN,12,302
+Auckland Council,TN,13,3
+Auckland Council,TP,6,1
+Auckland Council,TP,7,10
+Auckland Council,TP,8,10
+Auckland Council,TP,9,9
+Auckland Council,TP,10,8
+Auckland Council,TP,11,10
+Auckland Council,TP,12,427
+Auckland Council,TP,13,3
+Auckland Council,pH,6,1
+Auckland Council,pH,7,10
+Auckland Council,pH,8,10
+Auckland Council,pH,9,9
+Auckland Council,pH,10,8
+Auckland Council,pH,11,10
+Auckland Council,pH,12,397
+Auckland Council,pH,13,3
+Bay of Plenty Regional Council,CHLA,6,20
+Bay of Plenty Regional Council,CHLA,7,163
+Bay of Plenty Regional Council,CHLA,8,364
+Bay of Plenty Regional Council,CHLA,9,476
+Bay of Plenty Regional Council,CHLA,10,548
+Bay of Plenty Regional Council,CHLA,11,475
+Bay of Plenty Regional Council,CHLA,12,477
+Bay of Plenty Regional Council,CHLA,13,99
+Bay of Plenty Regional Council,CHLA,14,36
+Bay of Plenty Regional Council,CHLA,15,1
+Bay of Plenty Regional Council,ECOLI,7,12
+Bay of Plenty Regional Council,ECOLI,8,42
+Bay of Plenty Regional Council,ECOLI,9,38
+Bay of Plenty Regional Council,ECOLI,10,47
+Bay of Plenty Regional Council,ECOLI,11,47
+Bay of Plenty Regional Council,ECOLI,12,73
+Bay of Plenty Regional Council,ECOLI,13,19
+Bay of Plenty Regional Council,ECOLI,14,6
+Bay of Plenty Regional Council,ECOLI,15,1
+Bay of Plenty Regional Council,NH4N,6,20
+Bay of Plenty Regional Council,NH4N,7,156
+Bay of Plenty Regional Council,NH4N,8,345
+Bay of Plenty Regional Council,NH4N,9,445
+Bay of Plenty Regional Council,NH4N,10,518
+Bay of Plenty Regional Council,NH4N,11,461
+Bay of Plenty Regional Council,NH4N,12,464
+Bay of Plenty Regional Council,NH4N,13,100
+Bay of Plenty Regional Council,NH4N,14,35
+Bay of Plenty Regional Council,NH4N,15,1
+Bay of Plenty Regional Council,Secchi,6,1
+Bay of Plenty Regional Council,Secchi,7,78
+Bay of Plenty Regional Council,Secchi,8,184
+Bay of Plenty Regional Council,Secchi,9,201
+Bay of Plenty Regional Council,Secchi,10,231
+Bay of Plenty Regional Council,Secchi,11,187
+Bay of Plenty Regional Council,Secchi,12,2066
+Bay of Plenty Regional Council,Secchi,13,44
+Bay of Plenty Regional Council,Secchi,14,18
+Bay of Plenty Regional Council,Secchi,15,1
+Bay of Plenty Regional Council,TN,6,4
+Bay of Plenty Regional Council,TN,7,114
+Bay of Plenty Regional Council,TN,8,268
+Bay of Plenty Regional Council,TN,9,330
+Bay of Plenty Regional Council,TN,10,393
+Bay of Plenty Regional Council,TN,11,330
+Bay of Plenty Regional Council,TN,12,392
+Bay of Plenty Regional Council,TN,13,78
+Bay of Plenty Regional Council,TN,14,25
+Bay of Plenty Regional Council,TN,15,1
+Bay of Plenty Regional Council,TP,6,20
+Bay of Plenty Regional Council,TP,7,112
+Bay of Plenty Regional Council,TP,8,255
+Bay of Plenty Regional Council,TP,9,350
+Bay of Plenty Regional Council,TP,10,419
+Bay of Plenty Regional Council,TP,11,361
+Bay of Plenty Regional Council,TP,12,2387
+Bay of Plenty Regional Council,TP,13,77
+Bay of Plenty Regional Council,TP,14,24
+Bay of Plenty Regional Council,TP,15,1
+Bay of Plenty Regional Council,pH,6,20
+Bay of Plenty Regional Council,pH,7,163
+Bay of Plenty Regional Council,pH,8,369
+Bay of Plenty Regional Council,pH,9,478
+Bay of Plenty Regional Council,pH,10,549
+Bay of Plenty Regional Council,pH,11,475
+Bay of Plenty Regional Council,pH,12,480
+Bay of Plenty Regional Council,pH,13,100
+Bay of Plenty Regional Council,pH,14,36
+Bay of Plenty Regional Council,pH,15,1
+Environment Canterbury,CHLA,6,3
+Environment Canterbury,CHLA,7,51
+Environment Canterbury,CHLA,8,204
+Environment Canterbury,CHLA,9,699
+Environment Canterbury,CHLA,10,1036
+Environment Canterbury,CHLA,11,904
+Environment Canterbury,CHLA,12,765
+Environment Canterbury,CHLA,13,543
+Environment Canterbury,CHLA,14,308
+Environment Canterbury,CHLA,15,102
+Environment Canterbury,CHLA,16,13
+Environment Canterbury,CHLA,17,2
+Environment Canterbury,CYANOTOT,6,2
+Environment Canterbury,CYANOTOT,7,24
+Environment Canterbury,CYANOTOT,8,45
+Environment Canterbury,CYANOTOT,9,146
+Environment Canterbury,CYANOTOT,10,196
+Environment Canterbury,CYANOTOT,11,199
+Environment Canterbury,CYANOTOT,12,158
+Environment Canterbury,CYANOTOT,13,105
+Environment Canterbury,CYANOTOT,14,47
+Environment Canterbury,CYANOTOT,15,8
+Environment Canterbury,CYANOTOT,16,2
+Environment Canterbury,CYANOTOX,6,2
+Environment Canterbury,CYANOTOX,7,22
+Environment Canterbury,CYANOTOX,8,43
+Environment Canterbury,CYANOTOX,9,126
+Environment Canterbury,CYANOTOX,10,166
+Environment Canterbury,CYANOTOX,11,178
+Environment Canterbury,CYANOTOX,12,135
+Environment Canterbury,CYANOTOX,13,88
+Environment Canterbury,CYANOTOX,14,46
+Environment Canterbury,CYANOTOX,15,12
+Environment Canterbury,CYANOTOX,16,2
+Environment Canterbury,ECOLI,6,3
+Environment Canterbury,ECOLI,7,45
+Environment Canterbury,ECOLI,8,111
+Environment Canterbury,ECOLI,9,334
+Environment Canterbury,ECOLI,10,423
+Environment Canterbury,ECOLI,11,339
+Environment Canterbury,ECOLI,12,268
+Environment Canterbury,ECOLI,13,192
+Environment Canterbury,ECOLI,14,116
+Environment Canterbury,ECOLI,15,26
+Environment Canterbury,ECOLI,16,3
+Environment Canterbury,NH4N,6,3
+Environment Canterbury,NH4N,7,47
+Environment Canterbury,NH4N,8,115
+Environment Canterbury,NH4N,9,365
+Environment Canterbury,NH4N,10,547
+Environment Canterbury,NH4N,11,423
+Environment Canterbury,NH4N,12,303
+Environment Canterbury,NH4N,13,201
+Environment Canterbury,NH4N,14,107
+Environment Canterbury,NH4N,15,22
+Environment Canterbury,NH4N,16,3
+Environment Canterbury,Secchi,6,3
+Environment Canterbury,Secchi,7,13
+Environment Canterbury,Secchi,8,33
+Environment Canterbury,Secchi,9,174
+Environment Canterbury,Secchi,10,293
+Environment Canterbury,Secchi,11,243
+Environment Canterbury,Secchi,12,155
+Environment Canterbury,Secchi,13,89
+Environment Canterbury,Secchi,14,39
+Environment Canterbury,Secchi,15,7
+Environment Canterbury,Secchi,16,1
+Environment Canterbury,TN,6,3
+Environment Canterbury,TN,7,50
+Environment Canterbury,TN,8,180
+Environment Canterbury,TN,9,630
+Environment Canterbury,TN,10,970
+Environment Canterbury,TN,11,851
+Environment Canterbury,TN,12,719
+Environment Canterbury,TN,13,516
+Environment Canterbury,TN,14,285
+Environment Canterbury,TN,15,95
+Environment Canterbury,TN,16,13
+Environment Canterbury,TN,17,2
+Environment Canterbury,TP,6,3
+Environment Canterbury,TP,7,50
+Environment Canterbury,TP,8,180
+Environment Canterbury,TP,9,630
+Environment Canterbury,TP,10,969
+Environment Canterbury,TP,11,851
+Environment Canterbury,TP,12,719
+Environment Canterbury,TP,13,516
+Environment Canterbury,TP,14,286
+Environment Canterbury,TP,15,95
+Environment Canterbury,TP,16,13
+Environment Canterbury,TP,17,2
+Environment Canterbury,pH,6,2
+Environment Canterbury,pH,7,40
+Environment Canterbury,pH,8,116
+Environment Canterbury,pH,9,291
+Environment Canterbury,pH,10,375
+Environment Canterbury,pH,11,266
+Environment Canterbury,pH,12,223
+Environment Canterbury,pH,13,161
+Environment Canterbury,pH,14,99
+Environment Canterbury,pH,15,20
+Environment Canterbury,pH,16,3
+Environment Southland,CHLA,6,12
+Environment Southland,CHLA,7,80
+Environment Southland,CHLA,8,247
+Environment Southland,CHLA,9,476
+Environment Southland,CHLA,10,476
+Environment Southland,CHLA,11,346
+Environment Southland,CHLA,12,260
+Environment Southland,CHLA,13,199
+Environment Southland,CHLA,14,107
+Environment Southland,CHLA,15,59
+Environment Southland,CHLA,16,36
+Environment Southland,CHLA,17,18
+Environment Southland,CHLA,18,4
+Environment Southland,CYANOTOT,12,220
+Environment Southland,ECOLI,6,2
+Environment Southland,ECOLI,7,38
+Environment Southland,ECOLI,8,159
+Environment Southland,ECOLI,9,287
+Environment Southland,ECOLI,10,266
+Environment Southland,ECOLI,11,134
+Environment Southland,ECOLI,12,112
+Environment Southland,ECOLI,13,85
+Environment Southland,ECOLI,14,37
+Environment Southland,ECOLI,15,2
+Environment Southland,NH4N,6,11
+Environment Southland,NH4N,7,72
+Environment Southland,NH4N,8,213
+Environment Southland,NH4N,9,428
+Environment Southland,NH4N,10,442
+Environment Southland,NH4N,11,327
+Environment Southland,NH4N,12,250
+Environment Southland,NH4N,13,188
+Environment Southland,NH4N,14,107
+Environment Southland,NH4N,15,64
+Environment Southland,NH4N,16,39
+Environment Southland,NH4N,17,18
+Environment Southland,NH4N,18,4
+Environment Southland,Secchi,6,10
+Environment Southland,Secchi,7,77
+Environment Southland,Secchi,8,240
+Environment Southland,Secchi,9,465
+Environment Southland,Secchi,10,430
+Environment Southland,Secchi,11,296
+Environment Southland,Secchi,12,224
+Environment Southland,Secchi,13,159
+Environment Southland,Secchi,14,80
+Environment Southland,Secchi,15,43
+Environment Southland,Secchi,16,22
+Environment Southland,Secchi,17,9
+Environment Southland,Secchi,18,4
+Environment Southland,TN,6,12
+Environment Southland,TN,7,83
+Environment Southland,TN,8,249
+Environment Southland,TN,9,493
+Environment Southland,TN,10,487
+Environment Southland,TN,11,358
+Environment Southland,TN,12,260
+Environment Southland,TN,13,203
+Environment Southland,TN,14,109
+Environment Southland,TN,15,64
+Environment Southland,TN,16,39
+Environment Southland,TN,17,18
+Environment Southland,TN,18,4
+Environment Southland,TP,6,12
+Environment Southland,TP,7,83
+Environment Southland,TP,8,248
+Environment Southland,TP,9,491
+Environment Southland,TP,10,488
+Environment Southland,TP,11,355
+Environment Southland,TP,12,261
+Environment Southland,TP,13,200
+Environment Southland,TP,14,109
+Environment Southland,TP,15,64
+Environment Southland,TP,16,39
+Environment Southland,TP,17,18
+Environment Southland,TP,18,4
+Environment Southland,pH,6,10
+Environment Southland,pH,7,71
+Environment Southland,pH,8,216
+Environment Southland,pH,9,444
+Environment Southland,pH,10,454
+Environment Southland,pH,11,333
+Environment Southland,pH,12,254
+Environment Southland,pH,13,193
+Environment Southland,pH,14,108
+Environment Southland,pH,15,65
+Environment Southland,pH,16,39
+Environment Southland,pH,17,18
+Environment Southland,pH,18,4
+Greater Wellington,CHLA,7,4
+Greater Wellington,CHLA,8,62
+Greater Wellington,CHLA,9,101
+Greater Wellington,CHLA,10,110
+Greater Wellington,CHLA,11,69
+Greater Wellington,CHLA,12,51
+Greater Wellington,CHLA,13,32
+Greater Wellington,CHLA,14,23
+Greater Wellington,CHLA,15,5
+Greater Wellington,CHLA,16,1
+Greater Wellington,CHLA,17,1
+Greater Wellington,ECOLI,8,5
+Greater Wellington,ECOLI,9,18
+Greater Wellington,ECOLI,10,18
+Greater Wellington,ECOLI,11,6
+Greater Wellington,ECOLI,12,3
+Greater Wellington,ECOLI,13,2
+Greater Wellington,NH4N,7,4
+Greater Wellington,NH4N,8,62
+Greater Wellington,NH4N,9,102
+Greater Wellington,NH4N,10,110
+Greater Wellington,NH4N,11,69
+Greater Wellington,NH4N,12,51
+Greater Wellington,NH4N,13,32
+Greater Wellington,NH4N,14,23
+Greater Wellington,NH4N,15,5
+Greater Wellington,NH4N,16,1
+Greater Wellington,NH4N,17,1
+Greater Wellington,Secchi,7,4
+Greater Wellington,Secchi,8,60
+Greater Wellington,Secchi,9,94
+Greater Wellington,Secchi,10,101
+Greater Wellington,Secchi,11,67
+Greater Wellington,Secchi,12,51
+Greater Wellington,Secchi,13,29
+Greater Wellington,Secchi,14,23
+Greater Wellington,Secchi,15,5
+Greater Wellington,Secchi,16,1
+Greater Wellington,Secchi,17,1
+Greater Wellington,TN,7,4
+Greater Wellington,TN,8,62
+Greater Wellington,TN,9,102
+Greater Wellington,TN,10,110
+Greater Wellington,TN,11,69
+Greater Wellington,TN,12,51
+Greater Wellington,TN,13,32
+Greater Wellington,TN,14,23
+Greater Wellington,TN,15,5
+Greater Wellington,TN,16,1
+Greater Wellington,TN,17,1
+Greater Wellington,TP,7,4
+Greater Wellington,TP,8,62
+Greater Wellington,TP,9,102
+Greater Wellington,TP,10,110
+Greater Wellington,TP,11,69
+Greater Wellington,TP,12,51
+Greater Wellington,TP,13,32
+Greater Wellington,TP,14,23
+Greater Wellington,TP,15,5
+Greater Wellington,TP,16,1
+Greater Wellington,TP,17,1
+Greater Wellington,pH,7,4
+Greater Wellington,pH,8,62
+Greater Wellington,pH,9,102
+Greater Wellington,pH,10,110
+Greater Wellington,pH,11,69
+Greater Wellington,pH,12,51
+Greater Wellington,pH,13,32
+Greater Wellington,pH,14,23
+Greater Wellington,pH,15,5
+Greater Wellington,pH,16,1
+Greater Wellington,pH,17,1
+Hawke's Bay Regional Council,CHLA,7,1
+Hawke's Bay Regional Council,CHLA,8,24
+Hawke's Bay Regional Council,CHLA,9,91
+Hawke's Bay Regional Council,CHLA,10,102
+Hawke's Bay Regional Council,CHLA,11,126
+Hawke's Bay Regional Council,CHLA,12,116
+Hawke's Bay Regional Council,CHLA,13,86
+Hawke's Bay Regional Council,CHLA,14,65
+Hawke's Bay Regional Council,CHLA,15,27
+Hawke's Bay Regional Council,CHLA,16,1
+Hawke's Bay Regional Council,CYANOTOT,12,152
+Hawke's Bay Regional Council,ECOLI,8,17
+Hawke's Bay Regional Council,ECOLI,9,73
+Hawke's Bay Regional Council,ECOLI,10,88
+Hawke's Bay Regional Council,ECOLI,11,100
+Hawke's Bay Regional Council,ECOLI,12,96
+Hawke's Bay Regional Council,ECOLI,13,71
+Hawke's Bay Regional Council,ECOLI,14,59
+Hawke's Bay Regional Council,ECOLI,15,20
+Hawke's Bay Regional Council,ECOLI,16,1
+Hawke's Bay Regional Council,NH4N,7,4
+Hawke's Bay Regional Council,NH4N,8,24
+Hawke's Bay Regional Council,NH4N,9,91
+Hawke's Bay Regional Council,NH4N,10,106
+Hawke's Bay Regional Council,NH4N,11,128
+Hawke's Bay Regional Council,NH4N,12,118
+Hawke's Bay Regional Council,NH4N,13,87
+Hawke's Bay Regional Council,NH4N,14,65
+Hawke's Bay Regional Council,NH4N,15,25
+Hawke's Bay Regional Council,NH4N,16,1
+Hawke's Bay Regional Council,Secchi,7,1
+Hawke's Bay Regional Council,Secchi,8,16
+Hawke's Bay Regional Council,Secchi,9,71
+Hawke's Bay Regional Council,Secchi,10,87
+Hawke's Bay Regional Council,Secchi,11,100
+Hawke's Bay Regional Council,Secchi,12,96
+Hawke's Bay Regional Council,Secchi,13,66
+Hawke's Bay Regional Council,Secchi,14,43
+Hawke's Bay Regional Council,Secchi,15,19
+Hawke's Bay Regional Council,TN,6,2
+Hawke's Bay Regional Council,TN,7,16
+Hawke's Bay Regional Council,TN,8,31
+Hawke's Bay Regional Council,TN,9,94
+Hawke's Bay Regional Council,TN,10,113
+Hawke's Bay Regional Council,TN,11,132
+Hawke's Bay Regional Council,TN,12,125
+Hawke's Bay Regional Council,TN,13,91
+Hawke's Bay Regional Council,TN,14,72
+Hawke's Bay Regional Council,TN,15,27
+Hawke's Bay Regional Council,TN,16,4
+Hawke's Bay Regional Council,TN,17,4
+Hawke's Bay Regional Council,TN,18,5
+Hawke's Bay Regional Council,TP,6,2
+Hawke's Bay Regional Council,TP,7,16
+Hawke's Bay Regional Council,TP,8,31
+Hawke's Bay Regional Council,TP,9,94
+Hawke's Bay Regional Council,TP,10,113
+Hawke's Bay Regional Council,TP,11,132
+Hawke's Bay Regional Council,TP,12,125
+Hawke's Bay Regional Council,TP,13,91
+Hawke's Bay Regional Council,TP,14,72
+Hawke's Bay Regional Council,TP,15,27
+Hawke's Bay Regional Council,TP,16,4
+Hawke's Bay Regional Council,TP,17,4
+Hawke's Bay Regional Council,TP,18,5
+Hawke's Bay Regional Council,pH,7,1
+Hawke's Bay Regional Council,pH,8,24
+Hawke's Bay Regional Council,pH,9,92
+Hawke's Bay Regional Council,pH,10,107
+Hawke's Bay Regional Council,pH,11,130
+Hawke's Bay Regional Council,pH,12,121
+Hawke's Bay Regional Council,pH,13,91
+Hawke's Bay Regional Council,pH,14,66
+Hawke's Bay Regional Council,pH,15,26
+Hawke's Bay Regional Council,pH,16,1
+Horizons Regional Council,CHLA,8,32
+Horizons Regional Council,CHLA,9,144
+Horizons Regional Council,CHLA,10,160
+Horizons Regional Council,CHLA,11,170
+Horizons Regional Council,CHLA,12,100
+Horizons Regional Council,CHLA,13,34
+Horizons Regional Council,CHLA,14,16
+Horizons Regional Council,CHLA,15,3
+Horizons Regional Council,CYANOTOT,12,342
+Horizons Regional Council,CYANOTOX,12,342
+Horizons Regional Council,ECOLI,8,23
+Horizons Regional Council,ECOLI,9,124
+Horizons Regional Council,ECOLI,10,155
+Horizons Regional Council,ECOLI,11,171
+Horizons Regional Council,ECOLI,12,100
+Horizons Regional Council,ECOLI,13,34
+Horizons Regional Council,ECOLI,14,16
+Horizons Regional Council,ECOLI,15,3
+Horizons Regional Council,NH4N,8,33
+Horizons Regional Council,NH4N,9,142
+Horizons Regional Council,NH4N,10,158
+Horizons Regional Council,NH4N,11,171
+Horizons Regional Council,NH4N,12,100
+Horizons Regional Council,NH4N,13,34
+Horizons Regional Council,NH4N,14,16
+Horizons Regional Council,NH4N,15,3
+Horizons Regional Council,Secchi,9,25
+Horizons Regional Council,Secchi,10,52
+Horizons Regional Council,Secchi,11,57
+Horizons Regional Council,Secchi,12,46
+Horizons Regional Council,Secchi,13,31
+Horizons Regional Council,Secchi,14,6
+Horizons Regional Council,Secchi,15,2
+Horizons Regional Council,TN,8,33
+Horizons Regional Council,TN,9,144
+Horizons Regional Council,TN,10,160
+Horizons Regional Council,TN,11,171
+Horizons Regional Council,TN,12,100
+Horizons Regional Council,TN,13,34
+Horizons Regional Council,TN,14,16
+Horizons Regional Council,TN,15,3
+Horizons Regional Council,TP,8,33
+Horizons Regional Council,TP,9,144
+Horizons Regional Council,TP,10,160
+Horizons Regional Council,TP,11,171
+Horizons Regional Council,TP,12,100
+Horizons Regional Council,TP,13,34
+Horizons Regional Council,TP,14,16
+Horizons Regional Council,TP,15,3
+Horizons Regional Council,pH,8,14
+Horizons Regional Council,pH,9,87
+Horizons Regional Council,pH,10,86
+Horizons Regional Council,pH,11,99
+Horizons Regional Council,pH,12,54
+Horizons Regional Council,pH,13,20
+Horizons Regional Council,pH,14,5
+Horizons Regional Council,pH,15,1
+Northland Regional Council,CHLA,6,7
+Northland Regional Council,CHLA,7,30
+Northland Regional Council,CHLA,8,86
+Northland Regional Council,CHLA,9,197
+Northland Regional Council,CHLA,10,287
+Northland Regional Council,CHLA,11,286
+Northland Regional Council,CHLA,12,284
+Northland Regional Council,CHLA,13,206
+Northland Regional Council,CHLA,14,175
+Northland Regional Council,CHLA,15,84
+Northland Regional Council,CHLA,16,38
+Northland Regional Council,CHLA,17,5
+Northland Regional Council,ECOLI,6,4
+Northland Regional Council,ECOLI,7,4
+Northland Regional Council,ECOLI,8,20
+Northland Regional Council,ECOLI,9,51
+Northland Regional Council,ECOLI,10,75
+Northland Regional Council,ECOLI,11,70
+Northland Regional Council,ECOLI,12,56
+Northland Regional Council,ECOLI,13,28
+Northland Regional Council,ECOLI,14,6
+Northland Regional Council,ECOLI,15,1
+Northland Regional Council,NH4N,6,7
+Northland Regional Council,NH4N,7,28
+Northland Regional Council,NH4N,8,83
+Northland Regional Council,NH4N,9,195
+Northland Regional Council,NH4N,10,287
+Northland Regional Council,NH4N,11,283
+Northland Regional Council,NH4N,12,283
+Northland Regional Council,NH4N,13,212
+Northland Regional Council,NH4N,14,173
+Northland Regional Council,NH4N,15,83
+Northland Regional Council,NH4N,16,39
+Northland Regional Council,NH4N,17,5
+Northland Regional Council,Secchi,6,7
+Northland Regional Council,Secchi,7,30
+Northland Regional Council,Secchi,8,86
+Northland Regional Council,Secchi,9,194
+Northland Regional Council,Secchi,10,285
+Northland Regional Council,Secchi,11,284
+Northland Regional Council,Secchi,12,280
+Northland Regional Council,Secchi,13,205
+Northland Regional Council,Secchi,14,175
+Northland Regional Council,Secchi,15,86
+Northland Regional Council,Secchi,16,37
+Northland Regional Council,Secchi,17,6
+Northland Regional Council,Secchi,18,1
+Northland Regional Council,TN,6,7
+Northland Regional Council,TN,7,31
+Northland Regional Council,TN,8,88
+Northland Regional Council,TN,9,201
+Northland Regional Council,TN,10,291
+Northland Regional Council,TN,11,292
+Northland Regional Council,TN,12,287
+Northland Regional Council,TN,13,212
+Northland Regional Council,TN,14,179
+Northland Regional Council,TN,15,87
+Northland Regional Council,TN,16,42
+Northland Regional Council,TN,17,7
+Northland Regional Council,TN,18,2
+Northland Regional Council,TP,6,7
+Northland Regional Council,TP,7,30
+Northland Regional Council,TP,8,88
+Northland Regional Council,TP,9,197
+Northland Regional Council,TP,10,289
+Northland Regional Council,TP,11,292
+Northland Regional Council,TP,12,287
+Northland Regional Council,TP,13,210
+Northland Regional Council,TP,14,175
+Northland Regional Council,TP,15,87
+Northland Regional Council,TP,16,42
+Northland Regional Council,TP,17,7
+Northland Regional Council,TP,18,2
+Northland Regional Council,pH,6,7
+Northland Regional Council,pH,7,30
+Northland Regional Council,pH,8,86
+Northland Regional Council,pH,9,200
+Northland Regional Council,pH,10,283
+Northland Regional Council,pH,11,291
+Northland Regional Council,pH,12,280
+Northland Regional Council,pH,13,207
+Northland Regional Council,pH,14,181
+Northland Regional Council,pH,15,90
+Northland Regional Council,pH,16,42
+Northland Regional Council,pH,17,7
+Northland Regional Council,pH,18,2
+Otago Regional Council,CHLA,6,7
+Otago Regional Council,CHLA,7,63
+Otago Regional Council,CHLA,8,195
+Otago Regional Council,CHLA,9,261
+Otago Regional Council,CHLA,10,282
+Otago Regional Council,CHLA,11,205
+Otago Regional Council,CHLA,12,169
+Otago Regional Council,CHLA,13,142
+Otago Regional Council,CHLA,14,65
+Otago Regional Council,CHLA,15,20
+Otago Regional Council,CHLA,16,1
+Otago Regional Council,CHLA,17,4
+Otago Regional Council,ECOLI,6,5
+Otago Regional Council,ECOLI,7,42
+Otago Regional Council,ECOLI,8,152
+Otago Regional Council,ECOLI,9,208
+Otago Regional Council,ECOLI,10,217
+Otago Regional Council,ECOLI,11,162
+Otago Regional Council,ECOLI,12,153
+Otago Regional Council,ECOLI,13,109
+Otago Regional Council,ECOLI,14,56
+Otago Regional Council,ECOLI,15,19
+Otago Regional Council,ECOLI,16,1
+Otago Regional Council,ECOLI,17,2
+Otago Regional Council,NH4N,6,7
+Otago Regional Council,NH4N,7,63
+Otago Regional Council,NH4N,8,198
+Otago Regional Council,NH4N,9,276
+Otago Regional Council,NH4N,10,296
+Otago Regional Council,NH4N,11,216
+Otago Regional Council,NH4N,12,187
+Otago Regional Council,NH4N,13,149
+Otago Regional Council,NH4N,14,70
+Otago Regional Council,NH4N,15,21
+Otago Regional Council,NH4N,16,1
+Otago Regional Council,NH4N,17,4
+Otago Regional Council,Secchi,6,7
+Otago Regional Council,Secchi,7,32
+Otago Regional Council,Secchi,8,68
+Otago Regional Council,Secchi,9,63
+Otago Regional Council,Secchi,10,65
+Otago Regional Council,Secchi,11,53
+Otago Regional Council,Secchi,12,23
+Otago Regional Council,Secchi,13,16
+Otago Regional Council,Secchi,14,9
+Otago Regional Council,Secchi,17,4
+Otago Regional Council,TN,6,7
+Otago Regional Council,TN,7,63
+Otago Regional Council,TN,8,198
+Otago Regional Council,TN,9,274
+Otago Regional Council,TN,10,294
+Otago Regional Council,TN,11,214
+Otago Regional Council,TN,12,185
+Otago Regional Council,TN,13,148
+Otago Regional Council,TN,14,70
+Otago Regional Council,TN,15,21
+Otago Regional Council,TN,16,1
+Otago Regional Council,TN,17,4
+Otago Regional Council,TP,6,7
+Otago Regional Council,TP,7,63
+Otago Regional Council,TP,8,198
+Otago Regional Council,TP,9,275
+Otago Regional Council,TP,10,290
+Otago Regional Council,TP,11,215
+Otago Regional Council,TP,12,186
+Otago Regional Council,TP,13,146
+Otago Regional Council,TP,14,67
+Otago Regional Council,TP,15,20
+Otago Regional Council,TP,16,1
+Otago Regional Council,TP,17,4
+Otago Regional Council,pH,6,2
+Otago Regional Council,pH,7,54
+Otago Regional Council,pH,8,162
+Otago Regional Council,pH,9,239
+Otago Regional Council,pH,10,250
+Otago Regional Council,pH,11,175
+Otago Regional Council,pH,12,158
+Otago Regional Council,pH,13,126
+Otago Regional Council,pH,14,59
+Otago Regional Council,pH,15,21
+Otago Regional Council,pH,16,1
+Taranaki Regional Council,CHLA,8,18
+Taranaki Regional Council,CHLA,9,39
+Taranaki Regional Council,CHLA,10,47
+Taranaki Regional Council,CHLA,11,36
+Taranaki Regional Council,CHLA,12,16
+Taranaki Regional Council,CHLA,13,2
+Taranaki Regional Council,CHLA,14,1
+Taranaki Regional Council,CHLA,16,1
+Taranaki Regional Council,ECOLI,6,1
+Taranaki Regional Council,ECOLI,7,9
+Taranaki Regional Council,ECOLI,8,59
+Taranaki Regional Council,ECOLI,9,32
+Taranaki Regional Council,ECOLI,10,36
+Taranaki Regional Council,ECOLI,11,36
+Taranaki Regional Council,ECOLI,12,31
+Taranaki Regional Council,ECOLI,13,29
+Taranaki Regional Council,ECOLI,14,10
+Taranaki Regional Council,ECOLI,17,1
+Taranaki Regional Council,NH4N,7,2
+Taranaki Regional Council,NH4N,8,15
+Taranaki Regional Council,NH4N,9,36
+Taranaki Regional Council,NH4N,10,47
+Taranaki Regional Council,NH4N,11,49
+Taranaki Regional Council,NH4N,12,24
+Taranaki Regional Council,NH4N,13,5
+Taranaki Regional Council,NH4N,14,1
+Taranaki Regional Council,NH4N,16,1
+Taranaki Regional Council,Secchi,8,21
+Taranaki Regional Council,Secchi,9,38
+Taranaki Regional Council,Secchi,10,47
+Taranaki Regional Council,Secchi,11,34
+Taranaki Regional Council,Secchi,12,10
+Taranaki Regional Council,Secchi,14,1
+Taranaki Regional Council,Secchi,16,1
+Taranaki Regional Council,TN,7,2
+Taranaki Regional Council,TN,8,14
+Taranaki Regional Council,TN,9,36
+Taranaki Regional Council,TN,10,47
+Taranaki Regional Council,TN,11,49
+Taranaki Regional Council,TN,12,24
+Taranaki Regional Council,TN,13,5
+Taranaki Regional Council,TN,14,1
+Taranaki Regional Council,TN,16,1
+Taranaki Regional Council,TP,7,2
+Taranaki Regional Council,TP,8,15
+Taranaki Regional Council,TP,9,36
+Taranaki Regional Council,TP,10,47
+Taranaki Regional Council,TP,11,49
+Taranaki Regional Council,TP,12,24
+Taranaki Regional Council,TP,13,5
+Taranaki Regional Council,TP,14,1
+Taranaki Regional Council,TP,16,1
+Taranaki Regional Council,pH,7,2
+Taranaki Regional Council,pH,8,34
+Taranaki Regional Council,pH,9,71
+Taranaki Regional Council,pH,10,90
+Taranaki Regional Council,pH,11,81
+Taranaki Regional Council,pH,12,33
+Taranaki Regional Council,pH,13,4
+Taranaki Regional Council,pH,14,1
+Taranaki Regional Council,pH,16,2
+Waikato Regional Council,CHLA,6,9
+Waikato Regional Council,CHLA,7,97
+Waikato Regional Council,CHLA,8,313
+Waikato Regional Council,CHLA,9,512
+Waikato Regional Council,CHLA,10,514
+Waikato Regional Council,CHLA,11,439
+Waikato Regional Council,CHLA,12,716
+Waikato Regional Council,CHLA,13,124
+Waikato Regional Council,CHLA,14,42
+Waikato Regional Council,CHLA,15,9
+Waikato Regional Council,CHLA,16,3
+Waikato Regional Council,CYANOTOT,12,1147
+Waikato Regional Council,ECOLI,6,9
+Waikato Regional Council,ECOLI,7,91
+Waikato Regional Council,ECOLI,8,235
+Waikato Regional Council,ECOLI,9,335
+Waikato Regional Council,ECOLI,10,321
+Waikato Regional Council,ECOLI,11,261
+Waikato Regional Council,ECOLI,12,152
+Waikato Regional Council,ECOLI,13,55
+Waikato Regional Council,ECOLI,14,12
+Waikato Regional Council,ECOLI,15,2
+Waikato Regional Council,NH4N,6,9
+Waikato Regional Council,NH4N,7,97
+Waikato Regional Council,NH4N,8,314
+Waikato Regional Council,NH4N,9,512
+Waikato Regional Council,NH4N,10,514
+Waikato Regional Council,NH4N,11,440
+Waikato Regional Council,NH4N,12,717
+Waikato Regional Council,NH4N,13,123
+Waikato Regional Council,NH4N,14,42
+Waikato Regional Council,NH4N,15,9
+Waikato Regional Council,NH4N,16,3
+Waikato Regional Council,Secchi,6,9
+Waikato Regional Council,Secchi,7,96
+Waikato Regional Council,Secchi,8,308
+Waikato Regional Council,Secchi,9,495
+Waikato Regional Council,Secchi,10,495
+Waikato Regional Council,Secchi,11,422
+Waikato Regional Council,Secchi,12,602
+Waikato Regional Council,Secchi,13,113
+Waikato Regional Council,Secchi,14,38
+Waikato Regional Council,Secchi,15,9
+Waikato Regional Council,Secchi,16,2
+Waikato Regional Council,TN,6,9
+Waikato Regional Council,TN,7,97
+Waikato Regional Council,TN,8,314
+Waikato Regional Council,TN,9,512
+Waikato Regional Council,TN,10,514
+Waikato Regional Council,TN,11,440
+Waikato Regional Council,TN,12,719
+Waikato Regional Council,TN,13,126
+Waikato Regional Council,TN,14,42
+Waikato Regional Council,TN,15,9
+Waikato Regional Council,TN,16,3
+Waikato Regional Council,TP,6,9
+Waikato Regional Council,TP,7,97
+Waikato Regional Council,TP,8,314
+Waikato Regional Council,TP,9,512
+Waikato Regional Council,TP,10,514
+Waikato Regional Council,TP,11,440
+Waikato Regional Council,TP,12,717
+Waikato Regional Council,TP,13,123
+Waikato Regional Council,TP,14,42
+Waikato Regional Council,TP,15,9
+Waikato Regional Council,TP,16,3
+Waikato Regional Council,pH,6,9
+Waikato Regional Council,pH,7,97
+Waikato Regional Council,pH,8,314
+Waikato Regional Council,pH,9,512
+Waikato Regional Council,pH,10,513
+Waikato Regional Council,pH,11,440
+Waikato Regional Council,pH,12,376
+Waikato Regional Council,pH,13,125
+Waikato Regional Council,pH,14,46
+Waikato Regional Council,pH,15,12
+Waikato Regional Council,pH,16,3
+West Coast Regional Council,CHLA,7,3
+West Coast Regional Council,CHLA,8,34
+West Coast Regional Council,CHLA,9,84
+West Coast Regional Council,CHLA,10,68
+West Coast Regional Council,CHLA,11,42
+West Coast Regional Council,CHLA,12,80
+West Coast Regional Council,CHLA,13,27
+West Coast Regional Council,CHLA,14,19
+West Coast Regional Council,CHLA,15,11
+West Coast Regional Council,CHLA,16,2
+West Coast Regional Council,ECOLI,8,6
+West Coast Regional Council,ECOLI,9,13
+West Coast Regional Council,ECOLI,10,6
+West Coast Regional Council,ECOLI,12,9
+West Coast Regional Council,ECOLI,13,2
+West Coast Regional Council,ECOLI,14,1
+West Coast Regional Council,NH4N,7,3
+West Coast Regional Council,NH4N,8,34
+West Coast Regional Council,NH4N,9,87
+West Coast Regional Council,NH4N,10,68
+West Coast Regional Council,NH4N,11,42
+West Coast Regional Council,NH4N,12,80
+West Coast Regional Council,NH4N,13,27
+West Coast Regional Council,NH4N,14,18
+West Coast Regional Council,NH4N,15,11
+West Coast Regional Council,NH4N,16,2
+West Coast Regional Council,Secchi,7,5
+West Coast Regional Council,Secchi,8,49
+West Coast Regional Council,Secchi,9,112
+West Coast Regional Council,Secchi,10,71
+West Coast Regional Council,Secchi,11,47
+West Coast Regional Council,Secchi,12,75
+West Coast Regional Council,Secchi,13,33
+West Coast Regional Council,Secchi,14,21
+West Coast Regional Council,Secchi,15,12
+West Coast Regional Council,Secchi,16,3
+West Coast Regional Council,TN,7,3
+West Coast Regional Council,TN,8,34
+West Coast Regional Council,TN,9,87
+West Coast Regional Council,TN,10,68
+West Coast Regional Council,TN,11,42
+West Coast Regional Council,TN,12,79
+West Coast Regional Council,TN,13,27
+West Coast Regional Council,TN,14,19
+West Coast Regional Council,TN,15,11
+West Coast Regional Council,TN,16,2
+West Coast Regional Council,TP,7,3
+West Coast Regional Council,TP,8,34
+West Coast Regional Council,TP,9,87
+West Coast Regional Council,TP,10,68
+West Coast Regional Council,TP,11,42
+West Coast Regional Council,TP,12,79
+West Coast Regional Council,TP,13,27
+West Coast Regional Council,TP,14,19
+West Coast Regional Council,TP,15,11
+West Coast Regional Council,TP,16,2
+West Coast Regional Council,pH,7,3
+West Coast Regional Council,pH,8,30
+West Coast Regional Council,pH,9,50
+West Coast Regional Council,pH,10,25
+West Coast Regional Council,pH,11,9
+West Coast Regional Council,pH,12,6
+West Coast Regional Council,pH,13,2

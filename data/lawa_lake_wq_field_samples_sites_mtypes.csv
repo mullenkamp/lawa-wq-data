@@ -1,0 +1,1298 @@
+LawaSiteID,Indicator,Units,value_count
+LAWA-103493,CHLA,mg/m3,4
+LAWA-103493,ECOLI,#/100 mL,28
+LAWA-103493,NH4N,mg/L,4
+LAWA-103493,TN,mg/m3,4
+LAWA-103493,TP,mg/m3,4
+LAWA-103493,pH,-log[H+],4
+arc-00098,CHLA,mg/m3,0
+arc-00098,CYANOTOT,mm3/L,0
+arc-00098,CYANOTOX,mm3/L,0
+arc-00098,ECOLI,#/100 mL,0
+arc-00098,NH4N,mg/L,0
+arc-00098,Secchi,m,0
+arc-00098,TN,mg/m3,0
+arc-00098,TP,mg/m3,0
+arc-00098,pH,-log[H+],0
+arc-00099,CHLA,mg/m3,0
+arc-00099,CYANOTOT,mm3/L,0
+arc-00099,CYANOTOX,mm3/L,0
+arc-00099,ECOLI,#/100 mL,0
+arc-00099,NH4N,mg/L,0
+arc-00099,Secchi,m,0
+arc-00099,TN,mg/m3,0
+arc-00099,TP,mg/m3,0
+arc-00099,pH,-log[H+],0
+arc-00100,CHLA,mg/m3,0
+arc-00100,CYANOTOT,mm3/L,0
+arc-00100,CYANOTOX,mm3/L,0
+arc-00100,ECOLI,#/100 mL,0
+arc-00100,NH4N,mg/L,0
+arc-00100,Secchi,m,0
+arc-00100,TN,mg/m3,0
+arc-00100,TP,mg/m3,0
+arc-00100,pH,-log[H+],0
+arc-10002,CHLA,mg/m3,0
+arc-10002,CYANOTOT,mm3/L,0
+arc-10002,CYANOTOX,mm3/L,0
+arc-10002,ECOLI,#/100 mL,0
+arc-10002,NH4N,mg/L,0
+arc-10002,Secchi,m,0
+arc-10002,TN,mg/m3,0
+arc-10002,TP,mg/m3,0
+arc-10002,pH,-log[H+],0
+ebop-00087,CHLA,mg/m3,221
+ebop-00087,ECOLI,#/100 mL,20
+ebop-00087,NH4N,mg/L,213
+ebop-00087,Secchi,m,221
+ebop-00087,TN,mg/m3,154
+ebop-00087,TP,mg/m3,225
+ebop-00087,pH,-log[H+],231
+ebop-00088,CHLA,mg/m3,203
+ebop-00088,ECOLI,#/100 mL,20
+ebop-00088,NH4N,mg/L,202
+ebop-00088,Secchi,m,205
+ebop-00088,TN,mg/m3,139
+ebop-00088,TP,mg/m3,318
+ebop-00088,pH,-log[H+],211
+ebop-00089,CHLA,mg/m3,216
+ebop-00089,ECOLI,#/100 mL,21
+ebop-00089,NH4N,mg/L,198
+ebop-00089,Secchi,m,216
+ebop-00089,TN,mg/m3,149
+ebop-00089,TP,mg/m3,217
+ebop-00089,pH,-log[H+],223
+ebop-00090,CHLA,mg/m3,221
+ebop-00090,ECOLI,#/100 mL,20
+ebop-00090,NH4N,mg/L,220
+ebop-00090,Secchi,m,221
+ebop-00090,TN,mg/m3,155
+ebop-00090,TP,mg/m3,225
+ebop-00090,pH,-log[H+],231
+ebop-00091,CHLA,mg/m3,222
+ebop-00091,ECOLI,#/100 mL,21
+ebop-00091,NH4N,mg/L,220
+ebop-00091,Secchi,m,220
+ebop-00091,TN,mg/m3,156
+ebop-00091,TP,mg/m3,226
+ebop-00091,pH,-log[H+],230
+ebop-00092,CHLA,mg/m3,85
+ebop-00092,ECOLI,#/100 mL,21
+ebop-00092,NH4N,mg/L,82
+ebop-00092,Secchi,m,221
+ebop-00092,TN,mg/m3,85
+ebop-00092,TP,mg/m3,227
+ebop-00092,pH,-log[H+],92
+ebop-00093,CHLA,mg/m3,221
+ebop-00093,ECOLI,#/100 mL,21
+ebop-00093,NH4N,mg/L,215
+ebop-00093,Secchi,m,260
+ebop-00093,TN,mg/m3,155
+ebop-00093,TP,mg/m3,363
+ebop-00093,pH,-log[H+],231
+ebop-00094,CHLA,mg/m3,223
+ebop-00094,ECOLI,#/100 mL,21
+ebop-00094,NH4N,mg/L,216
+ebop-00094,Secchi,m,222
+ebop-00094,TN,mg/m3,155
+ebop-00094,TP,mg/m3,366
+ebop-00094,pH,-log[H+],231
+ebop-00095,CHLA,mg/m3,221
+ebop-00095,ECOLI,#/100 mL,21
+ebop-00095,NH4N,mg/L,216
+ebop-00095,Secchi,m,222
+ebop-00095,TN,mg/m3,154
+ebop-00095,TP,mg/m3,356
+ebop-00095,pH,-log[H+],232
+ebop-00096,CHLA,mg/m3,220
+ebop-00096,ECOLI,#/100 mL,20
+ebop-00096,NH4N,mg/L,188
+ebop-00096,Secchi,m,138
+ebop-00096,TN,mg/m3,155
+ebop-00096,TP,mg/m3,360
+ebop-00096,pH,-log[H+],229
+ebop-00097,CHLA,mg/m3,84
+ebop-00097,ECOLI,#/100 mL,20
+ebop-00097,NH4N,mg/L,84
+ebop-00097,Secchi,m,216
+ebop-00097,TN,mg/m3,85
+ebop-00097,TP,mg/m3,223
+ebop-00097,pH,-log[H+],91
+ebop-00098,CHLA,mg/m3,84
+ebop-00098,ECOLI,#/100 mL,20
+ebop-00098,NH4N,mg/L,86
+ebop-00098,Secchi,m,217
+ebop-00098,TN,mg/m3,86
+ebop-00098,TP,mg/m3,224
+ebop-00098,pH,-log[H+],92
+ebop-00099,CHLA,mg/m3,221
+ebop-00099,ECOLI,#/100 mL,20
+ebop-00099,NH4N,mg/L,197
+ebop-00099,Secchi,m,221
+ebop-00099,TN,mg/m3,154
+ebop-00099,TP,mg/m3,364
+ebop-00099,pH,-log[H+],230
+ebop-00100,CHLA,mg/m3,218
+ebop-00100,ECOLI,#/100 mL,20
+ebop-00100,NH4N,mg/L,209
+ebop-00100,Secchi,m,213
+ebop-00100,TN,mg/m3,154
+ebop-00100,TP,mg/m3,350
+ebop-00100,pH,-log[H+],226
+ecan-00325,CHLA,mg/m3,222
+ecan-00325,ECOLI,#/100 mL,183
+ecan-00325,NH4N,mg/L,222
+ecan-00325,Secchi,m,31
+ecan-00325,TN,mg/m3,224
+ecan-00325,TP,mg/m3,224
+ecan-00325,pH,-log[H+],221
+ecan-00326,CHLA,mg/m3,86
+ecan-00326,NH4N,mg/L,4
+ecan-00326,TN,mg/m3,85
+ecan-00326,TP,mg/m3,83
+ecan-00327,CHLA,mg/m3,83
+ecan-00327,NH4N,mg/L,4
+ecan-00327,TN,mg/m3,81
+ecan-00327,TP,mg/m3,81
+ecan-00328,CHLA,mg/m3,86
+ecan-00328,NH4N,mg/L,4
+ecan-00328,TN,mg/m3,84
+ecan-00328,TP,mg/m3,84
+ecan-00329,CHLA,mg/m3,85
+ecan-00329,NH4N,mg/L,4
+ecan-00329,TN,mg/m3,83
+ecan-00329,TP,mg/m3,84
+ecan-00330,CHLA,mg/m3,85
+ecan-00330,NH4N,mg/L,5
+ecan-00330,TN,mg/m3,85
+ecan-00330,TP,mg/m3,85
+ecan-00331,CHLA,mg/m3,38
+ecan-00331,ECOLI,#/100 mL,70
+ecan-00331,NH4N,mg/L,70
+ecan-00331,TN,mg/m3,70
+ecan-00331,TP,mg/m3,70
+ecan-00331,pH,-log[H+],67
+ecan-00332,CHLA,mg/m3,83
+ecan-00332,NH4N,mg/L,5
+ecan-00332,TN,mg/m3,83
+ecan-00332,TP,mg/m3,83
+ecan-00333,CHLA,mg/m3,85
+ecan-00333,NH4N,mg/L,5
+ecan-00333,TN,mg/m3,85
+ecan-00333,TP,mg/m3,85
+ecan-00334,CHLA,mg/m3,223
+ecan-00334,CYANOTOT,mm3/L,154
+ecan-00334,CYANOTOX,mm3/L,129
+ecan-00334,ECOLI,#/100 mL,181
+ecan-00334,NH4N,mg/L,222
+ecan-00334,Secchi,m,216
+ecan-00334,TN,mg/m3,224
+ecan-00334,TP,mg/m3,224
+ecan-00334,pH,-log[H+],97
+ecan-00335,CHLA,mg/m3,86
+ecan-00335,NH4N,mg/L,5
+ecan-00335,TN,mg/m3,85
+ecan-00335,TP,mg/m3,85
+ecan-00336,CHLA,mg/m3,86
+ecan-00336,NH4N,mg/L,4
+ecan-00336,TN,mg/m3,84
+ecan-00336,TP,mg/m3,83
+ecan-00337,CHLA,mg/m3,86
+ecan-00337,NH4N,mg/L,4
+ecan-00337,TN,mg/m3,85
+ecan-00337,TP,mg/m3,85
+ecan-00338,CHLA,mg/m3,87
+ecan-00338,NH4N,mg/L,4
+ecan-00338,TN,mg/m3,86
+ecan-00338,TP,mg/m3,86
+ecan-00339,CHLA,mg/m3,86
+ecan-00339,NH4N,mg/L,4
+ecan-00339,TN,mg/m3,84
+ecan-00339,TP,mg/m3,85
+ecan-00340,CHLA,mg/m3,86
+ecan-00340,NH4N,mg/L,4
+ecan-00340,TN,mg/m3,85
+ecan-00340,TP,mg/m3,85
+ecan-00341,CHLA,mg/m3,85
+ecan-00341,NH4N,mg/L,4
+ecan-00341,TN,mg/m3,84
+ecan-00341,TP,mg/m3,84
+ecan-00342,CHLA,mg/m3,86
+ecan-00342,NH4N,mg/L,4
+ecan-00342,TN,mg/m3,85
+ecan-00342,TP,mg/m3,85
+ecan-00343,CHLA,mg/m3,86
+ecan-00343,NH4N,mg/L,13
+ecan-00343,TN,mg/m3,85
+ecan-00343,TP,mg/m3,85
+ecan-00344,CHLA,mg/m3,86
+ecan-00344,NH4N,mg/L,12
+ecan-00344,TN,mg/m3,85
+ecan-00344,TP,mg/m3,85
+ecan-00345,CHLA,mg/m3,86
+ecan-00345,NH4N,mg/L,4
+ecan-00345,TN,mg/m3,84
+ecan-00345,TP,mg/m3,85
+ecan-00346,CHLA,mg/m3,81
+ecan-00346,NH4N,mg/L,4
+ecan-00346,TN,mg/m3,80
+ecan-00346,TP,mg/m3,80
+ecan-00347,CHLA,mg/m3,299
+ecan-00347,CYANOTOT,mm3/L,136
+ecan-00347,CYANOTOX,mm3/L,112
+ecan-00347,ECOLI,#/100 mL,201
+ecan-00347,NH4N,mg/L,303
+ecan-00347,TN,mg/m3,304
+ecan-00347,TP,mg/m3,304
+ecan-00347,pH,-log[H+],299
+ecan-00348,CHLA,mg/m3,225
+ecan-00348,ECOLI,#/100 mL,170
+ecan-00348,NH4N,mg/L,226
+ecan-00348,TN,mg/m3,224
+ecan-00348,TP,mg/m3,226
+ecan-00348,pH,-log[H+],221
+ecan-00349,CHLA,mg/m3,65
+ecan-00349,TN,mg/m3,65
+ecan-00349,TP,mg/m3,65
+ecan-00351,CHLA,mg/m3,51
+ecan-00351,NH4N,mg/L,5
+ecan-00351,TN,mg/m3,51
+ecan-00351,TP,mg/m3,51
+ecan-00354,CHLA,mg/m3,81
+ecan-00354,NH4N,mg/L,4
+ecan-00354,TN,mg/m3,79
+ecan-00354,TP,mg/m3,77
+ecan-00355,CHLA,mg/m3,81
+ecan-00355,NH4N,mg/L,4
+ecan-00355,TN,mg/m3,80
+ecan-00355,TP,mg/m3,80
+ecan-00357,CHLA,mg/m3,64
+ecan-00357,NH4N,mg/L,9
+ecan-00357,TN,mg/m3,63
+ecan-00357,TP,mg/m3,63
+ecan-00358,CHLA,mg/m3,63
+ecan-00358,NH4N,mg/L,9
+ecan-00358,TN,mg/m3,63
+ecan-00358,TP,mg/m3,63
+ecan-00359,CHLA,mg/m3,64
+ecan-00359,NH4N,mg/L,9
+ecan-00359,TN,mg/m3,63
+ecan-00359,TP,mg/m3,63
+ecan-00362,CHLA,mg/m3,31
+ecan-00362,NH4N,mg/L,10
+ecan-00362,TN,mg/m3,30
+ecan-00362,TP,mg/m3,30
+ecan-00363,CHLA,mg/m3,62
+ecan-00363,CYANOTOT,mm3/L,32
+ecan-00363,CYANOTOX,mm3/L,41
+ecan-00363,ECOLI,#/100 mL,62
+ecan-00363,NH4N,mg/L,62
+ecan-00363,TN,mg/m3,62
+ecan-00363,TP,mg/m3,62
+ecan-00363,pH,-log[H+],53
+ecan-00364,CHLA,mg/m3,25
+ecan-00364,TN,mg/m3,24
+ecan-00364,TP,mg/m3,24
+ecan-00367,CHLA,mg/m3,65
+ecan-00367,TN,mg/m3,65
+ecan-00367,TP,mg/m3,65
+ecan-00368,CHLA,mg/m3,64
+ecan-00368,TN,mg/m3,64
+ecan-00368,TP,mg/m3,64
+ecan-00369,CHLA,mg/m3,223
+ecan-00369,CYANOTOT,mm3/L,153
+ecan-00369,CYANOTOX,mm3/L,143
+ecan-00369,ECOLI,#/100 mL,182
+ecan-00369,NH4N,mg/L,220
+ecan-00369,Secchi,m,212
+ecan-00369,TN,mg/m3,223
+ecan-00369,TP,mg/m3,223
+ecan-00369,pH,-log[H+],97
+ecan-00370,CHLA,mg/m3,223
+ecan-00370,CYANOTOT,mm3/L,151
+ecan-00370,CYANOTOX,mm3/L,122
+ecan-00370,ECOLI,#/100 mL,181
+ecan-00370,NH4N,mg/L,222
+ecan-00370,Secchi,m,217
+ecan-00370,TN,mg/m3,224
+ecan-00370,TP,mg/m3,224
+ecan-00370,pH,-log[H+],97
+ecan-00371,CHLA,mg/m3,223
+ecan-00371,CYANOTOT,mm3/L,149
+ecan-00371,CYANOTOX,mm3/L,127
+ecan-00371,ECOLI,#/100 mL,182
+ecan-00371,NH4N,mg/L,222
+ecan-00371,Secchi,m,217
+ecan-00371,TN,mg/m3,224
+ecan-00371,TP,mg/m3,224
+ecan-00371,pH,-log[H+],96
+ecan-00372,CHLA,mg/m3,164
+ecan-00372,CYANOTOT,mm3/L,138
+ecan-00372,CYANOTOX,mm3/L,128
+ecan-00372,ECOLI,#/100 mL,164
+ecan-00372,NH4N,mg/L,162
+ecan-00372,Secchi,m,125
+ecan-00372,TN,mg/m3,164
+ecan-00372,TP,mg/m3,164
+ecan-00372,pH,-log[H+],93
+es-000142,CHLA,mg/m3,0
+es-000142,CYANOTOT,mm3/L,0
+es-000142,ECOLI,#/100 mL,0
+es-000142,NH4N,mg/L,0
+es-000142,Secchi,m,0
+es-000142,TN,mg/m3,0
+es-000142,TP,mg/m3,0
+es-000142,pH,-log[H+],0
+es-000157,CHLA,mg/m3,0
+es-000157,ECOLI,#/100 mL,0
+es-000157,NH4N,mg/L,0
+es-000157,Secchi,m,0
+es-000157,TN,mg/m3,0
+es-000157,TP,mg/m3,0
+es-000157,pH,-log[H+],0
+es-000158,CHLA,mg/m3,0
+es-000158,ECOLI,#/100 mL,0
+es-000158,NH4N,mg/L,0
+es-000158,Secchi,m,0
+es-000158,TN,mg/m3,0
+es-000158,TP,mg/m3,0
+es-000158,pH,-log[H+],0
+es-000159,CHLA,mg/m3,0
+es-000159,ECOLI,#/100 mL,0
+es-000159,NH4N,mg/L,0
+es-000159,Secchi,m,0
+es-000159,TN,mg/m3,0
+es-000159,TP,mg/m3,0
+es-000159,pH,-log[H+],0
+es-00144,CHLA,mg/m3,0
+es-00144,CYANOTOT,mm3/L,0
+es-00144,ECOLI,#/100 mL,0
+es-00144,NH4N,mg/L,0
+es-00144,Secchi,m,0
+es-00144,TN,mg/m3,0
+es-00144,TP,mg/m3,0
+es-00144,pH,-log[H+],0
+ew-00142,CHLA,mg/m3,142
+ew-00142,CYANOTOT,mm3/L,111
+ew-00142,ECOLI,#/100 mL,58
+ew-00142,NH4N,mg/L,142
+ew-00142,Secchi,m,136
+ew-00142,TN,mg/m3,142
+ew-00142,TP,mg/m3,142
+ew-00142,pH,-log[H+],144
+ew-00143,CHLA,mg/m3,176
+ew-00143,CYANOTOT,mm3/L,25
+ew-00143,ECOLI,#/100 mL,54
+ew-00143,NH4N,mg/L,176
+ew-00143,Secchi,m,164
+ew-00143,TN,mg/m3,176
+ew-00143,TP,mg/m3,176
+ew-00143,pH,-log[H+],176
+ew-00144,CHLA,mg/m3,90
+ew-00144,CYANOTOT,mm3/L,35
+ew-00144,ECOLI,#/100 mL,49
+ew-00144,NH4N,mg/L,90
+ew-00144,Secchi,m,78
+ew-00144,TN,mg/m3,90
+ew-00144,TP,mg/m3,90
+ew-00144,pH,-log[H+],90
+ew-00145,CHLA,mg/m3,184
+ew-00145,CYANOTOT,mm3/L,37
+ew-00145,ECOLI,#/100 mL,57
+ew-00145,NH4N,mg/L,184
+ew-00145,Secchi,m,167
+ew-00145,TN,mg/m3,184
+ew-00145,TP,mg/m3,184
+ew-00145,pH,-log[H+],184
+ew-00146,CHLA,mg/m3,152
+ew-00146,CYANOTOT,mm3/L,104
+ew-00146,ECOLI,#/100 mL,58
+ew-00146,NH4N,mg/L,153
+ew-00146,Secchi,m,138
+ew-00146,TN,mg/m3,153
+ew-00146,TP,mg/m3,153
+ew-00146,pH,-log[H+],154
+ew-00147,CHLA,mg/m3,142
+ew-00147,CYANOTOT,mm3/L,119
+ew-00147,ECOLI,#/100 mL,56
+ew-00147,NH4N,mg/L,143
+ew-00147,Secchi,m,130
+ew-00147,TN,mg/m3,143
+ew-00147,TP,mg/m3,143
+ew-00147,pH,-log[H+],145
+ew-00149,CHLA,mg/m3,181
+ew-00149,CYANOTOT,mm3/L,37
+ew-00149,ECOLI,#/100 mL,57
+ew-00149,NH4N,mg/L,181
+ew-00149,Secchi,m,163
+ew-00149,TN,mg/m3,181
+ew-00149,TP,mg/m3,181
+ew-00149,pH,-log[H+],181
+ew-00150,CHLA,mg/m3,95
+ew-00150,CYANOTOT,mm3/L,34
+ew-00150,ECOLI,#/100 mL,56
+ew-00150,NH4N,mg/L,95
+ew-00150,Secchi,m,80
+ew-00150,TN,mg/m3,95
+ew-00150,TP,mg/m3,95
+ew-00150,pH,-log[H+],95
+ew-00151,CHLA,mg/m3,136
+ew-00151,CYANOTOT,mm3/L,118
+ew-00151,ECOLI,#/100 mL,56
+ew-00151,NH4N,mg/L,136
+ew-00151,Secchi,m,125
+ew-00151,TN,mg/m3,136
+ew-00151,TP,mg/m3,136
+ew-00151,pH,-log[H+],138
+ew-00164,CHLA,mg/m3,112
+ew-00164,CYANOTOT,mm3/L,16
+ew-00164,ECOLI,#/100 mL,30
+ew-00164,NH4N,mg/L,112
+ew-00164,Secchi,m,89
+ew-00164,TN,mg/m3,112
+ew-00164,TP,mg/m3,112
+ew-00164,pH,-log[H+],112
+gw-00257,CHLA,mg/m3,151
+gw-00257,ECOLI,#/100 mL,27
+gw-00257,NH4N,mg/L,151
+gw-00257,Secchi,m,136
+gw-00257,TN,mg/m3,151
+gw-00257,TP,mg/m3,151
+gw-00257,pH,-log[H+],151
+gw-00258,CHLA,mg/m3,136
+gw-00258,ECOLI,#/100 mL,25
+gw-00258,NH4N,mg/L,136
+gw-00258,Secchi,m,132
+gw-00258,TN,mg/m3,136
+gw-00258,TP,mg/m3,136
+gw-00258,pH,-log[H+],136
+gw-00262,CHLA,mg/m3,75
+gw-00262,NH4N,mg/L,76
+gw-00262,Secchi,m,75
+gw-00262,TN,mg/m3,76
+gw-00262,TP,mg/m3,76
+gw-00262,pH,-log[H+],76
+gw-00263,CHLA,mg/m3,97
+gw-00263,NH4N,mg/L,97
+gw-00263,Secchi,m,93
+gw-00263,TN,mg/m3,97
+gw-00263,TP,mg/m3,97
+gw-00263,pH,-log[H+],97
+hbrc-00170,CHLA,mg/m3,110
+hbrc-00170,CYANOTOT,mm3/L,15
+hbrc-00170,ECOLI,#/100 mL,89
+hbrc-00170,NH4N,mg/L,103
+hbrc-00170,Secchi,m,93
+hbrc-00170,TN,mg/m3,103
+hbrc-00170,TP,mg/m3,103
+hbrc-00170,pH,-log[H+],103
+hbrc-00171,CHLA,mg/m3,120
+hbrc-00171,CYANOTOT,mm3/L,23
+hbrc-00171,ECOLI,#/100 mL,110
+hbrc-00171,NH4N,mg/L,120
+hbrc-00171,Secchi,m,104
+hbrc-00171,TN,mg/m3,120
+hbrc-00171,TP,mg/m3,120
+hbrc-00171,pH,-log[H+],120
+hbrc-00176,CHLA,mg/m3,194
+hbrc-00176,CYANOTOT,mm3/L,21
+hbrc-00176,ECOLI,#/100 mL,155
+hbrc-00176,NH4N,mg/L,172
+hbrc-00176,Secchi,m,149
+hbrc-00176,TN,mg/m3,172
+hbrc-00176,TP,mg/m3,172
+hbrc-00176,pH,-log[H+],197
+hrc-00329,CHLA,mg/m3,32
+hrc-00329,CYANOTOT,mm3/L,20
+hrc-00329,CYANOTOX,mm3/L,20
+hrc-00329,ECOLI,#/100 mL,29
+hrc-00329,NH4N,mg/L,32
+hrc-00329,TN,mg/m3,32
+hrc-00329,TP,mg/m3,32
+hrc-00329,pH,-log[H+],20
+hrc-00331,CHLA,mg/m3,59
+hrc-00331,CYANOTOT,mm3/L,35
+hrc-00331,CYANOTOX,mm3/L,35
+hrc-00331,ECOLI,#/100 mL,59
+hrc-00331,NH4N,mg/L,59
+hrc-00331,Secchi,m,53
+hrc-00331,TN,mg/m3,59
+hrc-00331,TP,mg/m3,59
+hrc-00331,pH,-log[H+],36
+hrc-00332,CHLA,mg/m3,41
+hrc-00332,CYANOTOT,mm3/L,20
+hrc-00332,CYANOTOX,mm3/L,20
+hrc-00332,ECOLI,#/100 mL,37
+hrc-00332,NH4N,mg/L,41
+hrc-00332,TN,mg/m3,41
+hrc-00332,TP,mg/m3,41
+hrc-00332,pH,-log[H+],20
+hrc-00333,CHLA,mg/m3,89
+hrc-00333,CYANOTOT,mm3/L,30
+hrc-00333,CYANOTOX,mm3/L,30
+hrc-00333,ECOLI,#/100 mL,88
+hrc-00333,NH4N,mg/L,89
+hrc-00333,Secchi,m,66
+hrc-00333,TN,mg/m3,89
+hrc-00333,TP,mg/m3,89
+hrc-00333,pH,-log[H+],30
+hrc-00335,CHLA,mg/m3,57
+hrc-00335,CYANOTOT,mm3/L,37
+hrc-00335,CYANOTOX,mm3/L,37
+hrc-00335,ECOLI,#/100 mL,54
+hrc-00335,NH4N,mg/L,56
+hrc-00335,Secchi,m,49
+hrc-00335,TN,mg/m3,57
+hrc-00335,TP,mg/m3,57
+hrc-00335,pH,-log[H+],39
+hrc-00337,CHLA,mg/m3,58
+hrc-00337,CYANOTOT,mm3/L,38
+hrc-00337,CYANOTOX,mm3/L,38
+hrc-00337,ECOLI,#/100 mL,58
+hrc-00337,NH4N,mg/L,58
+hrc-00337,Secchi,m,51
+hrc-00337,TN,mg/m3,58
+hrc-00337,TP,mg/m3,58
+hrc-00337,pH,-log[H+],38
+hrc-00339,CHLA,mg/m3,35
+hrc-00339,CYANOTOT,mm3/L,17
+hrc-00339,CYANOTOX,mm3/L,17
+hrc-00339,ECOLI,#/100 mL,33
+hrc-00339,NH4N,mg/L,36
+hrc-00339,TN,mg/m3,36
+hrc-00339,TP,mg/m3,36
+hrc-00339,pH,-log[H+],20
+hrc-00341,CHLA,mg/m3,39
+hrc-00341,CYANOTOT,mm3/L,16
+hrc-00341,CYANOTOX,mm3/L,16
+hrc-00341,ECOLI,#/100 mL,36
+hrc-00341,NH4N,mg/L,38
+hrc-00341,TN,mg/m3,39
+hrc-00341,TP,mg/m3,39
+hrc-00341,pH,-log[H+],20
+hrc-00342,CHLA,mg/m3,38
+hrc-00342,CYANOTOT,mm3/L,16
+hrc-00342,CYANOTOX,mm3/L,16
+hrc-00342,ECOLI,#/100 mL,35
+hrc-00342,NH4N,mg/L,38
+hrc-00342,TN,mg/m3,38
+hrc-00342,TP,mg/m3,38
+hrc-00342,pH,-log[H+],20
+lawa-100207,CHLA,mg/m3,0
+lawa-100207,ECOLI,#/100 mL,0
+lawa-100207,NH4N,mg/L,0
+lawa-100207,Secchi,m,0
+lawa-100207,TN,mg/m3,0
+lawa-100207,TP,mg/m3,0
+lawa-100207,pH,-log[H+],0
+lawa-100208,CHLA,mg/m3,0
+lawa-100208,CYANOTOT,mm3/L,0
+lawa-100208,ECOLI,#/100 mL,0
+lawa-100208,NH4N,mg/L,0
+lawa-100208,Secchi,m,0
+lawa-100208,TN,mg/m3,0
+lawa-100208,TP,mg/m3,0
+lawa-100208,pH,-log[H+],0
+lawa-100209,CHLA,mg/m3,0
+lawa-100209,ECOLI,#/100 mL,0
+lawa-100209,NH4N,mg/L,0
+lawa-100209,Secchi,m,0
+lawa-100209,TN,mg/m3,0
+lawa-100209,TP,mg/m3,0
+lawa-100209,pH,-log[H+],0
+lawa-100210,CHLA,mg/m3,0
+lawa-100210,CYANOTOT,mm3/L,0
+lawa-100210,ECOLI,#/100 mL,0
+lawa-100210,NH4N,mg/L,0
+lawa-100210,Secchi,m,0
+lawa-100210,TN,mg/m3,0
+lawa-100210,TP,mg/m3,0
+lawa-100210,pH,-log[H+],0
+lawa-100211,CHLA,mg/m3,0
+lawa-100211,CYANOTOT,mm3/L,0
+lawa-100211,NH4N,mg/L,0
+lawa-100211,Secchi,m,0
+lawa-100211,TN,mg/m3,0
+lawa-100211,TP,mg/m3,0
+lawa-100211,pH,-log[H+],0
+lawa-100213,CHLA,mg/m3,0
+lawa-100213,NH4N,mg/L,0
+lawa-100213,Secchi,m,0
+lawa-100213,TN,mg/m3,0
+lawa-100213,TP,mg/m3,0
+lawa-100213,pH,-log[H+],0
+lawa-100215,CHLA,mg/m3,0
+lawa-100215,ECOLI,#/100 mL,0
+lawa-100215,NH4N,mg/L,0
+lawa-100215,Secchi,m,0
+lawa-100215,TN,mg/m3,0
+lawa-100215,TP,mg/m3,0
+lawa-100215,pH,-log[H+],0
+lawa-100243,CHLA,mg/m3,72
+lawa-100243,CYANOTOT,mm3/L,22
+lawa-100243,ECOLI,#/100 mL,46
+lawa-100243,NH4N,mg/L,70
+lawa-100243,Secchi,m,49
+lawa-100243,TN,mg/m3,73
+lawa-100243,TP,mg/m3,73
+lawa-100243,pH,-log[H+],88
+lawa-100250,CHLA,mg/m3,38
+lawa-100250,CYANOTOT,mm3/L,20
+lawa-100250,CYANOTOX,mm3/L,20
+lawa-100250,ECOLI,#/100 mL,35
+lawa-100250,NH4N,mg/L,38
+lawa-100250,TN,mg/m3,38
+lawa-100250,TP,mg/m3,38
+lawa-100250,pH,-log[H+],20
+lawa-100263,CHLA,mg/m3,0
+lawa-100263,NH4N,mg/L,0
+lawa-100263,Secchi,m,0
+lawa-100263,TN,mg/m3,0
+lawa-100263,TP,mg/m3,0
+lawa-100263,pH,-log[H+],0
+lawa-100264,CHLA,mg/m3,0
+lawa-100264,NH4N,mg/L,0
+lawa-100264,Secchi,m,0
+lawa-100264,TN,mg/m3,0
+lawa-100264,TP,mg/m3,0
+lawa-100264,pH,-log[H+],0
+lawa-100266,CHLA,mg/m3,0
+lawa-100266,CYANOTOT,mm3/L,0
+lawa-100266,NH4N,mg/L,0
+lawa-100266,Secchi,m,0
+lawa-100266,TN,mg/m3,0
+lawa-100266,TP,mg/m3,0
+lawa-100266,pH,-log[H+],0
+lawa-101982,CHLA,mg/m3,32
+lawa-101982,CYANOTOT,mm3/L,10
+lawa-101982,CYANOTOX,mm3/L,9
+lawa-101982,TN,mg/m3,32
+lawa-101982,TP,mg/m3,32
+lawa-101983,CHLA,mg/m3,36
+lawa-101983,TN,mg/m3,36
+lawa-101983,TP,mg/m3,36
+lawa-101984,CHLA,mg/m3,164
+lawa-101984,ECOLI,#/100 mL,113
+lawa-101984,pH,-log[H+],99
+lawa-101985,CHLA,mg/m3,164
+lawa-101985,ECOLI,#/100 mL,113
+lawa-101985,pH,-log[H+],98
+lawa-102219,CHLA,mg/m3,0
+lawa-102219,ECOLI,#/100 mL,0
+lawa-102219,NH4N,mg/L,0
+lawa-102219,Secchi,m,0
+lawa-102219,TN,mg/m3,0
+lawa-102219,TP,mg/m3,0
+lawa-102219,pH,-log[H+],0
+lawa-102220,CHLA,mg/m3,0
+lawa-102220,ECOLI,#/100 mL,0
+lawa-102220,NH4N,mg/L,0
+lawa-102220,Secchi,m,0
+lawa-102220,TN,mg/m3,0
+lawa-102220,TP,mg/m3,0
+lawa-102220,pH,-log[H+],0
+lawa-102221,CHLA,mg/m3,0
+lawa-102221,CYANOTOT,mm3/L,0
+lawa-102221,ECOLI,#/100 mL,0
+lawa-102221,NH4N,mg/L,0
+lawa-102221,Secchi,m,0
+lawa-102221,TN,mg/m3,0
+lawa-102221,TP,mg/m3,0
+lawa-102221,pH,-log[H+],0
+lawa-102303,CHLA,mg/m3,77
+lawa-102303,CYANOTOT,mm3/L,36
+lawa-102303,ECOLI,#/100 mL,57
+lawa-102303,NH4N,mg/L,77
+lawa-102303,Secchi,m,76
+lawa-102303,TN,mg/m3,77
+lawa-102303,TP,mg/m3,77
+lawa-102303,pH,-log[H+],77
+lawa-102304,CHLA,mg/m3,78
+lawa-102304,CYANOTOT,mm3/L,36
+lawa-102304,ECOLI,#/100 mL,56
+lawa-102304,NH4N,mg/L,78
+lawa-102304,Secchi,m,75
+lawa-102304,TN,mg/m3,78
+lawa-102304,TP,mg/m3,78
+lawa-102304,pH,-log[H+],78
+lawa-102305,CHLA,mg/m3,81
+lawa-102305,CYANOTOT,mm3/L,35
+lawa-102305,ECOLI,#/100 mL,58
+lawa-102305,NH4N,mg/L,81
+lawa-102305,Secchi,m,78
+lawa-102305,TN,mg/m3,81
+lawa-102305,TP,mg/m3,81
+lawa-102305,pH,-log[H+],81
+lawa-102308,CHLA,mg/m3,32
+lawa-102308,CYANOTOT,mm3/L,21
+lawa-102308,CYANOTOX,mm3/L,21
+lawa-102308,ECOLI,#/100 mL,30
+lawa-102308,NH4N,mg/L,31
+lawa-102308,TN,mg/m3,33
+lawa-102308,TP,mg/m3,33
+lawa-102308,pH,-log[H+],20
+lawa-102686,CHLA,mg/m3,73
+lawa-102686,ECOLI,#/100 mL,34
+lawa-102686,NH4N,mg/L,73
+lawa-102686,Secchi,m,73
+lawa-102686,TN,mg/m3,73
+lawa-102686,TP,mg/m3,69
+lawa-102686,pH,-log[H+],55
+lawa-102687,CHLA,mg/m3,72
+lawa-102687,ECOLI,#/100 mL,33
+lawa-102687,NH4N,mg/L,72
+lawa-102687,Secchi,m,71
+lawa-102687,TN,mg/m3,72
+lawa-102687,TP,mg/m3,72
+lawa-102687,pH,-log[H+],56
+lawa-102688,CHLA,mg/m3,74
+lawa-102688,ECOLI,#/100 mL,35
+lawa-102688,NH4N,mg/L,74
+lawa-102688,Secchi,m,72
+lawa-102688,TN,mg/m3,74
+lawa-102688,TP,mg/m3,74
+lawa-102688,pH,-log[H+],58
+lawa-102689,CHLA,mg/m3,53
+lawa-102689,ECOLI,#/100 mL,53
+lawa-102689,NH4N,mg/L,53
+lawa-102689,Secchi,m,51
+lawa-102689,TN,mg/m3,53
+lawa-102689,TP,mg/m3,53
+lawa-102689,pH,-log[H+],32
+lawa-102705,CHLA,mg/m3,50
+lawa-102705,CYANOTOT,mm3/L,23
+lawa-102705,ECOLI,#/100 mL,37
+lawa-102705,NH4N,mg/L,51
+lawa-102705,Secchi,m,31
+lawa-102705,TN,mg/m3,51
+lawa-102705,TP,mg/m3,51
+lawa-102705,pH,-log[H+],51
+lawa-102706,CHLA,mg/m3,73
+lawa-102706,CYANOTOT,mm3/L,24
+lawa-102706,ECOLI,#/100 mL,48
+lawa-102706,NH4N,mg/L,73
+lawa-102706,Secchi,m,51
+lawa-102706,TN,mg/m3,74
+lawa-102706,TP,mg/m3,74
+lawa-102706,pH,-log[H+],87
+lawa-102707,CHLA,mg/m3,55
+lawa-102707,CYANOTOT,mm3/L,24
+lawa-102707,ECOLI,#/100 mL,40
+lawa-102707,NH4N,mg/L,61
+lawa-102707,Secchi,m,22
+lawa-102707,TN,mg/m3,127
+lawa-102707,TP,mg/m3,127
+lawa-102707,pH,-log[H+],64
+lawa-102708,CHLA,mg/m3,34
+lawa-102708,CYANOTOT,mm3/L,20
+lawa-102708,CYANOTOX,mm3/L,20
+lawa-102708,ECOLI,#/100 mL,31
+lawa-102708,NH4N,mg/L,34
+lawa-102708,TN,mg/m3,34
+lawa-102708,TP,mg/m3,34
+lawa-102708,pH,-log[H+],20
+lawa-102709,CHLA,mg/m3,35
+lawa-102709,CYANOTOT,mm3/L,20
+lawa-102709,CYANOTOX,mm3/L,20
+lawa-102709,ECOLI,#/100 mL,32
+lawa-102709,NH4N,mg/L,35
+lawa-102709,TN,mg/m3,35
+lawa-102709,TP,mg/m3,35
+lawa-102709,pH,-log[H+],21
+lawa-102710,CHLA,mg/m3,36
+lawa-102710,CYANOTOT,mm3/L,16
+lawa-102710,CYANOTOX,mm3/L,16
+lawa-102710,ECOLI,#/100 mL,33
+lawa-102710,NH4N,mg/L,36
+lawa-102710,TN,mg/m3,36
+lawa-102710,TP,mg/m3,36
+lawa-102710,pH,-log[H+],20
+lawa-102711,CHLA,mg/m3,36
+lawa-102711,CYANOTOT,mm3/L,16
+lawa-102711,CYANOTOX,mm3/L,16
+lawa-102711,ECOLI,#/100 mL,36
+lawa-102711,NH4N,mg/L,36
+lawa-102711,TN,mg/m3,36
+lawa-102711,TP,mg/m3,36
+lawa-102711,pH,-log[H+],22
+lawa-102765,CHLA,mg/m3,73
+lawa-102765,ECOLI,#/100 mL,35
+lawa-102765,NH4N,mg/L,73
+lawa-102765,Secchi,m,73
+lawa-102765,TN,mg/m3,73
+lawa-102765,TP,mg/m3,74
+lawa-102765,pH,-log[H+],58
+lawa-102882,CHLA,mg/m3,342
+lawa-102882,NH4N,mg/L,342
+lawa-102882,Secchi,m,338
+lawa-102882,TN,mg/m3,533
+lawa-102882,TP,mg/m3,342
+lawa-103413,CHLA,mg/m3,33
+lawa-103413,CYANOTOT,mm3/L,13
+lawa-103413,ECOLI,#/100 mL,33
+lawa-103413,NH4N,mg/L,33
+lawa-103413,Secchi,m,30
+lawa-103413,TN,mg/m3,33
+lawa-103413,TP,mg/m3,33
+lawa-103413,pH,-log[H+],33
+lawa-103414,CHLA,mg/m3,36
+lawa-103414,CYANOTOT,mm3/L,14
+lawa-103414,ECOLI,#/100 mL,35
+lawa-103414,NH4N,mg/L,36
+lawa-103414,Secchi,m,34
+lawa-103414,TN,mg/m3,36
+lawa-103414,TP,mg/m3,36
+lawa-103414,pH,-log[H+],36
+lawa-103415,CHLA,mg/m3,40
+lawa-103415,CYANOTOT,mm3/L,18
+lawa-103415,ECOLI,#/100 mL,37
+lawa-103415,NH4N,mg/L,40
+lawa-103415,Secchi,m,40
+lawa-103415,TN,mg/m3,40
+lawa-103415,TP,mg/m3,40
+lawa-103415,pH,-log[H+],40
+lawa-103416,CHLA,mg/m3,34
+lawa-103416,CYANOTOT,mm3/L,17
+lawa-103416,ECOLI,#/100 mL,34
+lawa-103416,NH4N,mg/L,34
+lawa-103416,Secchi,m,34
+lawa-103416,TN,mg/m3,34
+lawa-103416,TP,mg/m3,34
+lawa-103416,pH,-log[H+],34
+lawa-103417,CHLA,mg/m3,17
+lawa-103417,CYANOTOT,mm3/L,8
+lawa-103417,ECOLI,#/100 mL,17
+lawa-103417,NH4N,mg/L,17
+lawa-103417,Secchi,m,17
+lawa-103417,TN,mg/m3,17
+lawa-103417,TP,mg/m3,17
+lawa-103417,pH,-log[H+],17
+lawa-103418,CHLA,mg/m3,45
+lawa-103418,CYANOTOT,mm3/L,18
+lawa-103418,ECOLI,#/100 mL,38
+lawa-103418,NH4N,mg/L,46
+lawa-103418,Secchi,m,40
+lawa-103418,TN,mg/m3,46
+lawa-103418,TP,mg/m3,46
+lawa-103418,pH,-log[H+],46
+lawa-103419,CHLA,mg/m3,38
+lawa-103419,CYANOTOT,mm3/L,34
+lawa-103419,ECOLI,#/100 mL,37
+lawa-103419,NH4N,mg/L,37
+lawa-103419,Secchi,m,36
+lawa-103419,TN,mg/m3,37
+lawa-103419,TP,mg/m3,37
+lawa-103419,pH,-log[H+],39
+lawa-103420,CHLA,mg/m3,30
+lawa-103420,CYANOTOT,mm3/L,13
+lawa-103420,ECOLI,#/100 mL,29
+lawa-103420,NH4N,mg/L,30
+lawa-103420,Secchi,m,28
+lawa-103420,TN,mg/m3,30
+lawa-103420,TP,mg/m3,30
+lawa-103420,pH,-log[H+],30
+lawa-103421,CHLA,mg/m3,37
+lawa-103421,CYANOTOT,mm3/L,18
+lawa-103421,ECOLI,#/100 mL,37
+lawa-103421,NH4N,mg/L,37
+lawa-103421,Secchi,m,37
+lawa-103421,TN,mg/m3,37
+lawa-103421,TP,mg/m3,37
+lawa-103421,pH,-log[H+],37
+lawa-103422,CHLA,mg/m3,22
+lawa-103422,CYANOTOT,mm3/L,11
+lawa-103422,ECOLI,#/100 mL,22
+lawa-103422,NH4N,mg/L,22
+lawa-103422,Secchi,m,22
+lawa-103422,TN,mg/m3,22
+lawa-103422,TP,mg/m3,22
+lawa-103422,pH,-log[H+],22
+lawa-103423,CHLA,mg/m3,33
+lawa-103423,CYANOTOT,mm3/L,17
+lawa-103423,ECOLI,#/100 mL,33
+lawa-103423,NH4N,mg/L,33
+lawa-103423,Secchi,m,24
+lawa-103423,TN,mg/m3,33
+lawa-103423,TP,mg/m3,33
+lawa-103423,pH,-log[H+],33
+lawa-103424,CHLA,mg/m3,41
+lawa-103424,CYANOTOT,mm3/L,19
+lawa-103424,ECOLI,#/100 mL,39
+lawa-103424,NH4N,mg/L,41
+lawa-103424,Secchi,m,39
+lawa-103424,TN,mg/m3,41
+lawa-103424,TP,mg/m3,41
+lawa-103424,pH,-log[H+],41
+lawa-103425,CHLA,mg/m3,39
+lawa-103425,CYANOTOT,mm3/L,19
+lawa-103425,ECOLI,#/100 mL,38
+lawa-103425,NH4N,mg/L,39
+lawa-103425,Secchi,m,38
+lawa-103425,TN,mg/m3,39
+lawa-103425,TP,mg/m3,39
+lawa-103425,pH,-log[H+],39
+lawa-103426,CHLA,mg/m3,37
+lawa-103426,CYANOTOT,mm3/L,17
+lawa-103426,ECOLI,#/100 mL,37
+lawa-103426,NH4N,mg/L,37
+lawa-103426,Secchi,m,36
+lawa-103426,TN,mg/m3,37
+lawa-103426,TP,mg/m3,37
+lawa-103426,pH,-log[H+],37
+lawa-103427,CHLA,mg/m3,39
+lawa-103427,CYANOTOT,mm3/L,19
+lawa-103427,ECOLI,#/100 mL,38
+lawa-103427,NH4N,mg/L,39
+lawa-103427,Secchi,m,36
+lawa-103427,TN,mg/m3,39
+lawa-103427,TP,mg/m3,39
+lawa-103427,pH,-log[H+],39
+lawa-103428,CHLA,mg/m3,8
+lawa-103428,CYANOTOT,mm3/L,5
+lawa-103428,ECOLI,#/100 mL,8
+lawa-103428,NH4N,mg/L,8
+lawa-103428,Secchi,m,7
+lawa-103428,TN,mg/m3,8
+lawa-103428,TP,mg/m3,8
+lawa-103428,pH,-log[H+],8
+lawa-103429,CHLA,mg/m3,35
+lawa-103429,CYANOTOT,mm3/L,25
+lawa-103429,ECOLI,#/100 mL,35
+lawa-103429,NH4N,mg/L,35
+lawa-103429,Secchi,m,34
+lawa-103429,TN,mg/m3,35
+lawa-103429,TP,mg/m3,35
+lawa-103429,pH,-log[H+],35
+lawa-103430,CHLA,mg/m3,31
+lawa-103430,CYANOTOT,mm3/L,17
+lawa-103430,ECOLI,#/100 mL,31
+lawa-103430,NH4N,mg/L,31
+lawa-103430,Secchi,m,28
+lawa-103430,TN,mg/m3,31
+lawa-103430,TP,mg/m3,31
+lawa-103430,pH,-log[H+],31
+lawa-103431,CHLA,mg/m3,28
+lawa-103431,CYANOTOT,mm3/L,14
+lawa-103431,ECOLI,#/100 mL,28
+lawa-103431,NH4N,mg/L,28
+lawa-103431,Secchi,m,26
+lawa-103431,TN,mg/m3,28
+lawa-103431,TP,mg/m3,28
+lawa-103431,pH,-log[H+],28
+lawa-103432,CHLA,mg/m3,34
+lawa-103432,CYANOTOT,mm3/L,18
+lawa-103432,ECOLI,#/100 mL,33
+lawa-103432,NH4N,mg/L,34
+lawa-103432,Secchi,m,34
+lawa-103432,TN,mg/m3,34
+lawa-103432,TP,mg/m3,34
+lawa-103432,pH,-log[H+],34
+lawa-103433,CHLA,mg/m3,37
+lawa-103433,CYANOTOT,mm3/L,16
+lawa-103433,ECOLI,#/100 mL,37
+lawa-103433,NH4N,mg/L,37
+lawa-103433,Secchi,m,37
+lawa-103433,TN,mg/m3,37
+lawa-103433,TP,mg/m3,37
+lawa-103433,pH,-log[H+],37
+lawa-103434,CYANOTOT,mm3/L,13
+lawa-103435,CHLA,mg/m3,38
+lawa-103435,CYANOTOT,mm3/L,17
+lawa-103435,ECOLI,#/100 mL,38
+lawa-103435,NH4N,mg/L,38
+lawa-103435,Secchi,m,38
+lawa-103435,TN,mg/m3,38
+lawa-103435,TP,mg/m3,38
+lawa-103435,pH,-log[H+],38
+lawa-103436,CHLA,mg/m3,37
+lawa-103436,CYANOTOT,mm3/L,17
+lawa-103436,ECOLI,#/100 mL,36
+lawa-103436,NH4N,mg/L,37
+lawa-103436,Secchi,m,37
+lawa-103436,TN,mg/m3,37
+lawa-103436,TP,mg/m3,37
+lawa-103436,pH,-log[H+],37
+lawa-103437,CHLA,mg/m3,21
+lawa-103437,CYANOTOT,mm3/L,7
+lawa-103437,ECOLI,#/100 mL,21
+lawa-103437,NH4N,mg/L,21
+lawa-103437,Secchi,m,20
+lawa-103437,TN,mg/m3,21
+lawa-103437,TP,mg/m3,21
+lawa-103437,pH,-log[H+],21
+lawa-103482,CHLA,mg/m3,7
+lawa-103482,ECOLI,#/100 mL,139
+lawa-103482,NH4N,mg/L,23
+lawa-103482,TN,mg/m3,23
+lawa-103482,TP,mg/m3,23
+lawa-103482,pH,-log[H+],22
+lawa-103494,ECOLI,#/100 mL,16
+lawa-103569,CHLA,mg/m3,58
+lawa-103569,CYANOTOT,mm3/L,9
+lawa-103569,CYANOTOX,mm3/L,9
+lawa-103569,ECOLI,#/100 mL,58
+lawa-103569,NH4N,mg/L,58
+lawa-103569,Secchi,m,32
+lawa-103569,TN,mg/m3,58
+lawa-103569,TP,mg/m3,58
+lawa-103569,pH,-log[H+],58
+nrc-00071,CHLA,mg/m3,66
+nrc-00071,ECOLI,#/100 mL,6
+nrc-00071,NH4N,mg/L,64
+nrc-00071,Secchi,m,64
+nrc-00071,TN,mg/m3,68
+nrc-00071,TP,mg/m3,68
+nrc-00071,pH,-log[H+],66
+nrc-00072,CHLA,mg/m3,65
+nrc-00072,ECOLI,#/100 mL,6
+nrc-00072,NH4N,mg/L,62
+nrc-00072,Secchi,m,63
+nrc-00072,TN,mg/m3,65
+nrc-00072,TP,mg/m3,65
+nrc-00072,pH,-log[H+],64
+nrc-00073,CHLA,mg/m3,70
+nrc-00073,ECOLI,#/100 mL,18
+nrc-00073,NH4N,mg/L,70
+nrc-00073,Secchi,m,69
+nrc-00073,TN,mg/m3,72
+nrc-00073,TP,mg/m3,68
+nrc-00073,pH,-log[H+],69
+nrc-00074,CHLA,mg/m3,53
+nrc-00074,ECOLI,#/100 mL,6
+nrc-00074,NH4N,mg/L,56
+nrc-00074,Secchi,m,53
+nrc-00074,TN,mg/m3,56
+nrc-00074,TP,mg/m3,55
+nrc-00074,pH,-log[H+],54
+nrc-00075,CHLA,mg/m3,75
+nrc-00075,ECOLI,#/100 mL,19
+nrc-00075,NH4N,mg/L,76
+nrc-00075,Secchi,m,76
+nrc-00075,TN,mg/m3,77
+nrc-00075,TP,mg/m3,77
+nrc-00075,pH,-log[H+],74
+nrc-00076,CHLA,mg/m3,72
+nrc-00076,ECOLI,#/100 mL,19
+nrc-00076,NH4N,mg/L,72
+nrc-00076,Secchi,m,71
+nrc-00076,TN,mg/m3,76
+nrc-00076,TP,mg/m3,76
+nrc-00076,pH,-log[H+],75
+nrc-00077,CHLA,mg/m3,54
+nrc-00077,ECOLI,#/100 mL,2
+nrc-00077,NH4N,mg/L,53
+nrc-00077,Secchi,m,55
+nrc-00077,TN,mg/m3,54
+nrc-00077,TP,mg/m3,52
+nrc-00077,pH,-log[H+],55
+nrc-00078,CHLA,mg/m3,72
+nrc-00078,ECOLI,#/100 mL,19
+nrc-00078,NH4N,mg/L,74
+nrc-00078,Secchi,m,74
+nrc-00078,TN,mg/m3,76
+nrc-00078,TP,mg/m3,76
+nrc-00078,pH,-log[H+],74
+nrc-00079,CHLA,mg/m3,75
+nrc-00079,ECOLI,#/100 mL,18
+nrc-00079,NH4N,mg/L,75
+nrc-00079,Secchi,m,75
+nrc-00079,TN,mg/m3,76
+nrc-00079,TP,mg/m3,76
+nrc-00079,pH,-log[H+],76
+nrc-00080,CHLA,mg/m3,61
+nrc-00080,ECOLI,#/100 mL,4
+nrc-00080,NH4N,mg/L,62
+nrc-00080,Secchi,m,60
+nrc-00080,TN,mg/m3,64
+nrc-00080,TP,mg/m3,64
+nrc-00080,pH,-log[H+],63
+nrc-00081,CHLA,mg/m3,64
+nrc-00081,ECOLI,#/100 mL,6
+nrc-00081,NH4N,mg/L,62
+nrc-00081,Secchi,m,64
+nrc-00081,TN,mg/m3,66
+nrc-00081,TP,mg/m3,66
+nrc-00081,pH,-log[H+],65
+nrc-00082,CHLA,mg/m3,75
+nrc-00082,ECOLI,#/100 mL,19
+nrc-00082,NH4N,mg/L,75
+nrc-00082,Secchi,m,74
+nrc-00082,TN,mg/m3,75
+nrc-00082,TP,mg/m3,75
+nrc-00082,pH,-log[H+],76
+nrc-00083,CHLA,mg/m3,64
+nrc-00083,ECOLI,#/100 mL,6
+nrc-00083,NH4N,mg/L,62
+nrc-00083,Secchi,m,64
+nrc-00083,TN,mg/m3,65
+nrc-00083,TP,mg/m3,65
+nrc-00083,pH,-log[H+],65
+nrc-00084,CHLA,mg/m3,62
+nrc-00084,ECOLI,#/100 mL,18
+nrc-00084,NH4N,mg/L,60
+nrc-00084,Secchi,m,63
+nrc-00084,TN,mg/m3,64
+nrc-00084,TP,mg/m3,60
+nrc-00084,pH,-log[H+],63
+nrc-00085,CHLA,mg/m3,64
+nrc-00085,ECOLI,#/100 mL,6
+nrc-00085,NH4N,mg/L,62
+nrc-00085,Secchi,m,63
+nrc-00085,TN,mg/m3,64
+nrc-00085,TP,mg/m3,64
+nrc-00085,pH,-log[H+],64
+nrc-00086,CHLA,mg/m3,73
+nrc-00086,ECOLI,#/100 mL,19
+nrc-00086,NH4N,mg/L,71
+nrc-00086,Secchi,m,70
+nrc-00086,TN,mg/m3,75
+nrc-00086,TP,mg/m3,75
+nrc-00086,pH,-log[H+],74
+nrc-00087,CHLA,mg/m3,79
+nrc-00087,ECOLI,#/100 mL,19
+nrc-00087,NH4N,mg/L,80
+nrc-00087,Secchi,m,78
+nrc-00087,TN,mg/m3,81
+nrc-00087,TP,mg/m3,81
+nrc-00087,pH,-log[H+],79
+nrc-00088,CHLA,mg/m3,61
+nrc-00088,ECOLI,#/100 mL,6
+nrc-00088,NH4N,mg/L,60
+nrc-00088,Secchi,m,62
+nrc-00088,TN,mg/m3,61
+nrc-00088,TP,mg/m3,61
+nrc-00088,pH,-log[H+],64
+nrc-00089,CHLA,mg/m3,76
+nrc-00089,ECOLI,#/100 mL,18
+nrc-00089,NH4N,mg/L,76
+nrc-00089,Secchi,m,75
+nrc-00089,TN,mg/m3,76
+nrc-00089,TP,mg/m3,76
+nrc-00089,pH,-log[H+],78
+nrc-00090,CHLA,mg/m3,79
+nrc-00090,ECOLI,#/100 mL,19
+nrc-00090,NH4N,mg/L,80
+nrc-00090,Secchi,m,78
+nrc-00090,TN,mg/m3,81
+nrc-00090,TP,mg/m3,81
+nrc-00090,pH,-log[H+],79
+nrc-00091,CHLA,mg/m3,68
+nrc-00091,ECOLI,#/100 mL,17
+nrc-00091,NH4N,mg/L,67
+nrc-00091,Secchi,m,67
+nrc-00091,TN,mg/m3,69
+nrc-00091,TP,mg/m3,68
+nrc-00091,pH,-log[H+],66
+nrc-00092,CHLA,mg/m3,63
+nrc-00092,ECOLI,#/100 mL,5
+nrc-00092,NH4N,mg/L,63
+nrc-00092,Secchi,m,63
+nrc-00092,TN,mg/m3,65
+nrc-00092,TP,mg/m3,65
+nrc-00092,pH,-log[H+],66
+nrc-00093,CHLA,mg/m3,74
+nrc-00093,ECOLI,#/100 mL,17
+nrc-00093,NH4N,mg/L,74
+nrc-00093,Secchi,m,72
+nrc-00093,TN,mg/m3,75
+nrc-00093,TP,mg/m3,75
+nrc-00093,pH,-log[H+],74
+nrc-00094,CHLA,mg/m3,47
+nrc-00094,ECOLI,#/100 mL,6
+nrc-00094,NH4N,mg/L,50
+nrc-00094,Secchi,m,53
+nrc-00094,TN,mg/m3,52
+nrc-00094,TP,mg/m3,52
+nrc-00094,pH,-log[H+],52
+nrc-00096,CHLA,mg/m3,73
+nrc-00096,ECOLI,#/100 mL,17
+nrc-00096,NH4N,mg/L,73
+nrc-00096,Secchi,m,71
+nrc-00096,TN,mg/m3,74
+nrc-00096,TP,mg/m3,74
+nrc-00096,pH,-log[H+],73
+orc-00027,CHLA,mg/m3,166
+orc-00027,ECOLI,#/100 mL,176
+orc-00027,NH4N,mg/L,169
+orc-00027,TN,mg/m3,169
+orc-00027,TP,mg/m3,205
+orc-00027,pH,-log[H+],148
+orc-00028,CHLA,mg/m3,117
+orc-00028,ECOLI,#/100 mL,118
+orc-00028,NH4N,mg/L,118
+orc-00028,TN,mg/m3,116
+orc-00028,TP,mg/m3,128
+orc-00028,pH,-log[H+],96
+orc-00031,CHLA,mg/m3,84
+orc-00031,NH4N,mg/L,85
+orc-00031,TN,mg/m3,84
+orc-00031,TP,mg/m3,85
+orc-00031,pH,-log[H+],79
+orc-00033,CHLA,mg/m3,72
+orc-00033,ECOLI,#/100 mL,72
+orc-00033,NH4N,mg/L,73
+orc-00033,TN,mg/m3,72
+orc-00033,TP,mg/m3,73
+orc-00033,pH,-log[H+],71
+orc-00034,CHLA,mg/m3,126
+orc-00034,ECOLI,#/100 mL,138
+orc-00034,NH4N,mg/L,144
+orc-00034,TN,mg/m3,144
+orc-00034,TP,mg/m3,143
+orc-00034,pH,-log[H+],131
+orc-00035,CHLA,mg/m3,163
+orc-00035,ECOLI,#/100 mL,197
+orc-00035,NH4N,mg/L,198
+orc-00035,TN,mg/m3,198
+orc-00035,TP,mg/m3,198
+orc-00035,pH,-log[H+],167
+orc-00036,CHLA,mg/m3,113
+orc-00036,NH4N,mg/L,117
+orc-00036,TN,mg/m3,117
+orc-00036,TP,mg/m3,117
+orc-00036,pH,-log[H+],107
+orc-00037,CHLA,mg/m3,114
+orc-00037,ECOLI,#/100 mL,116
+orc-00037,NH4N,mg/L,119
+orc-00037,TN,mg/m3,117
+orc-00037,TP,mg/m3,130
+orc-00037,pH,-log[H+],92
+orc-00038,CHLA,mg/m3,114
+orc-00038,ECOLI,#/100 mL,119
+orc-00038,NH4N,mg/L,120
+orc-00038,TN,mg/m3,117
+orc-00038,TP,mg/m3,129
+orc-00038,pH,-log[H+],97
+trc-00051,CHLA,mg/m3,75
+trc-00051,ECOLI,#/100 mL,31
+trc-00051,NH4N,mg/L,76
+trc-00051,Secchi,m,76
+trc-00051,TN,mg/m3,76
+trc-00051,TP,mg/m3,76
+trc-00051,pH,-log[H+],147
+trc-00053,CHLA,mg/m3,74
+trc-00053,ECOLI,#/100 mL,30
+trc-00053,NH4N,mg/L,77
+trc-00053,Secchi,m,76
+trc-00053,TN,mg/m3,76
+trc-00053,TP,mg/m3,77
+trc-00053,pH,-log[H+],147
+wcrc-00064,CHLA,mg/m3,186
+wcrc-00064,ECOLI,#/100 mL,25
+wcrc-00064,NH4N,mg/L,187
+wcrc-00064,Secchi,m,181
+wcrc-00064,TN,mg/m3,186
+wcrc-00064,TP,mg/m3,186
+wcrc-00064,pH,-log[H+],83
+wcrc-00065,CHLA,mg/m3,109
+wcrc-00065,NH4N,mg/L,110
+wcrc-00065,Secchi,m,170
+wcrc-00065,TN,mg/m3,111
+wcrc-00065,TP,mg/m3,111
+wcrc-00065,pH,-log[H+],42
+wcrc-00067,CHLA,mg/m3,75
+wcrc-00067,ECOLI,#/100 mL,12
+wcrc-00067,NH4N,mg/L,75
+wcrc-00067,Secchi,m,77
+wcrc-00067,TN,mg/m3,75
+wcrc-00067,TP,mg/m3,75
